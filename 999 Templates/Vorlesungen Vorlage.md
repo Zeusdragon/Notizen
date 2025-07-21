@@ -1,0 +1,4 @@
+**Vorlesung**: [[]]
+**Datum**: {{date}}
+**Topics**:
+
