@@ -1,0 +1,5 @@
+- Projekte mit cargo new $Projektname erstellen
+- compile Project mit cargo check
+- exe machen mit cargo build
+- exe ausführen mit cargo run
+- wenn fertig dann cargo build --release Programm wird schneller dauert länger zu erstellen wegen Optimierungen

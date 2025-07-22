@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Kälteanlagen/Vorlesungen/101 Vorlesung Komponenten.md",
+                "file": "010 Programming/011 Rust/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101 Vorlesung Komponenten"
+              "title": "Basics"
             }
           }
         ]
@@ -179,11 +179,14 @@
   },
   "active": "f4b91778c588649e",
   "lastOpenFiles": [
+    "010 Programming/011 Rust",
+    "100 Kälteanlagen/Vorlesungen/101 Vorlesung Komponenten.md",
+    "010 Programming/011 Rust/Basics.md",
+    "010 Programming",
     "Excalidraw/Drawing 2025-04-22 19.50.34.excalidraw.md",
     "000 Notizen/ToDo.md",
     "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md",
     "100 Kälteanlagen/Vorlesungen/103 Vorlesung Welches Kältemittel.md",
-    "100 Kälteanlagen/Vorlesungen/102 Vorlesung Sensorik und Schmierstoffe.md",
-    "100 Kälteanlagen/Vorlesungen/101 Vorlesung Komponenten.md"
+    "100 Kälteanlagen/Vorlesungen/102 Vorlesung Sensorik und Schmierstoffe.md"
   ]
 }
