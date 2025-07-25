@@ -54,3 +54,16 @@
 	* Konvektive Kühllast (nur sensibel)
 	* CDD (Cooling Design Day)
 		* CDP tag annäherung
+
+
+## Fragen
+
+- Welchen meteorologischen Einflüssen ist ein Gebäude ausgesetzt?
+
+- Was verstehen Sie unter der Norm-Heizlast eines Gebäudes und wodurch wird er beeinflusst?
+
+- Wofür wird dieser Wert benötigt und wie wird er ermittelt?
+
+- Was unterscheidet den Jahres-Heizwärmebedarf eines Gebäudes von der Heizlast?
+
+- Worin unterscheiden sich die methodischen Berechnungsansätze der (normative) Heizlast- und Kühllastberechnung? Beschreiben Sie die beiden Methoden!

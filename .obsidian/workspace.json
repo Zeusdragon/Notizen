@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010 Programming/011 Rust/Basics.md",
+                "file": "300 Gebäudeenergietechnik/Vorlesungen/314 Elektrotechnik Gebäudeautomatisierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basics"
+              "title": "314 Elektrotechnik Gebäudeautomatisierung"
             }
           }
         ]
@@ -154,8 +154,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -179,11 +179,30 @@
   },
   "active": "f4b91778c588649e",
   "lastOpenFiles": [
+    "300 Gebäudeenergietechnik/Vorlesungen/313 Kühlung Klima.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/311 Trinkwassersysteme.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/310 Druckhaltuing_Sicherheitseinrichtungen_Abgas.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/309 Wärmeverteilung.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/308 Erneuerbare.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/307 Wärmeerzeugung Heizkessel & KWK.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/306 Energetische Anforderungen.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/305 Lüftung.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/314 Elektrotechnik Gebäudeautomatisierung.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/304 Flächenheizung.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/303 Vorlesung Freie Heizflächen.md",
+    "300 Gebäudeenergietechnik/Vorlesungen/302 Vorlesung Meteorologisch + Heiz Kühl.md",
+    "Excalidraw/Pasted image 20250507161525.png",
+    "Excalidraw/Pasted image 20250507161513.png",
+    "Excalidraw/Pasted image 20250507161151.png",
+    "Excalidraw/Pasted image 20250507155944.png",
+    "Excalidraw/Drawing 2025-04-22 19.50.34.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-26 14.51.09.excalidraw.md",
+    "400 Mobile Kälte/Octiovalve.png",
+    "300 Gebäudeenergietechnik/Übungen/Übung 4.md",
+    "010 Programming/011 Rust/Basics.md",
     "010 Programming/011 Rust",
     "100 Kälteanlagen/Vorlesungen/101 Vorlesung Komponenten.md",
-    "010 Programming/011 Rust/Basics.md",
     "010 Programming",
-    "Excalidraw/Drawing 2025-04-22 19.50.34.excalidraw.md",
     "000 Notizen/ToDo.md",
     "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md",
     "100 Kälteanlagen/Vorlesungen/103 Vorlesung Welches Kältemittel.md",
