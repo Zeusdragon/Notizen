@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "313 Kühlung Klima",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/313 Kühlung Klima.md"
+    },
+    {
       "basename": "314 Elektrotechnik Gebäudeautomatisierung",
       "path": "300 Gebäudeenergietechnik/Vorlesungen/314 Elektrotechnik Gebäudeautomatisierung.md"
     },
     {
-      "basename": "313 Kühlung Klima",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/313 Kühlung Klima.md"
+      "basename": "310 Druckhaltuing_Sicherheitseinrichtungen_Abgas",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/310 Druckhaltuing_Sicherheitseinrichtungen_Abgas.md"
     },
     {
       "basename": "311 Trinkwassersysteme",
       "path": "300 Gebäudeenergietechnik/Vorlesungen/311 Trinkwassersysteme.md"
     },
     {
-      "basename": "310 Druckhaltuing_Sicherheitseinrichtungen_Abgas",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/310 Druckhaltuing_Sicherheitseinrichtungen_Abgas.md"
+      "basename": "303 Vorlesung Freie Heizflächen",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/303 Vorlesung Freie Heizflächen.md"
+    },
+    {
+      "basename": "304 Flächenheizung",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/304 Flächenheizung.md"
+    },
+    {
+      "basename": "306 Energetische Anforderungen",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/306 Energetische Anforderungen.md"
+    },
+    {
+      "basename": "305 Lüftung",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/305 Lüftung.md"
+    },
+    {
+      "basename": "302 Vorlesung Meteorologisch + Heiz Kühl",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/302 Vorlesung Meteorologisch + Heiz Kühl.md"
     },
     {
       "basename": "309 Wärmeverteilung",
@@ -29,24 +49,76 @@
       "path": "300 Gebäudeenergietechnik/Vorlesungen/307 Wärmeerzeugung Heizkessel & KWK.md"
     },
     {
-      "basename": "306 Energetische Anforderungen",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/306 Energetische Anforderungen.md"
+      "basename": "Meeting 1",
+      "path": "500 Forschungspraktikum/Meeting 1.md"
     },
     {
-      "basename": "305 Lüftung",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/305 Lüftung.md"
+      "basename": "402 Fahrzeugklimatisierung",
+      "path": "400 Mobile Kälte/402 Fahrzeugklimatisierung.md"
     },
     {
-      "basename": "304 Flächenheizung",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/304 Flächenheizung.md"
+      "basename": "401 NVH",
+      "path": "400 Mobile Kälte/401 NVH.md"
     },
     {
-      "basename": "303 Vorlesung Freie Heizflächen",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/303 Vorlesung Freie Heizflächen.md"
+      "basename": "Pasted image 20250730103612",
+      "path": "400 Mobile Kälte/Pasted image 20250730103612.png"
     },
     {
-      "basename": "302 Vorlesung Meteorologisch + Heiz Kühl",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/302 Vorlesung Meteorologisch + Heiz Kühl.md"
+      "basename": "Pasted image 20250727150719",
+      "path": "Pasted image 20250727150719.png"
+    },
+    {
+      "basename": "107 Vorlesung Flugzeugklimatisierung",
+      "path": "400 Mobile Kälte/107 Vorlesung Flugzeugklimatisierung.md"
+    },
+    {
+      "basename": "405 Kryotechnik",
+      "path": "400 Mobile Kälte/405 Kryotechnik.md"
+    },
+    {
+      "basename": "Octiovalve",
+      "path": "400 Mobile Kälte/Octiovalve.png"
+    },
+    {
+      "basename": "Papers",
+      "path": "400 Mobile Kälte/Papers.md"
+    },
+    {
+      "basename": "Lastenheft",
+      "path": "400 Mobile Kälte/Lastenheft.md"
+    },
+    {
+      "basename": "403 Bahnklima",
+      "path": "400 Mobile Kälte/403 Bahnklima.md"
+    },
+    {
+      "basename": "Pasted image 20250727140050",
+      "path": "300 Gebäudeenergietechnik/Images/Pasted image 20250727140050.png"
+    },
+    {
+      "basename": "Pasted image 20250727142347",
+      "path": "300 Gebäudeenergietechnik/Images/Pasted image 20250727142347.png"
+    },
+    {
+      "basename": "Pasted image 20250727114658",
+      "path": "300 Gebäudeenergietechnik/Images/Pasted image 20250727114658.png"
+    },
+    {
+      "basename": "Pasted image 20250727115436",
+      "path": "300 Gebäudeenergietechnik/Images/Pasted image 20250727115436.png"
+    },
+    {
+      "basename": "Pasted image 20250727135135",
+      "path": "300 Gebäudeenergietechnik/Images/Pasted image 20250727135135.png"
+    },
+    {
+      "basename": "Pasted image 20250727112226",
+      "path": "300 Gebäudeenergietechnik/Images/Pasted image 20250727112226.png"
+    },
+    {
+      "basename": "Pasted image 20250507161151",
+      "path": "Excalidraw/Pasted image 20250507161151.png"
     },
     {
       "basename": "Pasted image 20250507161525",
@@ -55,10 +127,6 @@
     {
       "basename": "Pasted image 20250507161513",
       "path": "Excalidraw/Pasted image 20250507161513.png"
-    },
-    {
-      "basename": "Pasted image 20250507161151",
-      "path": "Excalidraw/Pasted image 20250507161151.png"
     },
     {
       "basename": "Pasted image 20250507155944",
@@ -71,10 +139,6 @@
     {
       "basename": "Drawing 2025-06-26 14.51.09.excalidraw",
       "path": "Excalidraw/Drawing 2025-06-26 14.51.09.excalidraw.md"
-    },
-    {
-      "basename": "Octiovalve",
-      "path": "400 Mobile Kälte/Octiovalve.png"
     },
     {
       "basename": "Übung 4",
@@ -109,16 +173,8 @@
       "path": "100 Kälteanlagen/Vorlesungen/106 Vorlesung Besonderheiten.md"
     },
     {
-      "basename": "107 Vorlesung Flugzeugklimatisierung",
-      "path": "100 Kälteanlagen/Vorlesungen/107 Vorlesung Flugzeugklimatisierung.md"
-    },
-    {
       "basename": "108 Vorlesung Besonderheiten CO2 und H20",
       "path": "100 Kälteanlagen/Vorlesungen/108 Vorlesung Besonderheiten CO2 und H20.md"
-    },
-    {
-      "basename": "405 Kryotechnik",
-      "path": "400 Mobile Kälte/405 Kryotechnik.md"
     },
     {
       "basename": "Beleg Fragen",
@@ -133,32 +189,12 @@
       "path": "400 Mobile Kälte/404 Container Kühlung.md"
     },
     {
-      "basename": "Papers",
-      "path": "400 Mobile Kälte/Papers.md"
-    },
-    {
-      "basename": "403 Bahnklima",
-      "path": "400 Mobile Kälte/403 Bahnklima.md"
-    },
-    {
-      "basename": "Lastenheft",
-      "path": "400 Mobile Kälte/Lastenheft.md"
-    },
-    {
-      "basename": "402 Fahrzeugklimatisierung",
-      "path": "400 Mobile Kälte/402 Fahrzeugklimatisierung.md"
-    },
-    {
       "basename": "1. Beleg Annahmen",
       "path": "100 Kälteanlagen/Beleg/1. Beleg Annahmen.md"
     },
     {
       "basename": "Beleg Info",
       "path": "100 Kälteanlagen/Beleg/Beleg Info.md"
-    },
-    {
-      "basename": "401 NVH",
-      "path": "400 Mobile Kälte/401 NVH.md"
     }
   ],
   "omittedPaths": [],

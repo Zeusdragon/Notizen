@@ -2,18 +2,28 @@
 **Datum**: 25.07.2025
 **Topics**:
 
+
+
+
+
+
+
+
+
+
+
 ## Fragen
 
-- Was sind Bestandteile elektrischer Anlagen in Wohngebäuden?
+- **Was sind Bestandteile elektrischer Anlagen in Wohngebäuden?**
 
-- Skizzieren Sie den Aufbau eines elektrischen Hausanschlusses und nennen Sie wichtige Bemessungsregeln! 
+- **Skizzieren Sie den Aufbau eines elektrischen Hausanschlusses und nennen Sie wichtige Bemessungsregeln!**
 
-- Nennen Sie konkrete Beispiele für elektrische Direktheizungssysteme! 
+- **Nennen Sie konkrete Beispiele für elektrische Direktheizungssysteme!**
 
-- Was verstehen Sie unter Installationszonen in der Elektroinstallation? 
+- **Was verstehen Sie unter Installationszonen in der Elektroinstallation?**
 
-- Was verstehen Sie unter dem Tageslichtfaktor und wie kann die Beleuchtung von Gebäuden erfolgen?
+- **Was verstehen Sie unter dem Tageslichtfaktor und wie kann die Beleuchtung von Gebäuden erfolgen?**
 
-- Nennen Sie lichttechnische Gütegrade! 
+- **Nennen Sie lichttechnische Gütegrade!**
 
-- Welche Aufgabe kommt der Gebäudeautomation zu? Wie sind Gebäudeautomationssysteme grundsätzlich strukturiert ( 4-Ebenen-Hierarchiemodell)?
+- **Welche Aufgabe kommt der Gebäudeautomation zu? Wie sind Gebäudeautomationssysteme grundsätzlich strukturiert ( 4-Ebenen-Hierarchiemodell)?**

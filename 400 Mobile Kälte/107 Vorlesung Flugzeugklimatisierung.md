@@ -73,6 +73,8 @@ Material: Glaswolle für Isolierung (Leichtbau Glaswolle und in Plastik eingesch
 Zapfluft wird Vorgekühlt wird Komprimiert Dann Gekühlt und Anschließend Entspannt
 Vor Entspannung Versuchen Wasserabzuscheiden 
 
+![[Pasted image 20250730103612.png]]
+
 Zapfluft ist die Externe Energiequelle 3 Bar Zapfluft reicht aus
 
 Nur Luft ist Thermodynamisch nicht das optimalste allerdings leicht zu bauen schwer Kältemittel zufinden für die hohen Sicherheitsanforderung
