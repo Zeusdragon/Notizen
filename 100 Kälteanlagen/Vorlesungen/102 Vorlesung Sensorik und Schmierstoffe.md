@@ -16,7 +16,7 @@
 * Schmieren
 * Abführen von Wärme
 * Abdichtung
-* 8-10 mm²/s m9ndestviskoität
+* 8-10 mm²/s mindestviskoität
 * Danielplot angucken
 * Wenn MIschbar 
 	* Strömungsgeschw. angucken das das öl immer mit kommt

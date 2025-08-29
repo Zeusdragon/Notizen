@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Roter Faden",
+      "path": "500 Forschungspraktikum/Roter Faden.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "000 Notizen/Notes.md"
+    },
+    {
+      "basename": "108 Vorlesung Besonderheiten CO2 und H20",
+      "path": "100 Kälteanlagen/Vorlesungen/108 Vorlesung Besonderheiten CO2 und H20.md"
+    },
+    {
+      "basename": "105 Expansionsberechnung",
+      "path": "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md"
+    },
+    {
+      "basename": "106 Vorlesung Besonderheiten",
+      "path": "100 Kälteanlagen/Vorlesungen/106 Vorlesung Besonderheiten.md"
+    },
+    {
+      "basename": "103 Vorlesung Welches Kältemittel",
+      "path": "100 Kälteanlagen/Vorlesungen/103 Vorlesung Welches Kältemittel.md"
+    },
+    {
+      "basename": "102 Vorlesung Sensorik und Schmierstoffe",
+      "path": "100 Kälteanlagen/Vorlesungen/102 Vorlesung Sensorik und Schmierstoffe.md"
+    },
+    {
+      "basename": "101 Vorlesung Komponenten",
+      "path": "100 Kälteanlagen/Vorlesungen/101 Vorlesung Komponenten.md"
+    },
+    {
+      "basename": "309 Wärmeverteilung",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/309 Wärmeverteilung.md"
+    },
+    {
+      "basename": "307 Wärmeerzeugung Heizkessel & KWK",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/307 Wärmeerzeugung Heizkessel & KWK.md"
+    },
+    {
+      "basename": "306 Energetische Anforderungen",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/306 Energetische Anforderungen.md"
+    },
+    {
+      "basename": "305 Lüftung",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/305 Lüftung.md"
+    },
+    {
+      "basename": "304 Flächenheizung",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/304 Flächenheizung.md"
+    },
+    {
+      "basename": "303 Vorlesung Freie Heizflächen",
+      "path": "300 Gebäudeenergietechnik/Vorlesungen/303 Vorlesung Freie Heizflächen.md"
+    },
+    {
       "basename": "313 Kühlung Klima",
       "path": "300 Gebäudeenergietechnik/Vorlesungen/313 Kühlung Klima.md"
     },
@@ -17,36 +73,12 @@
       "path": "300 Gebäudeenergietechnik/Vorlesungen/311 Trinkwassersysteme.md"
     },
     {
-      "basename": "303 Vorlesung Freie Heizflächen",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/303 Vorlesung Freie Heizflächen.md"
-    },
-    {
-      "basename": "304 Flächenheizung",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/304 Flächenheizung.md"
-    },
-    {
-      "basename": "306 Energetische Anforderungen",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/306 Energetische Anforderungen.md"
-    },
-    {
-      "basename": "305 Lüftung",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/305 Lüftung.md"
-    },
-    {
       "basename": "302 Vorlesung Meteorologisch + Heiz Kühl",
       "path": "300 Gebäudeenergietechnik/Vorlesungen/302 Vorlesung Meteorologisch + Heiz Kühl.md"
     },
     {
-      "basename": "309 Wärmeverteilung",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/309 Wärmeverteilung.md"
-    },
-    {
       "basename": "308 Erneuerbare",
       "path": "300 Gebäudeenergietechnik/Vorlesungen/308 Erneuerbare.md"
-    },
-    {
-      "basename": "307 Wärmeerzeugung Heizkessel & KWK",
-      "path": "300 Gebäudeenergietechnik/Vorlesungen/307 Wärmeerzeugung Heizkessel & KWK.md"
     },
     {
       "basename": "Meeting 1",
@@ -149,40 +181,12 @@
       "path": "010 Programming/011 Rust/Basics.md"
     },
     {
-      "basename": "101 Vorlesung Komponenten",
-      "path": "100 Kälteanlagen/Vorlesungen/101 Vorlesung Komponenten.md"
-    },
-    {
       "basename": "ToDo",
       "path": "000 Notizen/ToDo.md"
     },
     {
-      "basename": "105 Expansionsberechnung",
-      "path": "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md"
-    },
-    {
-      "basename": "103 Vorlesung Welches Kältemittel",
-      "path": "100 Kälteanlagen/Vorlesungen/103 Vorlesung Welches Kältemittel.md"
-    },
-    {
-      "basename": "102 Vorlesung Sensorik und Schmierstoffe",
-      "path": "100 Kälteanlagen/Vorlesungen/102 Vorlesung Sensorik und Schmierstoffe.md"
-    },
-    {
-      "basename": "106 Vorlesung Besonderheiten",
-      "path": "100 Kälteanlagen/Vorlesungen/106 Vorlesung Besonderheiten.md"
-    },
-    {
-      "basename": "108 Vorlesung Besonderheiten CO2 und H20",
-      "path": "100 Kälteanlagen/Vorlesungen/108 Vorlesung Besonderheiten CO2 und H20.md"
-    },
-    {
       "basename": "Beleg Fragen",
       "path": "100 Kälteanlagen/Beleg/Beleg Fragen.md"
-    },
-    {
-      "basename": "Notes",
-      "path": "000 Notizen/Notes.md"
     },
     {
       "basename": "404 Container Kühlung",
