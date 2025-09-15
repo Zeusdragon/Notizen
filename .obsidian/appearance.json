@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }
