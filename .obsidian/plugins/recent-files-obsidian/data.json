@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Meeting 2",
-      "path": "500 Forschungspraktikum/Meeting 2.md"
+      "basename": "Roter Faden",
+      "path": "500 Forschungspraktikum/Roter Faden.md"
     },
     {
-      "basename": "Meeting 1",
-      "path": "500 Forschungspraktikum/Meeting 1.md"
+      "basename": "Notizen",
+      "path": "500 Forschungspraktikum/Notizen.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.base"
     },
     {
       "basename": "Difference NGSI V2 and NGSI LD",
       "path": "500 Forschungspraktikum/Difference NGSI V2 and NGSI LD.md"
     },
     {
-      "basename": "Roter Faden",
-      "path": "500 Forschungspraktikum/Roter Faden.md"
-    },
-    {
       "basename": "Notes",
       "path": "500 Forschungspraktikum/Notes.md"
+    },
+    {
+      "basename": "106 Vorlesung Besonderheiten",
+      "path": "100 Kälteanlagen/Vorlesungen/106 Vorlesung Besonderheiten.md"
+    },
+    {
+      "basename": "105 Expansionsberechnung",
+      "path": "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md"
+    },
+    {
+      "basename": "Meeting 2",
+      "path": "500 Forschungspraktikum/Meeting 2.md"
+    },
+    {
+      "basename": "Meeting 1",
+      "path": "500 Forschungspraktikum/Meeting 1.md"
     },
     {
       "basename": "401 NVH",
@@ -51,14 +67,6 @@
     {
       "basename": "1. Beleg Annahmen",
       "path": "100 Kälteanlagen/Beleg/1. Beleg Annahmen.md"
-    },
-    {
-      "basename": "106 Vorlesung Besonderheiten",
-      "path": "100 Kälteanlagen/Vorlesungen/106 Vorlesung Besonderheiten.md"
-    },
-    {
-      "basename": "105 Expansionsberechnung",
-      "path": "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md"
     },
     {
       "basename": "102 Vorlesung Sensorik und Schmierstoffe",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20250507161513",
       "path": "Excalidraw/Pasted image 20250507161513.png"
-    },
-    {
-      "basename": "Pasted image 20250507155944",
-      "path": "Excalidraw/Pasted image 20250507155944.png"
-    },
-    {
-      "basename": "Drawing 2025-04-22 19.50.34.excalidraw",
-      "path": "Excalidraw/Drawing 2025-04-22 19.50.34.excalidraw.md"
     }
   ],
   "omittedPaths": [],
