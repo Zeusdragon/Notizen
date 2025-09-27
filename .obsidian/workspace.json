@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "500 Forschungspraktikum/Roter Faden.md",
+                "file": "500 Forschungspraktikum/NGSI in 30 min concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roter Faden"
+              "title": "NGSI in 30 min concepts"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5b1948d3f3536acf",
@@ -202,8 +201,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -228,15 +227,21 @@
   },
   "active": "7be19605fd42e892",
   "lastOpenFiles": [
-    "500 Forschungspraktikum/Notizen.md",
-    "Untitled.base",
+    "Pasted image 20250927162326.png",
     "500 Forschungspraktikum/Difference NGSI V2 and NGSI LD.md",
+    "Untitled.base",
+    "Pasted image 20250927155242.png",
+    "Pasted image 20250927154408.png",
     "500 Forschungspraktikum/Notes.md",
+    "500 Forschungspraktikum/NGSI in 30 min concepts.md",
+    "Pasted image 20250927133247.png",
+    "Pasted image 20250927132110.png",
+    "500 Forschungspraktikum/Roter Faden.md",
+    "500 Forschungspraktikum/Notizen.md",
     "100 Kälteanlagen/Vorlesungen/106 Vorlesung Besonderheiten.md",
     "100 Kälteanlagen/Vorlesungen/105 Expansionsberechnung.md",
     "500 Forschungspraktikum/Meeting 2.md",
     "010 Programming/011 Rust/Basics.md",
-    "500 Forschungspraktikum/Roter Faden.md",
     "500 Forschungspraktikum/Meeting 1.md",
     "300 Gebäudeenergietechnik/Vorlesungen/304 Flächenheizung.md",
     "300 Gebäudeenergietechnik/Vorlesungen/313 Kühlung Klima.md",
@@ -256,15 +261,10 @@
     "400 Mobile Kälte/Pasted image 20250730103612.png",
     "Pasted image 20250727150719.png",
     "400 Mobile Kälte/107 Vorlesung Flugzeugklimatisierung.md",
-    "400 Mobile Kälte/405 Kryotechnik.md",
     "400 Mobile Kälte/Octiovalve.png",
     "300 Gebäudeenergietechnik/Images/Pasted image 20250727144103.png",
     "300 Gebäudeenergietechnik/Images/Pasted image 20250727140050.png",
     "300 Gebäudeenergietechnik/Images/Pasted image 20250727142347.png",
-    "300 Gebäudeenergietechnik/Images/Pasted image 20250727114658.png",
-    "300 Gebäudeenergietechnik/Images/Pasted image 20250727115436.png",
-    "300 Gebäudeenergietechnik/Images/Pasted image 20250727135135.png",
-    "300 Gebäudeenergietechnik/Images/Pasted image 20250727112226.png",
     "300 Gebäudeenergietechnik/Images",
     "010 Programming/011 Rust",
     "010 Programming"
