@@ -22,3 +22,10 @@ application/ld+json als Content-Type wichtig für header
 durch Patch PUT oder POST befehl kann ich meine entitäten updaten wichtig für service 
 entitäten lösche ich durch delete
 ![[Pasted image 20250927162326.png]]
+
+
+![[Pasted image 20251004172513.png]]
+
+![[Pasted image 20251004173504.png]]
+
+
