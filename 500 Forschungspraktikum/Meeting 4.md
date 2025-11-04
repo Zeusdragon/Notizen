@@ -6,7 +6,7 @@
 ## Fragen Betreuer
 Sensor Wert in Entittät Sensor oder Entität vom Property
 Wenn Sensor Neu dann Relation nicht unbediingt ändern sondern nur 
-Was ist context hier ist wie ein Wörterbuch wys definiert was eine Relationship ist was eine Property ist und was die Links wie Feedinto oder Supplies bedeutet
+Was ist context hier ist wie ein Wörterbuch wys definiert was eine Relationship ist was eine Property ist und was die Links wie Feedinto oder Supplies bedeutet bei 
 
 
 # Ergebnisse
