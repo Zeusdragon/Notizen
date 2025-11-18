@@ -15,3 +15,10 @@
 	+ Pelletkessel
 		+ Sensor Temp ist ein device mit observed by 
 		+ Sensor Heat erzeugung ist ein device mit observed by
+
+
+Prinizp Struktierung wenn ich was mache 
+Vorgehen was mache ich und warum mache ich das was ich mache 
+Erklären wieso randbedingungen gesetzt
+danach zeigen was rauskommt und erklären was rauskommt
+anschließend ergebnis was ist bewerten validiierne
