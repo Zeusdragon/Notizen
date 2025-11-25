@@ -1,0 +1,38 @@
+- [ ] **Großer Rucksack Klamotten** 
+	- [ ]  Tshirts 4
+	- [ ] Hoodie 1
+	- [ ] Unterwäsche 5-6
+	- [ ] Socken 5-6
+	- [ ] Jacke regen
+	- [ ] Mütze
+	- [ ] Schuhe
+	- [ ] Kompressionsbeutel
+- [ ] **Hygiene**
+	- [ ] Zahnbürste
+	- [ ] Deo
+	- [ ] Sonnencreme
+	- [ ] Taschentücher
+	- [ ] Trimmer
+	- [ ] Pflaster
+- [ ] **Technik**
+	- [ ] Handy plus ladegerät
+	- [ ] powerbank
+	- [ ] adapter
+	- [ ] Buch
+	- [ ] Kopfhörer
+	- [ ] _Kamera_
+- [ ] **Dokumente**
+	- [ ] Reisepass
+	- [ ] Notfallkarte
+	- [ ] Yen und Won in bar
+	- [ ] Reiseversicherung
+	- [ ] JR PAss
+	- [ ] Reiseplan
+- [ ] **Tagesrucksack**
+	- [ ] Wasserflasche
+	- [ ] Snacks
+	- [ ] Taschentücher
+	- [ ] Powerbank
+	- [ ] regenjacke
+	- [ ] Notizbuch
+	- [ ] Ersatz klamotten

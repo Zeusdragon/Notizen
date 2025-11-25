@@ -18,3 +18,5 @@ Möglichkeit sind Integral zu ziehen mit meheren Ordnung heißt man setzt zwisch
 + Rechteck-Regel (Polynom 0ter Ordnung) 1 Stützpunkt nötig
 + Trapez-Regel (Polynom 1ter Ordnung) 2 Stützpunkte nötig
 + Fass-Regel (Polynom 2ter Ordnung) 3 Stützpunkte nötig
+
+
