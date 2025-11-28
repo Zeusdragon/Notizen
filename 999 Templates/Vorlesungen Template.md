@@ -11,7 +11,6 @@ tags: []
 # Vorlesung: {{title}}
 
 ## 🔗 Metadaten
-* **Dozent:** [[Prof. Muster]]
 * **Link zu Folien:** [Hier einfügen]
 * **Themen:** [[Thema A]], [[Thema B]]
 
