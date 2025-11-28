@@ -12,7 +12,7 @@ Genauigkeit 0,5 % bei Fiskalisch (Durchfluss)
 
 **Prüfungsfrage**:
 - Werte für Prozessmesstechnik
-	- Druck, Temperatur, Durchfluss, Füllstand
+	- Druck, Temperatur, Durchfluss, Füllsta
 
 
 
