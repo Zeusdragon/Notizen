@@ -1,4 +1,4 @@
-**Vorlesung**: [[Supraleitung]]
+**Vorlesung**: [[Kryotechnik]]
 **Datum**: 14.10.2025
 **Topics**:
 

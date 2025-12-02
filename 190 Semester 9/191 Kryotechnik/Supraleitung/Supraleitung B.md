@@ -1,4 +1,4 @@
-**Vorlesung**: [[Supraleitung B]]
+**Vorlesung**: [[Kryotechnik]]
 **Datum**: 28.10.2025
 **Topics**: #SQUID #Magnetfelder
 

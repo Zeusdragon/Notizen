@@ -1,6 +1,6 @@
-**Vorlesung**: [[Materialeigenschaften]]
+**Vorlesung**: [[Kryotechnik]]
 **Datum**: 11.11.2025
-**Topics**: #Werkstoffe #Kryo
+**Topics**: #Werkstoffe 
 
 Wärmekapazität nimmt stark ab bei tiefen Temperaturen
 normalerweise hohe gitterschwungen bei tiefen Temperaturen n icht vorhanden normaler weise mittlere molare Wärmekapazität 25j/molK

@@ -1,12 +1,12 @@
-**Vorlesung**: [[Vorlesung Einführung]]
+**Vorlesung**: [[Regelung von Wärmepumpen]]
 **Datum**: 16.10.2025
 **Topics**: #Lastabwurf/Lastverschiebung #Residuallast #Abtauung #Regelstrategien
 
-# Einführung
-
-**!** Hydraulik Kreis zuerst anmachen dann erst um Maschine kümmern
 
 
+>[!imporant] 🪧Hinweis 
+>Hydraulik Kreis zuerst anmachen dann erst um Maschine kümmern
+> 
 
 # Residuallast
 Stromverbrauch unabhängig von Sonne und wind

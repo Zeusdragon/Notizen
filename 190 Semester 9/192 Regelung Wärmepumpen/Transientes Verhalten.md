@@ -1,7 +1,4 @@
-**Vorlesung**: [[Transientes Verhalten]]
-**Datum**: 13.11.2025
-**Topics**: #Transientes
-
+**Vorlesung**: [[Regelung von Wärmepumpen]]
 # Was ist Transientes Verhalten
 im gegenzug zu stationär geht es um VErhalten der Anlage während laufzeit
 

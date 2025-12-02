@@ -1,9 +1,9 @@
-%%  %%**Vorlesung**: [[Kryostate]]
+**Vorlesung**: [[Kryotechnik]]
 **Datum**: 18.11.2025
-**Topics**: #kryostate
+**Topics**: #Kryostate
 
 
-# KRyostate Werkstoffe
+# Kryostate Werkstoffe
 
 + Kupfer
 + Aluminium

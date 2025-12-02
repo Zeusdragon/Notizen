@@ -1,4 +1,4 @@
-**Vorlesung**: [[Lastprofilberechnung]]
+**Vorlesung**: [[Lastmanagement von Wärmepumpen]]
 **Datum**: 13.11.2025
 **Topics**: #Lasten
 

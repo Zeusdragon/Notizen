@@ -1,6 +1,6 @@
 **Vorlesung**: [[Heliumverflüssigung]]
 **Datum**: 21.10.2025
-**Topics**: #Helium 
+**Topics**: [[Helium]]
 
 
 # Geschichte

@@ -1,6 +1,6 @@
- **Vorlesung**: [[Heliumgewinnung]]
+**Vorlesung**: [[Kryotechnik]]
 **Datum**: 28.10.2025
-**Topics**: #Helium 
+**Topics**: [[Helium]] 
 
 
 # Kaskade

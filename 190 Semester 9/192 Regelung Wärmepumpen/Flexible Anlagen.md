@@ -1,10 +1,10 @@
-**Vorlesung**: [[Flexible Anlagen]]
+**Vorlesung**: [[Regelung von Wärmepumpen]]
 **Datum**: 30.10.2025
 **Topics**: 
 
 
 
-#  Flexible Anlagen
+# Flexible Anlagen
 
 Kälteanlagen müssen die schlimmsten fälle halten können da kälte nicht aditive hinzugefügt werden kann
 Heizen kann man noch extra da gibt es möglichkeiten ( elektrische Heizung) 
@@ -46,4 +46,3 @@ Drei Arten:
 + Kleinsteuergeräte (Microcotroller, fpga)
 + SPS
 + Computersteuerung (LabVIEW)
-+ 
