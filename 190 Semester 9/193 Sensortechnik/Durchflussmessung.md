@@ -25,5 +25,6 @@ $\zeta$: Dimensionslose Druckverlustfaktor $\zeta = \frac{\Delta p_v}{p_1 \cdot 
 # Durchflusssensoren
 + [[Wirkdruck Durchflussmessung]]
 + [[Coriolis Durchflussmessung]]
-+ [[Wirbeldurchflussmesser]]
-+ 
++ [[Wirbel Durchflussmessung]]
++ [[Magnetisch induktive Durchflussmessung]]
++ [[Akustische Durchflussmessung]]

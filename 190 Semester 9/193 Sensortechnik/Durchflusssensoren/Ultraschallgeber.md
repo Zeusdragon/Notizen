@@ -1,4 +1,4 @@
-Genutzt für die Messung der Wirbelfrequenz eines [[Wirbeldurchflussmesser]]
+Genutzt für die Messung der Wirbelfrequenz eines [[Wirbel Durchflussmessung]]
 
 Messung geschieht Berührungsfrei vorallem interessant bei aggresiven fluiden
 
