@@ -1,4 +1,4 @@
-3# NGSI LD
+# NGSI LD
 Hauptmerkmal is @context und observedat attribut  content type muss ld+json sein
 
 ![[Pasted image 20250927154408.png]]

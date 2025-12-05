@@ -1,7 +1,7 @@
 # 🎓 Semester 9 Dashboard
 
 **Zeitraum:** WS 25/26
-**Status:** Laufend
+**Status:** 🟡Laufend
 
 ## 📚 Module
 
@@ -9,7 +9,7 @@
 * **Themen:** Gasverflüssigung, Joule-Thomson, Claude-Prozess.
 * **Klausur:** Relevanz Carnot < 1.
 
-### [[Regelung von Wärmepumpen]]
+### [[192 Regelung von Wärmepumpen]]
 * **Themen:** Residuallast, Regelstrategien (Bypass, FU), Abtauung.
 * **Wichtig:** "Hydraulik Kreis zuerst anmachen dann erst um Maschine kümmern"
 

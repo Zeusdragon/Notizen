@@ -1,6 +1,6 @@
 # ⚙️ Regelung von Wärmepumpen Master-Note
 
-**Modul:** [[Regelung von Wärmepumpen]]
+**Modul:** [[192 Regelung von Wärmepumpen]]
 **Tags:** #Wärmepumpe #Regelung #Ventile #Anlagentechnik
 **Status:** 🟡 In Bearbeitung
 

@@ -1,4 +1,4 @@
-**Vorlesung**: [[Regelung von Wärmepumpen]]
+**Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Datum**: 30.10.2025
 **Topics**: 
 

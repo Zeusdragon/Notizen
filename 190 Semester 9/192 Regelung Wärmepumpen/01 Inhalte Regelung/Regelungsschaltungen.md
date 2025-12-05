@@ -1,4 +1,4 @@
-**Vorlesung**: [[Regelung von Wärmepumpen]]
+**Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Datum**: 16.10.2025
 **Tags**: #Lastabwurf #Residuallast #Abtauung #Regelstrategien #Wärmepumpe
 

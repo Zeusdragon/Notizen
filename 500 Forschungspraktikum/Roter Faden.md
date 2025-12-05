@@ -64,7 +64,7 @@
 * [[Meeting 1]] - Erste Absprachen
 * [[Arbeitsstrategie]] - **Wichtiges Gutachten & Guide**
 * [[Difference NGSI V2 and NGSI LD]]
-* [[Notes]] / [[Notizen]] (Evtl. zusammenführen?)
+* [[Notes]]
 
 
 

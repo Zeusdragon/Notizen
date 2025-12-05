@@ -1,6 +1,6 @@
 # ⚡ Lastmanagement von Wärmepumpen
 
-**Modul:** [[192 Regelung Wärmepumpen]]
+**Modul:** [[192 Regelung von Wärmepumpen]]
 **Tags:** #Lastmanagement #Residuallast #SmartGrid #Flexibilität
 **Status:** 🟡 In Bearbeitung
 
