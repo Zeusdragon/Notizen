@@ -1,112 +1,80 @@
 **Vorlesung**: [[Regelung von Wärmepumpen]]
 **Datum**: 16.10.2025
-**Topics**: #Lastabwurf/Lastverschiebung #Residuallast #Abtauung #Regelstrategien
+**Tags**: #Lastabwurf #Residuallast #Abtauung #Regelstrategien #Wärmepumpe
 
+---
 
+> [!important] 🪧 Goldene Regel
+> **Hydraulik-Kreis zuerst anmachen, dann erst um die Maschine kümmern!**
 
->[!imporant] 🪧Hinweis 
->Hydraulik Kreis zuerst anmachen dann erst um Maschine kümmern
-> 
+# 1. Residuallast & Entscheidung
+* **Residuallast** = Bedarf - Regenerative Erzeugung (Sonne/Wind).
+* Stromverbrauch ist unabhängig von Erzeugung -> WP als Flexibilität.
 
-# Residuallast
-Stromverbrauch unabhängig von Sonne und wind
+**Entscheidung Schalthandlung:**
+![[Pasted image 20251016170706.png|400]]
+*(Entscheidungshilfe für Schalthandlung)*
 
-Last =  bedarf - Reg. Erzeugung
+---
 
-# Entscheidung Schalthandlung
-![[Pasted image 20251016170706.png]]
+# 2. Regelungsvarianten (Verdichter)
+*Ziel:* Verdichter muss an Expansionsorgan angepasst sein, sonst Imbalanz.
 
-# Regelungsvarianten
-Schauen wenn komposition Verdichter expansionsventil
-Verdichter sollte abgepasst zum Expansionsorgan sein da sonst imbalanz 
-## Heißgasbypassschaltung
-Magentventil für shutdown
-Verdampfungsdruckhaltung ist Ziel
-Heißgasleitung vor verdampfer und nach verdichter 
-bypass and 4 zum einspritzen um Verdampfungsdruck zu halten falls verdampfungsdruck zu weit sinkt
+## A. Heißgasbypassschaltung
+* **Funktion:** Magnetventil zur Verdampfungsdruckhaltung. Heißgas wird von *nach Verdichter* zu *vor Verdampfer* (an Punkt 4) eingespritzt.
+* **Status:** 🛑 Veraltet (Nicht nutzen!)
 
-### Vorteile
-+ im gesamten Regelbereich nutzbar
-+ kostengünstig
-+ selbsttatig
-### Nachteile
-+ sehr ineffizient 
-+ mehr heizgas notwendig
-+ nicht nutzen !!!
+| Vorteile ✅ | Nachteile ❌ |
+| :--- | :--- |
+| Im gesamten Regelbereich nutzbar | **Sehr ineffizient** |
+| Kostengünstig & Selbsttätig | Benötigt mehr Heißgas |
 
-## Verdampfungsdruckregler
-VerdDruck halten bei keine Verdichterregelung
-Absenkung des Drucks auf 1* und erhöhte technische Arbeit
+## B. Verdampfungsdruckregler
+* **Funktion:** Hält Verdampfungsdruck ohne Verdichterregelung. Absenkung des Drucks auf $p_0^*$ -> Erhöhte technische Arbeit.
 
-### Vorteile
-+ Kostengünstig
-+ Verdichter keine adaption nötig
-+ leicht installierbar
-+ nutzbar mehere Verdampfer
+| Vorteile ✅ | Nachteile ❌ |
+| :--- | :--- |
+| Kostengünstig | Regelbereich begrenzt |
+| Keine Verdichter-Adaption nötig | Erhöhte Belastung (Hub) |
+| Für mehrere Verdampfer nutzbar | **Niedrige Energieeffizienz** |
 
-### Nachteile
-+ Regelbereich begrenzt
-+ erhöhte Blastung des Verdichters durch erhöhten Hub 
-+ niedirgiere Energieeffizienz da techn. Arbeit größer
+## C. Taktbetrieb (On/Off)
+* **Ziel:** Reduzierung mittlerer Volumenstrom durch zeitweises Abschalten.
 
-## Taktbetrieb
-Ziel; Reduzierung mittlerer Volumenstrom
+> [!warning] Problematik
+> Führt zu diskontinuierlichem Betrieb und ungenauer Regelgüte.
 
-Methode: zeitweise an und Ausschalten
+## D. Verdichterhubvolumen ändern (Zylinderabschaltung)
+* **Methode:** Bänke abschalten oder Auslassventil offen halten (bei Hubkolben).
 
-### Vorteile 
-+ einfach
+| Vorteile ✅ | Nachteile ❌ |
+| :--- | :--- |
+| Sehr großer Regelbereich | Mechanisch komplex |
+| Energieeffizient | Potenzielle Disbalanz (Vibration) |
+| | Lebenszeitverringerung |
 
-### Nachteile 
-+ diskontinuirlicher Betrieb
-+ Belastung Verdichter erhöht
-+ Energieeffzienz
-+ Ungenaue Regelgüte
+---
 
-## Verdichterhubvolumen ändern
-Ziel: Voluemenstrom reduzieren
-Methode: Hubraum ändern man kann bänke abschaleten oder vorher auslass öffnen
+# 3. Abtauung
+**Problem:** Luftfeuchtigkeit friert am Verdampfer (Luft-Seite) an -> Wärmeübergang verschlechtert sich.
 
-### Vorteile
-+ sehr großer Regelberich
-+ Energieeffizient
-### Nachteile 
-+ Mechanisch komplex
-+ wenn kolben bei hubkolben abgeschaltet potenzielle disbalanz  lebenszeit verkleinerrung und hörbar
+## Methoden im Vergleich
 
-## Drehzahlregelung
-### Vorteile
-TODO
+### Heißgasabtauung
+* **Prinzip:** Dreieckschaltung. Heißes Gas direkt in den Verdampfer.
+* **Vorteil:** Schnell.
 
-## Qualitativer Vergleich
-![[Pasted image 20251030152642.png]]
+### Kaltgasabtauung
+* **Prinzip:** Gas nach Kondensator (aus Sammler) vor Verdampfer leiten.
+* **Nachteil:** Weniger Überhitzungswärme verfügbar -> dauert länger als Heißgas.
 
-# Abtauung
-Problem bei Luft Sekundär seite
-Einfluss Luftfeuchtigkeit
-Verschlechterung Wärmeübergang
+### Kreislaufumkehr (4-Wege-Ventil) 🏆
+* **Prinzip:** Der Prozess wird umgedreht. Der Verdampfer wird zum Kondensator (heizt).
+* **Achtung:** Bidirektionale Ventile nötig oder Umschaltung der Leitungen.
 
-## Möglichkeiten
-+ Elektrisch Abtauuen
-+ Umluftabtauung
-+ Warmwasserabtauung
-+ Heigasabtauung mit und ohne Kreislaufumkehr
+> [!success] Bewertung
+> * **Sehr viel schneller** als andere Methoden.
+> * **Energetisch effizient.**
+> * *Risiko:* Wärmequelle für Abtauung ist kurzzeitig der Pufferspeicher -> Kunde darf Abkühlung nicht merken.
 
-## Heißgasabtauung
-Dreickschaltung nach verdichter und vor verdampfer zwischen bypass und heißes gas in Verdampfer rein um Abtauung zu machen
-
-## Kaltgasabtauung
-nach Kondensator bei Sammler Gas output
-vor Verdampfer bypass 
-Problem weniger Überhitzungswärme dauert vielleicht länger als heißgas
-
-## Kreislaufumkehr
-4wege umschalt 
-
-Achtung bidirektional ventile anschauen oder schaltung umlegen und zwei ventile pro litung setzen
-![[Pasted image 20251030153813.png]]
-
-sehr viel schneller als alles andere
-ist Energetisch effizient
-bei umschaltung kann es sein das bei umkehr die qärmequelle auf einmal wärmespeicher von pufferspeicher ist auslegung das kunde nichts merkt das es abgezwackt wird
-
+![[Pasted image 20251030153813.png|500]]

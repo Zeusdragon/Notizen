@@ -1,17 +1,70 @@
+# 🧪 Forschungspraktikum: N5GEH & FIWARE
 
-1. Einleitung
-2. Use Case was schaue ich mir an und wie vereinfache ich das für meinen use case
-3. Plattform erklären
-4. Unterschied NGSI V2 und NGSI LD
-	1. Aufbau der beiden mit bild des Jsons
-5. Use case in einen Context und in ein ngsi v2 bringen(Ngsi v2 = Stand der technik)
-6. Implementierung des Service
-7. Wie daten rein (Datenpipeline welche request etc)
-8. Service erklären
-9. Vergleich Service für beide Plattformen
-10. Conclusion LD besser sollte man nutzen?
-11. Ausblick kann man LD für weitere Sachen implementieren und wenn ja für was
-12. 
+**Thema:** Funktionsvergleich der FIWARE-Plattform für verschiedene Datenmodelle (NGSI-v2 vs. NGSI-LD)
+**Kontext:** Hybrides Wärmeversorgungssystem (Wärmepumpe + Pelletkessel)
+**Status:** 🟡 In Bearbeitung
+**Deadline:** [Datum einfügen]
+
+---
+
+## 🎯 Hauptziele (Roter Faden)
+
+### 1. Theoretische Fundierung
+- [ ] **Systemanalyse:** Thermodynamik & Hydraulik verstehen (Kesselträgheit, COP der WP, Schichtung im Puffer) [[Arbeitsstrategie#2. Systemanalyse Thermodynamik und Hydraulik des hybriden Clusters|Link]]
+- [ ] **Architektur:** N5GEH Referenzarchitektur (Southbound/Northbound, IoT Agents) [[Arbeitsstrategie#3. Die N5GEH-Architektur Vom Sensor zur Cloud|Link]]
+- [ ] **Datenmodelle:** Tiefenvergleich NGSI-v2 vs. NGSI-LD (Semantik, Graphen, Linked Data) [[Arbeitsstrategie#4. Tiefenvergleich NGSI-v2 vs. NGSI-LD|Link]]
+
+### 2. Praktische Implementierung
+- [ ] **Setup:** Docker-Stack aufsetzen (Orion, MongoDB, IoT Agent)
+- [ ] **Modellierung:** JSON-Strukturen für `Boiler`, `HeatPump`, `Buffer` definieren (v2 & LD).
+- [ ] **Service-Entwicklung:** Python-Skript (FiLiP) für Economic Dispatch (Kostenminimierung).
+- [ ] **Experiment:** Vergleichsmessung (Modus A: Thermisch vs. Modus B: Optimiert).
+
+### 3. Synthese & Writing
+- [ ] Auswertung der Taktung und Kostenersparnis.
+- [ ] Diskussion: Ist NGSI-LD den Mehraufwand wert?
+- [ ] Finalisierung der Arbeit.
+
+---
+
+## 📂 Struktur der Arbeit (Gliederung)
+
+### 1. Einleitung
+* Motivation: Sektorkopplung & Digitalisierung.
+* Problemstellung: Datenmodelle als Kern der Interoperabilität.
+
+### 2. Use Case: Das Hybride Cluster
+* **Komponenten:**
+	* Pelletkessel (Trägheit, Emissionen bei Start).
+	* Wärmepumpe (COP-Abhängigkeit von $T_{Außen}$ und $T_{Vorlauf}$).
+	* Pufferspeicher (Schichtung, SoC-Berechnung).
+* **Vereinfachung:** Welche Parameter sind für die Cloud relevant?
+
+### 3. Die Plattform (FIWARE / N5GEH)
+* Aufbau: Southbound (WAGO/MQTT) $\to$ IoT Agent $\to$ Context Broker $\to$ Northbound.
+* Zeitreihen: QuantumLeap & CrateDB für historische Analyse.
+
+### 4. Datenmodelle im Vergleich
+* **NGSI-v2:** Aufbau, JSON-Payload, Vor/Nachteile (Silos).
+* **NGSI-LD:** Linked Data, `@context`, Ontologien (SAREF), Property Graphs.
+* **Vergleich:** Interoperabilität vs. Komplexität vs. Payload-Größe.
+
+### 5. Implementierung & Service
+* **Datenpipeline:** Wie kommen die Daten rein? (MQTT Topics $\to$ Attribute).
+* **Der Service (Cloud-Regler):** * Python mit FiLiP Library.
+	* Algorithmus: $K_{WP}$ vs. $K_{Pellet}$ unter Berücksichtigung der 40min Mindestlaufzeit.
+
+### 6. Ergebnisse & Diskussion
+* Vergleich der Regelgüte.
+* Fazit: Wann lohnt sich LD?
+
+---
+
+## 📝 Notizen & Ressourcen
+* [[Meeting 1]] - Erste Absprachen
+* [[Arbeitsstrategie]] - **Wichtiges Gutachten & Guide**
+* [[Difference NGSI V2 and NGSI LD]]
+* [[Notes]] / [[Notizen]] (Evtl. zusammenführen?)
 
 
 

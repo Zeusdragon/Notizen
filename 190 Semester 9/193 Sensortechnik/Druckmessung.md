@@ -1,4 +1,4 @@
-**Vorlesung**: [[193 Sensorik]]
+**Vorlesung**: [[Sensorik]]
 **Datum**: 17.10.2025
 **Topics**: #Druck #Sensorik
 

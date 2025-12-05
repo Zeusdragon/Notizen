@@ -1,4 +1,4 @@
-**Vorlesung**: [[293 Signalverarbeitung]]
+**Vorlesung**: [[Signalverarbeitung]]
 **Datum**: 14.11.2025
 **Topics**: #Signale 
 

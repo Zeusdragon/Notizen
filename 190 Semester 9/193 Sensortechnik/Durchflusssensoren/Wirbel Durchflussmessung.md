@@ -1,4 +1,4 @@
-**Vorlesung**: [[193 Sensorik]]
+**Vorlesung**: [[Sensorik]]
 **Datum**: 28.11.2025
 **Topics**: [[Durchflussmessung]] 
 

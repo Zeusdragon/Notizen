@@ -1,5 +1,5 @@
 
-**Vorlesung**: [[293 Signalverarbeitung]]
+**Vorlesung**: [[Signalverarbeitung]]
 **Datum**: 24.10.2025
 **Topics**: #Sensorik #Signale #Zeitbereich #Interpolation
 
