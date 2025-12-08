@@ -62,4 +62,4 @@ Eine Gegenüberstellung der aktuellen Perspektive:
 | Keine echten Alternativen in der Industrie | Synthetische Kraftstoffe oft bequemer (Drop-in) |
 | Fahrzeugindustrie investiert stark | Systemmasse & Lebensdauer aktuell noch kritisch |
 ## 4. Materialeigenschaften
-Link: [[Materialeigenschaften]]
+Link: [[14 Materialeigenschaften]]
