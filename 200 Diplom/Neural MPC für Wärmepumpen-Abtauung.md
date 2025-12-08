@@ -16,7 +16,7 @@
 ## 2. Zielsetzung
 Entwicklung eines MPC-Reglers, der den **optimalen Startzeitpunkt für die Abtauung** bestimmt Abtauung selber Zeitgesteuert mit fixer Zeit oder Stellgröße Zustand Abtauuen/Heizen .
 * **Optimierungsziel:** Maximierung der Heizleistung vs. Minimierung der Abtau-Energie.
-* **Methode:** Datengetriebenes MPC unter Nutzung eines [[Neuronale Netze|Neuronalen Netzes]] als schnelles Vorhersagemodell.
+* **Methode:** Datengetriebenes MPC unter Nutzung eines Neuronale Netze|Neuronalen Netzes als schnelles Vorhersagemodell.
 * **Basis:** Detailliertes Dymola-Modell als "Ground Truth" (Ersatz für reale Hardware).
 
 ---
