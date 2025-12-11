@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 11.11.2025
 **Topics**: [[Spezifische Wärme]], [[Wärmeleitung]], [[Ausdehnung]]
-
+[[14 Materialeigenschaften.pdf]]
 ---
 
 # Spezifische Wärme $c_p$

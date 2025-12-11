@@ -3,7 +3,7 @@
 **Vorlesung**: [[Kryotechnik]]
 **Datum**: 
 **Topics**: [[NbTi]], [[Nb3Sn]], [[HTSL]], [[MgB2]]
-
+[[Supraleitung C_Materialien.pdf]]
 ---
 
 # Tieftemperatursupraleiter (LTS)

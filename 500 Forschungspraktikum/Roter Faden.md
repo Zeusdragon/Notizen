@@ -10,12 +10,12 @@
 ## 🎯 Hauptziele (Roter Faden)
 
 ### 1. Theoretische Fundierung
-- [ ] **Systemanalyse:** Thermodynamik & Hydraulik verstehen (Kesselträgheit, COP der WP, Schichtung im Puffer) [[Arbeitsstrategie#2. Systemanalyse Thermodynamik und Hydraulik des hybriden Clusters|Link]]
+- [x] **Systemanalyse:** Thermodynamik & Hydraulik verstehen (Kesselträgheit, COP der WP, Schichtung im Puffer) [[Arbeitsstrategie#2. Systemanalyse Thermodynamik und Hydraulik des hybriden Clusters|Link]]
 - [ ] **Architektur:** N5GEH Referenzarchitektur (Southbound/Northbound, IoT Agents) [[Arbeitsstrategie#3. Die N5GEH-Architektur Vom Sensor zur Cloud|Link]]
 - [ ] **Datenmodelle:** Tiefenvergleich NGSI-v2 vs. NGSI-LD (Semantik, Graphen, Linked Data) [[Arbeitsstrategie#4. Tiefenvergleich NGSI-v2 vs. NGSI-LD|Link]]
 
 ### 2. Praktische Implementierung
-- [ ] **Setup:** Docker-Stack aufsetzen (Orion, MongoDB, IoT Agent)
+- [x] **Setup:** Docker-Stack aufsetzen (Orion, MongoDB, IoT Agent)
 - [ ] **Modellierung:** JSON-Strukturen für `Boiler`, `HeatPump`, `Buffer` definieren (v2 & LD).
 - [ ] **Service-Entwicklung:** Python-Skript (FiLiP) für Economic Dispatch (Kostenminimierung).
 - [ ] **Experiment:** Vergleichsmessung (Modus A: Thermisch vs. Modus B: Optimiert).

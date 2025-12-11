@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Linde-Verfahren]], [[Rektifikation]], [[Argon-Gewinnung]]
-
+[[11 Luftzerlegung und LN2.pdf]]
 ---
 
 # Luftzusammensetzung

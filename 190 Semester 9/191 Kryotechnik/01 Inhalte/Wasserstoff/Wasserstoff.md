@@ -4,7 +4,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Wasserstoff]], [[Ortho-Para]]
-
+[[07 Wasserstoff - Grundlagen.pdf]]
 ---
 
 # Isotope

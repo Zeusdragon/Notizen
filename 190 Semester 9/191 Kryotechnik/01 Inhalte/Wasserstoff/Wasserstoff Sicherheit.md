@@ -4,7 +4,7 @@
 **Vorlesung**: [[Kryotechnik]]
 **Datum**: 2.12.2025
 **Topics**: [[Sicherheit]], [[Explosionsschutz]], [[Wirkungsgradkette]], [[Wasserstofffarben]]
-
+[[10 Wasserstoff - Sicherheit, Wirkungsgradketten, Perspektiven.pdf]]
 ---
 
 # Sicherheitseigenschaften

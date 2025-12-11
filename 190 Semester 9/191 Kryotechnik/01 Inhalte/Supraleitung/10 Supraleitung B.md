@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 18.11.2025
 **Topics**: [[BCS-Theorie]], [[Meissner-Ochsenfeld]], [[Josephson-Effekt]], [[SQUID]]
-
+[[Supraleitung B_Theorie.pdf]]
 ---
 
 # Thermodynamik

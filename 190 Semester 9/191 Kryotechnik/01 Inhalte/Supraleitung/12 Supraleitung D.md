@@ -3,7 +3,7 @@
 **Vorlesung**: [[Kryotechnik]]
 **Datum**: 
 **Topics**: [[Magnetbau]], [[Quench]], [[Stabilisierung]], [[Kühlmethoden]]
-
+[[Supraleitung+D_Kühlung.pdf]]
 ---
 
 # Magnetbau & Stabilisierung
@@ -21,17 +21,21 @@ Supraleiter in Magneten sind extremen Kräften (Lorentzkraft) ausgesetzt.
 
 ## 1. Badkühlung (Pool Boiling)
 * Spule taucht direkt in flüssiges Helium (4,2 K).
-* **Vorteil**: Bester Wärmeübergang, simpel.
-* [cite_start]**Nachteil**: Großes Helium-Inventar nötig[cite: 10842].
+* **Vorteil**: Bester Wärmeübergang, simpel, hohe Betriebssicherheit.
+* [cite_start]**Nachteil**: Großes Helium-Inventar nötig, Drahtfixierung gegen LorentzKräfte schwer zu realisieren[cite: 10842].
 * [cite_start]**Variante**: Unterkühltes He-II (Suprafluid) bei 1,8 K für bessere Eigenschaften (CERN LHC)[cite: 10793].
 
 ## 2. Innenkühlung (CICC - Cable in Conduit)
 * Helium strömt *durch* den Leiter (Hohlleiter oder umspülte Litzen im Rohr).
 * [cite_start]Verwendet z.B. bei Fusionsmagneten (ITER, W7-X)[cite: 10878].
-* **Vorteil**: Sehr stabile mechanische Hülle, geringes Inventar.
-* **Nachteil**: Pumpen nötig, Druckabfall.
+* **Vorteil**: Sehr stabile mechanische Hülle, geringes Inventar, guter thermische Kontakt, kompakte Wicklung.
+* **Nachteil**: Pumpen nötig, Druckabfall (Neueinspeisung erforderlich), zahlreiche ein/auslasssetellen und komplexe Leiterverbindungen.
 
 ## 3. Trockene Kühlung (Conduction Cooling)
 * Spule im Vakuum, gekühlt durch Wärmeleitung zu einem **Kryokühler** (Coldhead).
 * **Vorteil**: Kein flüssiges Helium-Handling ("Knopfdruck-System").
-* [cite_start]**Nachteil**: Begrenzte Kühlleistung, Temperaturgradienten im Magneten[cite: 10936].
+* [cite_start]**Nachteil**: Begrenzte Kühlleistung, Temperaturgradienten im Magneten[cite: 10936] (hohe Wärmeleitung erforderlich), keine Kühlreserve,.
+## 4. Blockförmig vergossen Kühlung über Außenflächen
++ Spulen werden eng gewickelt und anschließend mit isolationsschicht vergossen mit bspw. Epoxidharz
++ **Vorteile**: kompakt, höchste Gesamtstromdichte, geringes Volumen/Gewicht
++ **Nachteile**: Kühlung nur über Außenflächen 

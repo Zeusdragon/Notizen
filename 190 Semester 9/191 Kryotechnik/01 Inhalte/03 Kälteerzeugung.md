@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Kreisprozesse]], [[Joule-Thomson]], [[Stirling]], [[Brayton]]
-
+[[03 Kälteerzeugung.pdf]]
 ---
 
 # Grundprinzipien

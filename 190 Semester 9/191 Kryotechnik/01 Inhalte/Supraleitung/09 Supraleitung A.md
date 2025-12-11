@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 14.10.2025
 **Topics**: [[Supraleitung]], [[Geschichte]], [[Sprungtemperatur]]
-
+[[Supraleitung A_Einführung.pdf]]
 ---
 
 # Grundlagen & Historie

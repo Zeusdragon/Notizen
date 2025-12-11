@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Druckbehälter]], [[Composite-Werkstoffe]], [[Typ-IV-Tank]]
-
+[[09b+Wasserstoff+-+CH2-Tankherstellung,+Anwend.pdf]]
 ---
 
 # Tank-Typen für Hochdruckspeicherung

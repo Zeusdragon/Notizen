@@ -3,7 +3,7 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Thermodynamik]], [[Carnot]], [[Effizienz]]
-
+[[02 Hauptsätze.pdf]]
 ---
 
 # Die Hauptsätze
