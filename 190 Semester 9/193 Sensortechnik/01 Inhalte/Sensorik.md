@@ -59,6 +59,11 @@ Meist basierend auf **Differenzdruck**.
 
 **Basisgrößen:** $\dot{V} = A \cdot \bar{v}$ und $\dot{m} = \rho \cdot \dot{V}$.
 
+--- 
+## 4. Faseroptische Messung 
+[[Faseroptische Sensoren]]
+
+
 ---
 
 ## 4. Signalverarbeitung
