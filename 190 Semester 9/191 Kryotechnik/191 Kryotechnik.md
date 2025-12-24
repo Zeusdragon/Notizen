@@ -23,7 +23,7 @@ wenn kühlverfahren sollte man lins von der Inversionskurve sein
 **Brayton oder Claude mit ExpansionTurbine besser bei niedrigen Temperaturen (isobar)**
 
 ## 1. Helium (Verflüssigung)
-Link: [[Helium]]
+Link: [[04 Helium]] , [[05 Helium Gewinnung]], [[06 Helium Tiefste Temperaturen]]
 
 **Trivia:** Hieß früher "Helium" (Metall-Endung), müsste eigentlich "Helon" (Edelgas) heißen.
 

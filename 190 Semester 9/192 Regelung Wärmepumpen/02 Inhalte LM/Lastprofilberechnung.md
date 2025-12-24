@@ -1,4 +1,4 @@
-**Vorlesung**: [[Lastmanagement von Wärmepumpen]]
+**Vorlesung**: [[021 Lastmanagement von Wärmepumpen]]
 **Datum**: 13.11.2025
 **Topics**: #Lasten
 

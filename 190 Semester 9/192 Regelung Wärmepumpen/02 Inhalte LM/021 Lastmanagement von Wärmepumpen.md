@@ -50,3 +50,31 @@ Damit Lastmanagement funktioniert, muss die Anlage **flexibel** und **steuerbar*
 * **Steuerungstechnik:**
     * **Analog:** Ungeeignet (kann keine externen Signale/Prognosen verarbeiten).
     * **Digital (SPS/Controller):** Notwendig für Kommunikation mit Smart Grid / PV-Anlage.
+
+---
+# Map of Content
+
+# Lastmanagement von Kälte- und Klimaanlagen (Master-Note)
+
+> [!INFO] Übersicht
+> Zentrale Anlaufstelle für das Modul Lastmanagement. Hier laufen alle Themenstränge zusammen.
+
+## Struktur der Vorlesung
+
+### Grundlagen & Bedarf
+* **[[023 Lastprofile und Lastbestimmung]]**: Lastzusammensetzung (VDI 2078), Simultaneität, Nutzungsarten.
+* **[[022 Flexible Nutzung von Kälte- und Klimaanlagen]]**: Residuallast, Bivalente Systeme (Power-to-Cold), Regelungsstrategien.
+
+### Technologien & Infrastruktur (Deep Dive)
+* **[[024 Speichertechnologien und Netze]]**: Detaillierte Betrachtung von sensiblen und latenten Speichern (Eis, PCM). Physik & Bauarten. 
+* Fernkälte, Hydraulik, Kälteträgerfluide (Sole, Ice-Slurry) und Netztopologien.
+
+### Erweiterte Konzepte
+* **[[025 Potentiale und Hemmnisse]]**: Wirtschaftlichkeit, Zwiebel-Modell der Potentiale.
+* **[[026 Solare und Passive Kühlung]]**: Sorptionsgestützte Klimatisierung, DEC-Anlagen, Nutzung von LNG-Kälte.
+
+---
+## Wichtige Formeln & Kennzahlen
+
+* [cite_start]**Cold Recovery Ratio (LNG):** $CCR = \frac{P_{net} + \dot{Q}_{cool}}{\dot{m}_{LNG} (h_0 - h_{LNG})}$ [cite: 35]
+* **Energiedichte Eis:** $q_{lat} = 333 \, kJ/kg$ (vs. Wasser $\Delta T=6K \approx 25 \, kJ/kg$).
