@@ -3,9 +3,9 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 11.11.2025
 **Topics**: [[Spezifische Wärme]], [[Wärmeleitung]], [[Ausdehnung]]
-[[14 Materialeigenschaften.pdf]]
----
+![[14 Materialeigenschaften.pdf]]
 
+---
 # Spezifische Wärme $c_p$
 * Bei Raumtemperatur: $c_p \approx 3R$ (Dulong-Petit).
 * Bei tiefen Temperaturen: **Starker Abfall!**

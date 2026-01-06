@@ -3,9 +3,9 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Kryogene Fluide]], [[Geschichte der Kryotechnik]]
-[[01 Definition und Historie.pdf]]
----
+![[01 Definition und Historie.pdf]]
 
+---
 # Definition Kryotechnik
 * **Altgriechisch**: κρύος (Kälte, Frost) + γεννάω (hervorbringen).
 * **Klassisch**: Verflüssigung "permanenter" Gase ($N_2, O_2, H_2$).

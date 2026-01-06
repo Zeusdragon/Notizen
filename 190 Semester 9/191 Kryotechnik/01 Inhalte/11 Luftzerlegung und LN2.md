@@ -3,7 +3,8 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Linde-Verfahren]], [[Rektifikation]], [[Argon-Gewinnung]]
-[[11 Luftzerlegung und LN2.pdf]]
+![[11 Luftzerlegung und LN2.pdf]]
+
 ---
 
 # Luftzusammensetzung
@@ -23,6 +24,8 @@ Trennung erfolgt aufgrund unterschiedlicher Siedepunkte.
     * **Drucksäule** (ca. 5-6 bar): Trennung in reinen Stickstoff (Kopf) und sauerstoffreiche Flüssigkeit (Sumpf).
     * **Niederdrucksäule** (ca. 1,3 bar): Weitere Trennung zu reinem Sauerstoff.
     * Wärmeübertrag zwischen den Säulen durch den **Kondensator-Verdampfer** (Stickstoff kondensiert, Sauerstoff verdampft).
+* untere Säule ist Hochdruck obere Säule nieder Druck Gnaz oben kommt sticktoff raus und unten obere Säule kommt Sauerstoff 
+* Säule aufgebaut in richtung oben kalt und unten Warm
 
 ## Argon-Gewinnung
 Argon sammelt sich an einer Stelle maximaler Konzentration in der Niederdrucksäule an ("Lachmann-Anstich") und wird in einer separaten Rohargonsäule gereinigt.

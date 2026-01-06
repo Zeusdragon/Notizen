@@ -1,6 +1,6 @@
 # 11 Supraleitung C - Materialien
 
-**Vorlesung**: [[Kryotechnik]]
+**Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[NbTi]], [[Nb3Sn]], [[HTSL]], [[MgB2]]
 [[Supraleitung C_Materialien.pdf]]

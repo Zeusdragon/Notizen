@@ -1,6 +1,6 @@
 # 12 Supraleitung D - Kühlung & Magnetbau
 
-**Vorlesung**: [[Kryotechnik]]
+**Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Magnetbau]], [[Quench]], [[Stabilisierung]], [[Kühlmethoden]]
 [[Supraleitung+D_Kühlung.pdf]]

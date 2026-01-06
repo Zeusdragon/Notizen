@@ -2,7 +2,8 @@
 **Datum**: 18.11.2025
 **Topics**: #Kryostate
 
-[[16 Kryostate, Dewars, Transf.pdf]]
+![[16 Kryostate, Dewars, Transf.pdf]]
+
 ---
 
 # Behältertypen
