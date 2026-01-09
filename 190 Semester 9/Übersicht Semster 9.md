@@ -5,7 +5,7 @@
 
 ## 📚 Module
 
-### [[Kryotechnik|Kryotechnik]]
+### [[191 Kryotechnik]]
 * **Themen:** Gasverflüssigung, Joule-Thomson, Claude-Prozess.
 * **Klausur:** Relevanz Carnot < 1.
 
@@ -17,7 +17,13 @@
 * **Prüfung:** Mündlich (20 min), Thema Prozessmesstechnik.
 * **Termine:** Januar (Hausaufgabe Datenanalyse).
 
+
+## [[Roter Faden|Forschungspraktikum]]
++ Vergleich Datenmodell NGSI-LD mit NGSI-V2
++ Use Case Hybride Wärmeversorgung Pelletkessel und WP
+
 ---
 ## 📅 Nächste Deadlines & ToDos
-- [ ] Sensorik: Hausaufgabe Datenanalyse (Januar)
+- [x] Sensorik: Hausaufgabe Datenanalyse (Januar)
 - [ ] Kryo: Stoff wiederholen (Inversionskurve)
+- [ ] 16.03.2026 Abgabe Forschungspraktikum
