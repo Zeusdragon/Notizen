@@ -62,11 +62,11 @@ Meist basierend auf **Differenzdruck**.
 --- 
 ## 4. Faseroptische Messung 
 [[Faseroptische Sensoren]]
-
+[[Prozessanalysetechnik (PAT)]]
 
 ---
 
-## 4. Signalverarbeitung
+## 5. Signalverarbeitung
 *Relevant für Vorlesung: Skript bis Seite 73.*
 
 * **Interpolation:** Diskret $\to$ Kontinuierlich (S. 16-22).

@@ -15,6 +15,7 @@ Um Teilchen auf einer Kreisbahn zu halten, ist die Lorentzkraft nötig:
 $$F_L = q \cdot v \times B$$
 * **Dipole**: Zur Ablenkung auf die Kreisbahn (LHC: 1232 Dipole, 15 m lang, 8,33 T).
 * **Quadrupole**: Zur Fokussierung des Strahls (wie optische Linsen).
+* Signalumwandler der Dauerhaft die Felder ändert
 
 ### Kavitäten (Beschleunigung)
 Hohlraumresonatoren (Cavities), in denen stehende elektromagnetische Wellen die Teilchen beschleunigen.
