@@ -69,5 +69,4 @@ Meist basierend auf **Differenzdruck**.
 ## 5. Signalverarbeitung
 *Relevant für Vorlesung: Skript bis Seite 73.*
 
-* **Interpolation:** Diskret $\to$ Kontinuierlich (S. 16-22).
-* **Numerisches Differenzieren/Integrieren:** Wichtig für digitale Verarbeitung von Sensorsignalen.
+[[Signalverarbeitung]]
