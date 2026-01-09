@@ -75,3 +75,13 @@ $$\frac{\Delta\lambda}{\lambda_{0}} = (1-p_{e})\Delta\epsilon + (\alpha_{\Lambda
 
 ### Anwendung: Verteilte Messung
 Da man viele Gitter mit unterschiedlichen Gitterkonstanten (unterschiedlichen Reflexionsfarben) in eine einzige Faser schreiben kann, lassen sich viele Messpunkte entlang einer einzigen Leitung abfragen (Multiplexing).
+
++ **EInsatz in schwieriegen Umgebungen**: 
+	+ chemisch aggressiv
+	+ Starke Felder und Strahlungen (Kerntechnik, Hochspannungstechnik)
+	+ hohe Temperaturen
+	+ schwer zugängliche Bereiche
++ **Strömungsarme Signalübertragung**:
+	+ Potentialtrennung und Isolation z.B Medizintechnik, Windkraftanlagen
+	+ gute EMV (Elektromagnetische Vertäglichkeit) z.B Luftfahrt
+	+ Überbrückung großer Distanzen (Fernüberwachung)
