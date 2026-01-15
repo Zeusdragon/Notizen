@@ -64,6 +64,7 @@ Ziel: Minimierung aktiver Kältearbeit durch Nutzung natürlicher Senken.
 1.  **Erdreich**: Erdreichwärmeübertrager (Luft oder Sole) nutzen die konstante Temperatur des Bodens ($10 \dots 12^\circ C$) zur Vorkühlung der Zuluft.
 2.  **Nachtlüftung**: Freie Kühlung durch kühle Nachtluft (automatisierte Fensteröffnung). Effektiv bei hoher thermischer Gebäudemasse.
 3.  **Verdunstung**: Adiabate Kühlung (z.B. Besprühung von Dächern oder Kühltürmen).
+	1. Aufpassen Legionellen, Hygiene, Luftfeuchtigkeit
 
 ### Sky Cooling (Strahlungskühlung)
 Nutzung des Weltalls als ultimative Kältesenke ($3~K$).
