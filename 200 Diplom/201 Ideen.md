@@ -35,3 +35,9 @@ Vergleich wie mien Modell abschneidet im Vergleich zu Jonas
 ## 4 Test im echten Leben an Prüfstand (optional)
 Hardware in the loop modell gibt an Regler system Sollwerte und Bool Abtauung
 UNd dann Messen wie performt in Vergleich zu Standard regler
+
+
+
+# Automatischer PID Regler
+Automatische Einstellung von PI-Regler Konstanten durch KI 
+Simulation in der Loop ansatz für Training anschließend Feldtest mit Validiierung
