@@ -58,6 +58,7 @@ Das Faser-Bragg-Gitter ist einer der wichtigsten faseroptischen Sensoren.
 * In den Faserkern wird ein **periodisches Gitter** mit variierender Brechzahl eingeschrieben.
 * Dieses Gitter wirkt wie ein selektiver Spiegel: Es reflektiert nur eine ganz bestimmte Wellenlänge (die **Bragg-Wellenlänge** $\lambda_B$), während alle anderen Wellenlängen transmittiert werden.
 * Ändert sich die Temperatur oder wird die Faser gedehnt, ändert sich die Gitterperiode und damit die reflektierte Farbe (Wellenlänge).
+* Grundprinzip: Schichtprinzipr
 
 ### Abhängigkeit von Dehnung und Temperatur
 Die Verschiebung der Zentralwellenlänge $\Delta \lambda$ hängt von der mechanischen Dehnung $\Delta \epsilon$ und der Temperaturänderung $\Delta T$ ab.
@@ -71,10 +72,11 @@ $$\frac{\Delta\lambda}{\lambda_{0}} = (1-p_{e})\Delta\epsilon + (\alpha_{\Lambda
 * $\alpha_n$: Thermooptischer Koeffizient (Brechzahländerung durch Temperatur)
 
 > [!WARNING] Querempfindlichkeit
-> Da FBG-Sensoren sowohl auf **Dehnung** als auch auf **Temperatur** reagieren, muss man in der Praxis oft eine Größe kompensieren, um die andere exakt zu messen (z.B. durch eine lose Referenzfaser, die nur die Temperatur sieht).
+> Da FBG-Sensoren sowohl auf **Dehnung** als auch auf **Temperatur** reagieren, muss man in der Praxis oft eine Größe kompensieren, um die andere exakt zu messen (z.B. durch eine lose Referenzfaser in Stahlkanüle, die nur die Temperatur sieht).
 
 ### Anwendung: Verteilte Messung
 Da man viele Gitter mit unterschiedlichen Gitterkonstanten (unterschiedlichen Reflexionsfarben) in eine einzige Faser schreiben kann, lassen sich viele Messpunkte entlang einer einzigen Leitung abfragen (Multiplexing).
+Bis zu 20 Messtellen möglich ab da gibt das spektrum nichts mehr her.
 
 + **EInsatz in schwieriegen Umgebungen**: 
 	+ chemisch aggressiv
