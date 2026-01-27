@@ -12,31 +12,38 @@
 
 # Fragen
 + wenn regler da ich kann ja nicht publishen wie soll ich daten generieren die dann das verhalten abbilden?
+	+ mqtt nachrichten durch sim ab jetzt mit denen ich dann arbeiten muss
 
-+ was ist maximaler Verbrauch vom Heizkris und Trinkwasser
++ was ist maximaler Verbrauch vom Heizkreis und Trinkwasser
+	+ irrelevant s.untere Frage
 
 + Wie viel Wärmeenergie kann pufferspeicher halten?
+	+ irrelevant da wir nur aktuelle Regelung abbilden wollen nun
 
 + Geolocation für Wärmepumpe für Wetterdaten einführen.
 	+ Vorlauf wird doch wichtig wegen COP berechnung für Wetterdaten mit zugehörigen Vorlauf sowie Verdichter Verbrauch etc.
+	+ ein gebäude würde die geolocation bekommen und dann entlang des trees kann man dann arbeiten
 
 + Idee eine Loop die jede Stunde einmal zukunft abfragt und dann einmal einer der alle 15 minuten aktuellen Status nur abfragt und guckt ob wir überlaufen oder kritisch unterwegs sind als sicherheit.
+	+ In den Ausblick was geht mit Plattform 
 
 + Sharky_TW hat werte die eher für HZ sprechen und vice versa?
 	+ Trinkwasser irrelevant
 
 + zugang zu Intranet doch weg?
+	+ WIP
 
-+ Funktion aktueller Regler nachbauen?
-
+# Ergebnisse Gespräch
++ Funktion aktueller Regler nachbauen
+	+ mit encodapy da regler irrelevant ob Linked Data oder V2
 + Punkte Graphdatenbanken mit context eingehen welche Punkte wirklich genutzt werden
-
-+ Welche hindernisse aktuelle entwicklung hat 
-
+	+ Entlang vom Tree kann ich gehen und attribute bekommen nicht jedes entity braucht immer dieselben daten
++ Welche hindernisse aktuelle entwicklung hat
+	+ fehlende Implementierung von anwendungen Gateways, Frameworks, etc.
 + Daten Mapping Aufwand einbringen 
-
-+ An Maximilian SChema schicken mit Datenpunkten die ich brauche
-
+	+ Hoher Aufwand datenpunkte zu mappen und zu reinigen für services
++ An Maximilian Schema schicken mit Datenpunkten die ich brauche
+	+ V2 Schema mit Datenpunkten 
 + Context Server angucken mit Graph Tree  
 
 
