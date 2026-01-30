@@ -37,9 +37,10 @@ Spektroskopie basiert auf der Wechselwirkung elektromagnetischer Strahlung mit M
 
 ### Lambert-Beer'sches Gesetz
 Der Zusammenhang zwischen Absorption und Konzentration ist linear (bei verdünnten Lösungen):
-$$E = - \log_{10}(T) = \epsilon(\lambda) \cdot c \cdot d$$
+$$E = - \log_{10}(T) = \mu_m(\lambda) \cdot c \cdot d$$
 * $E$: Extinktion
-* $\epsilon$: Extinktionskoeffizient (stoffspezifisch)
+* $T$: Transmission
+* $\mu_m$: Extinktionskoeffizient (stoffspezifisch)
 * $c$: Konzentration
 * $d$: Schichtdicke (Pfadlenge des Lichts)
 
@@ -48,6 +49,7 @@ $$E = - \log_{10}(T) = \epsilon(\lambda) \cdot c \cdot d$$
 2.  **Monochromator**: Beugungsgitter zerlegt das Licht in seine Spektralfarben.
 3.  **Probe**: Küvette oder Durchflusszelle.
 4.  **Detektor**: Photodiode (Si, InGaAs) oder CCD-Zeile (für gleichzeitige Messung aller Wellenlängen).
+Referenzstrahl und probestrahl kommen auf Detektor zu erschiedenen Zeiten alles paar sekunden wird ein Shutter zu gemacht so dass entweder nur Probestrahl kommt oder Referenzstrahl. Referenzstrahl Messwert wird dann für die Zeit abgespeichert
 
 ---
 
