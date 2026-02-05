@@ -12,3 +12,5 @@ Einflüsse Liefergrad $\lambda = \frac{\dot{m}}{V_Hn\rho}$:
 + innere Leckage
 
 
+bei niedrigen $\pi$ Druckverlust bis optimum anschließend höhereer Effekt der inneren Leckage $\dot{m}_{leackage}$ sorgt für niedrigerer  Massestrom 
+
