@@ -23,7 +23,7 @@
 ### 3. Synthese & Writing
 - [ ] Auswertung der Taktung und Kostenersparnis.
 - [ ] Diskussion: Ist NGSI-LD den Mehraufwand wert?
-- [ ] Finalisierung der Arbeit.
+- [ ] Finalisierung der Arbeit. 📅 2026-03-10 
 
 ---
 

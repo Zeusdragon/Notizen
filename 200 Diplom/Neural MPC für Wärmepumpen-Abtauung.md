@@ -27,7 +27,7 @@ Entwicklung eines MPC-Reglers, der den **optimalen Startzeitpunkt für die Abtau
 - [ ] Recherche: Physik der Reifbildung & Abtauung.
 - [ ] Vergleich: Regelbasiert vs. RL vs. MPC.
 - [ ] Deep Dive: "Neural MPC" und Surrogate Modeling in der Regelungstechnik.
-- [ ] Paper-Sammlung anlegen (z.B. in Zotero/Obsidian).
+- [ ] Paper-Sammlung anlegen (z.B. in Zotero/Obsidian). 📅 2026-04-14 
 
 ### AP 2: Systemanalyse & Daten (Dymola)
 - [ ] Einarbeitung in das bestehende [[Dymola-Modell]].

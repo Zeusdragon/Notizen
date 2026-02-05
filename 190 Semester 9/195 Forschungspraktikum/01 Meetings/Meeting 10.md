@@ -42,8 +42,6 @@
 	+ fehlende Implementierung von anwendungen Gateways, Frameworks, etc.
 + Daten Mapping Aufwand einbringen 
 	+ Hoher Aufwand datenpunkte zu mappen und zu reinigen für services
-+ An Maximilian Schema schicken mit Datenpunkten die ich brauche
-	+ V2 Schema mit Datenpunkten 
 + Context Server angucken mit Graph Tree  
 
 
