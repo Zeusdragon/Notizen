@@ -63,8 +63,10 @@ Referenzstrahl und probestrahl kommen auf Detektor zu erschiedenen Zeiten alles 
 ### FTIR-Spektrometer (Fourier-Transform-IR)
 Statt eines Gitters (langsam, lichtschwach) wird ein **Michelson-Interferometer** genutzt.
 1.  **Interferometer**: Strahlteiler teilt Licht auf festen und beweglichen Spiegel auf.
-2.  **Interferogramm**: Detektor misst Intensität in Abhängigkeit vom Spiegelweg (Zeitdomäne).
-3.  **Fourier-Transformation (FFT)**: Ein Computer rechnet das Interferogramm in ein Spektrum um (Frequenzdomäne).
+2. Wellenzahl sagt aus wie viele Perioden auf einem cm bspw. sind Also bei Wellenzahl k = 100 heißt 100 Perioden auf einem cm
+3. für polychromatisches Licht gilt $I(x) = \int_{0}^{+\infty} I(k)\cos{kx} \, dx$
+4.  **Interferogramm**: Detektor misst Intensität in Abhängigkeit vom Spiegelweg (Zeitdomäne).
+5.  **Fourier-Transformation (FFT)**: Ein Computer rechnet das Interferogramm in ein Spektrum um (Frequenzdomäne).
 * **Vorteile**: Viel schneller und lichtstärker als dispersive Geräte (Fellgett-Vorteil, Jacquinot-Vorteil).
 
 ### ATR-Sonde (Attenuated Total Reflection)
@@ -72,6 +74,8 @@ Für Prozessmessungen in undurchsichtigen oder stark absorbierenden Flüssigkeit
 * Licht wird in einem Kristall (hoher Brechungsindex, z.B. Diamant, ZnSe) totalreflektiert.
 * An der Grenzfläche zur Probe bildet sich eine **evaneszente Welle** aus, die wenige µm in die Probe eindringt.
 * Wird Licht bei bestimmten Wellenlängen von der Probe absorbiert, wird die Totalreflexion gedämpft ("Attenuated").
+* Sonden müssen immer mal wieeder sauber gemacht werden müssen
+* in chemie industrie nicht gerne genutzt weil Wartungskosten durch Reinigung zu hoch sind
 
 ---
 
@@ -83,6 +87,9 @@ Für Prozessmessungen in undurchsichtigen oder stark absorbierenden Flüssigkeit
 3.  **Emission**: Das Elektron fällt zurück und sendet ein Photon aus.
 * **Stokes-Shift**: Das emittierte Licht ist energieärmer (langwelliger) als das angeregte Licht.
 * Dargestellt im **Jablonski-Diagramm**.
+### Anwendung 
+Gerne in Biologie genutzt da einige Fluoraktive Moleküle da sind
++ **Vorteil** Anregungslicht variabel und für jedes Anregungslicht ein eigenes Spektrum bekommen
 
 ---
 
@@ -94,9 +101,14 @@ Für Prozessmessungen in undurchsichtigen oder stark absorbierenden Flüssigkeit
 * Komplementär zur IR-Spektroskopie (IR sieht Dipoländerungen, Raman sieht Polarisierbarkeitsänderungen).
 
 ### Streuarten
-1.  **Rayleigh-Streuung**: Elastisch (gleiche Wellenlänge wie Laser). Intensiv, aber keine Info.
+1.  **Rayleigh-Streuung**: Elastisch (gleiche Wellenlänge wie Laser). Intensivität, aber kleiner
 2.  **Stokes-Raman**: Energie wird an Molekül abgegeben (Licht wird röter/langwelliger). Standardfall.
 3.  **Anti-Stokes-Raman**: Energie wird vom Molekül aufgenommen (Licht wird blauer). Nur bei bereits angeregten Molekülen (heiß).
+
+> [!INFO] Merke
+> $I_{Anregung} \approx 10³ I_{Rayleigh} \approx 10⁶ I_{Raman}$
+
+Für Ramen Streuung werden sogenannte Notch Filter(gitter werden präzise gedampft) genutzt um genau die Raman wellenlänge durchzulassen und Rayleigh intensität rausfiltert unterdrückt 10³ mindestens 
 
 ---
 
