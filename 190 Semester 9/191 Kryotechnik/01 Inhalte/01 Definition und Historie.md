@@ -10,7 +10,7 @@
 * **Altgriechisch**: κρύος (Kälte, Frost) + γεννάω (hervorbringen).
 * **Klassisch**: Verflüssigung "permanenter" Gase ($N_2, O_2, H_2$).
 * **Thermodynamisch**: Bereich, in dem der Carnot-Faktor < 1 ist.
-* > [!important] Definition heute
+> [!important] Definition heute
 > $T < 120~K$
 
 ## Kryogene Fluide & Temperaturbereiche

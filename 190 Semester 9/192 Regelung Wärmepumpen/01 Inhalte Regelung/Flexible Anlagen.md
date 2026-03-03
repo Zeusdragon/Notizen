@@ -27,7 +27,7 @@ zwangsgestuert:
 + keine Mindestdruckdifferenz nötig
 
 # Schütze
-Sind Schalter mit Steurleistung kann motor an und aus schalten wie eine sicherung
+Sind Schalter mit Streuleistung kann motor an und aus schalten wie eine sicherung
 
 
 # Regelung und Steuerung

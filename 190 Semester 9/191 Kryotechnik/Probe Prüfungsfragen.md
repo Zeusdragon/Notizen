@@ -19,6 +19,7 @@
 ## 2. Thermodynamik & Kreisprozesse [[03 Kälteerzeugung]]
 + **Carnot-Prozess**:
     + Definition und Bedeutung.
+	    + isenthalpe Drosselung und Verdichtung und isotherme Energiezufuhr und abgabe kann man runterrechnen in $\frac{T_u}{T_u-T_0}$ 
     + Berechnung der minimal erforderlichen Kühlleistung (COP).
 + Zeichnen Sie folgende Kreisläufe als **Fließbild** und im **$T-s$-Diagramm**:
     + Joule-Thomson-Prozess (Linde).
@@ -43,6 +44,11 @@
 
 ## 4. Wärmeübertragung & Isolation
 + Nennen Sie 3 unvermeidbare **Wärmeübertragungsmechanismen** bei einem Dewarbehälter und die jeweiligen **Gegenmaßnahmen**.
+	1. Strahlung 
+		1. Gegenmaßnahme: Spieglung
+	2. Wärmeleitung
+		1. Isoltationvakuum oder Isolation allgemein
+	3. 
 + **Berechnungsaufgabe**: Wärmeleitung über ein Halsrohr.
     + Gegeben: Geometrie, Wärmeleitintegral.
     + Gesucht: Wärmestrom $\dot{Q}$.

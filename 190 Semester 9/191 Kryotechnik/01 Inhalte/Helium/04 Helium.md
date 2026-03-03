@@ -3,7 +3,8 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Helium]], [[Verflüssiger]], [[Linde]], [[Collins]]
-[[04 Heliumverflüssigung.pdf]]
+![[04 Heliumverflüssigung.pdf]]
+
 ---
 
 # Historie

@@ -24,10 +24,10 @@
 * **Funktion:** Magnetventil zur Verdampfungsdruckhaltung. Heißgas wird von *nach Verdichter* zu *vor Verdampfer* (an Punkt 4) eingespritzt.
 * **Status:** 🛑 Veraltet (Nicht nutzen!)
 
-| Vorteile ✅ | Nachteile ❌ |
-| :--- | :--- |
-| Im gesamten Regelbereich nutzbar | **Sehr ineffizient** |
-| Kostengünstig & Selbsttätig | Benötigt mehr Heißgas |
+| Vorteile ✅                       | Nachteile ❌           |
+| :------------------------------- | :-------------------- |
+| Im gesamten Regelbereich nutzbar | **Sehr ineffizient**  |
+| Kostengünstig & Selbsttätig      | Benötigt mehr Heißgas |
 
 ## B. Verdampfungsdruckregler
 * **Funktion:** Hält Verdampfungsdruck ohne Verdichterregelung. Absenkung des Drucks auf $p_0^*$ -> Erhöhte technische Arbeit.

@@ -14,7 +14,7 @@ Merkmal nummer 1 mit Ausbeulung am DIng
 Hauptnutzung physikalischer Eigenschaft Corioliskraft
 
 ## Grundprinzip
-Stromung durch gebogenes Rohr, Rohr wird in Schwingung versetzt senkrecht zum Rohrbogen dadurch wird eine winkelgeschw erzeugt und Corioliskraft tritt auf und man kann ein $$\Delta s = a sin(\phi)$$ 
+Stromung durch gebogenes Rohr, Rohr wird in Schwingung versetzt senkrecht zum Rohrbogen, dadurch wird eine winkelgeschw $\omega$ erzeugt und Corioliskraft tritt auf und man kann ein $$\Delta s = a sin(\phi)$$ 
  messen
 
 $$ F_c = 2 \omega \rho A \cdot l \cdot v = 2\omega \cdot \dot{m} \cdot l$$

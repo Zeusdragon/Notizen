@@ -3,7 +3,8 @@
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 
 **Topics**: [[Helium]], [[Rohstoffe]], [[Erdgas]]
-[[05 Heliumgewinnung.pdf]]
+![[05 Heliumgewinnung.pdf]]
+
 ---
 
 # Herkunft

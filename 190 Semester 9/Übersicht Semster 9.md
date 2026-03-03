@@ -25,5 +25,4 @@
 ---
 ## 📅 Nächste Deadlines & ToDos
 - [x] Sensorik: Hausaufgabe Datenanalyse (Januar)
-- [ ] Kryo: Stoff wiederholen (Inversionskurve) 📅 2026-02-09 ⏳ 2026-02-06
 - [ ] 16.03.2026 Abgabe Forschungspraktikum 🔼 📅 2026-02-16
