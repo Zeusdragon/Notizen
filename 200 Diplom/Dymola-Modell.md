@@ -3,11 +3,11 @@ Kreislauf auswirkung eines gefrosteten Verdampfer
 
 
 Outputs relevant: 
-$\dot{Q}$ , $P_{El}$ , Eismasse am Verdampfer
+Belohnung:  $\frac{COP}{COP_{Carnot}}$ 
+**Observation**: $T_{Luft}$ , $T_{Verdampfer}$ 
 
 Inputs:
 + Störgrößen
 	+ Wetter: phi, T
-+ Stellgrößen:
-	+ Sollwerte:
-	+ Boolscher: Abtauung an/aus
++ Stellgrößen (Aktuator):
+	+ Boolscher: Abtauung an/aus (reverseCycle)

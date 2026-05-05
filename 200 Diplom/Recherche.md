@@ -1,4 +1,4 @@
 - FMU performanter als Dymola selber 
 - 150000 steps ein step simuliert ca 60 sekunden und dann interagiert die RL wieder mit der FMU
 - 150000 Steps sind ca. 170 Simulierte Trainingstage
-- An Wetterprofilen muss man traiieren dafür gibt es es eine Dymola lib namens AIXLIB um Wetter daten zu machen und Gebäudeprofile zu simulieren
+- An Wetterprofilen muss man trainieren dafür gibt es es eine Dymola lib namens AIXLIB um Wetter daten zu machen und Gebäudeprofile zu simulieren
