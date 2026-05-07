@@ -5,6 +5,8 @@
 - Wie mache ich es mit Wetterdaten und Wärmebedarf
 - FMU Inputs: reverseCycle,
 - FMU Outputs: COP, $T_{Luft}$, $T_{Verdampfer}$
+- Potenziell doch Komplexer als erwartet maybe muss Verdampfer Modell angepasst werden das wär semi nice 
+- mal gucken ob die Abtau abbildung von dem WP Modell ausreicht
 
 # Schritt 2: Aus FMU eine Gym Umgebung machen 1-2 Wochen
 Implementierung von fmugym um eine Interaktion des Modells mit RL-Agenten zu ermöglichen Wird eine Python Datei und es muss Drop in möglich sein FMU rein zu laden
@@ -22,6 +24,7 @@ Implementierung von fmugym um eine Interaktion des Modells mit RL-Agenten zu erm
 - Auswerten mit Vergelich für Bedarfsgesteurte und Zeitgesteurte Abtauung
 - Was soll meine Parameter sein die ich mir angucke potenziell elektrische Leistung, COP, Heizleistung, Verdampfertemperaturen
 - Mein Seed für Temperatur und Wärmebedarfprofil muss gleich sein für die referenz simulationen
+- Vergleich durch SCOP = $\frac{\dot{Q}_c - \dot{Q}_{abtau}}{P_{el}}$
 
 # Schritt 5: Transfer andere FMU 2-3 Wochen
 - wie viele FMU's will ich machen wie diskret ist die Auflösung 
