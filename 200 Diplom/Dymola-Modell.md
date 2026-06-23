@@ -11,3 +11,6 @@ Inputs:
 	+ Wetter: phi, T
 + Stellgrößen (Aktuator):
 	+ Boolscher: Abtauung an/aus (reverseCycle)
+	+ Compressor Hubvolumen mit limit zwischen 0.1 und 1
+	+ EXV Öffnungsgrad zwischen 0.1 und 1 wird dann umgerechnet mit kator 1.5e-3
+	+ 
