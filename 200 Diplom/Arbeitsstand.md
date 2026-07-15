@@ -6,9 +6,10 @@
 * **Basis-Simulation:** Dymola (TIL-Suite). Die Wärmepumpe wird als FMU exportiert. 
 * **Regelungstechnik der Anlage:** * Die Leistungsregelung erfolgt numerisch robust über das Hubvolumen (Displacement), welches dauerhaft fest auf 0,5 gesetzt ist. 
   * Das EXV wird im Heizmodus über einen PI-Regler auf eine Unterkühlung von 2 K (Sollwert) eingeregelt und somit über den effektiven Querschnitt gesteuert.
+  * Agent hat bei der Entscheidung Abtauung nur eine Abtauiniitierung zu verantworten danach wird solange abgetaut bis Verdampfertemperatur bei 10°C ist oder 10 min abgetaut wurde als Failsafe
 * **RL-Environment:** Custom `HeatPumpEnv` (Gymnasium).
 * **Wrapper & Skalierung:**
-  * `SubprocVecEnv`: Multiprocessing mit 16 CPU-Kernen für massiv paralleles Training.
+  * `SubprocVecEnv`: Multiprocessing mit 8 Parallel-Prozessen für massiv paralleles Training.
   * `VecFrameStack` (n=36): Der Agent sieht die letzten 36 Schritte (entspricht 1 Stunde).
   * `VecNormalize`: Laufende Standardisierung der Observationen und Rewards (verhindert instabile Gradienten). Ein Custom Callback speichert die Stats regelmäßig ab.
 

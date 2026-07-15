@@ -19,4 +19,9 @@
 - brauche einen Trainings und validierungs datensatz
 - Action Space nur abtauen ja/nein (Bool)
 - State Space wird nur Tair und TVerdampfung sein sowie wie a-1
-- 
+
+# Erkentnisse
+## Hyperparameter nicht gleich bei änderungen der timesteps
+wenn ich hyperparameter habe wo gesagt wird ab wann Lernen anfängt und training äufhört macht das ein unterschied weil die zahl relativ ist also man sagt nach der hälfte hört er auf zufall zu machen wenn ich nun.
+
+Wichtig Trainings_frequnz und Gradienten Update an Prozess Anzahl koppeln damit. genug Updates des Netzwerkes stattfinden.
