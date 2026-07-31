@@ -13,4 +13,4 @@ Inputs:
 	+ Boolscher: Abtauung an/aus (reverseCycle)
 	+ Compressor Hubvolumen mit limit zwischen 0.1 und 1
 	+ EXV Öffnungsgrad zwischen 0.1 und 1 wird dann umgerechnet mit kator 1.5e-3
-	+ 
+	+ Compressor und EXV nun nicht mehr durch FMU Steuerbar werden innerhalb fmu selbst durch PI Regler und konstanten gestellt. 

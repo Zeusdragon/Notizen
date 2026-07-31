@@ -1,7 +1,7 @@
 # 🎓 Semester 9 Dashboard
 
 **Zeitraum:** WS 25/26
-**Status:** 🟡Laufend
+**Status:** 🟢 beendet
 
 ## 📚 Module
 
@@ -25,4 +25,4 @@
 ---
 ## 📅 Nächste Deadlines & ToDos
 - [x] Sensorik: Hausaufgabe Datenanalyse (Januar)
-- [ ] 16.03.2026 Abgabe Forschungspraktikum 🔼 📅 2026-02-16
+- [x] 16.03.2026 Abgabe Forschungspraktikum 🔼 📅 2026-02-16
