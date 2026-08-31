@@ -1,3 +1,9 @@
+---
+title: "Geometrische Parameter"
+type: diplom
+erstellt: 2026-06-23
+---
+
 verdampfer Geometrie Parameter
 
 

@@ -1,3 +1,9 @@
+---
+title: "Was ist Transientes Verhalten"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 # Was ist Transientes Verhalten
 im gegenzug zu stationär geht es um VErhalten der Anlage während laufzeit

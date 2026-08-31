@@ -1,3 +1,9 @@
+---
+title: "306 Energetische Anforderungen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[306 Energetische Anforderungen]]
 **Datum**: 25.07.2025
 **Topics**:

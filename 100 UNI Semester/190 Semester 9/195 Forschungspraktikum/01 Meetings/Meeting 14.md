@@ -1,3 +1,9 @@
+---
+title: "Meeting 14"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 + soll die Entscheidungslogik jetzt wie Programm ablauf sein oder reiner Erzeuger Bewerter? 
 	+ reiner Erzeuger bewerter aber auffürhen das man beides implementieren kann mansich hier zum Test die reine Erzeugerbewertung angucken wollte

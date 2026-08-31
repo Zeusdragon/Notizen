@@ -1,3 +1,9 @@
+---
+title: "105 Expansionsberechnung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[105 Expansionsberechnung]]
 **Datum**: 30.04.2025
 **Topics**: #Kälteanlagen/Simulation/Expansionsberechnung

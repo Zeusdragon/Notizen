@@ -1,7 +1,17 @@
+---
+title: "Sobol-Sequenzen"
+type: konzept
+status: fertig
+tags:
+  - statistik
+  - sampling
+  - sensitivity-analysis
+  - doe
+erstellt: 2026-08-11
+---
+
 # Sobol-Sequenzen
 
-**Tags:** #statistik #sampling #sensitivity-analysis #doe
-**Status:** 🟢 Fertig
 **Bezug:** [[DoE Grundlagen]] · [[Gaussian Process]] · [[200 Diplom/Arbeitsstand]]
 
 ---

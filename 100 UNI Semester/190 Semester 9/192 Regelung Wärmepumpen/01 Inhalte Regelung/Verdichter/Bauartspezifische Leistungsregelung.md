@@ -1,6 +1,16 @@
+---
+title: "Bauartspezifische Leistungsregelung"
+type: vorlesung
+tags:
+  - Hubkolben
+  - Schraube
+  - Scroll
+  - Turbo
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Thema**: [[Verdichterregelung]]
-**Tags**: #Hubkolben #Schraube #Scroll #Turbo
 
 ---
 

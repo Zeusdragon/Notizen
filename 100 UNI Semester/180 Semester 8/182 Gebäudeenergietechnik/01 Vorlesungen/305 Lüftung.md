@@ -1,3 +1,9 @@
+---
+title: "305 Lüftung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[305 Lüftung]]
 **Datum**: 25.07.2025
 **Topics**:

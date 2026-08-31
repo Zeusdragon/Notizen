@@ -1,3 +1,8 @@
+---
+title: "10 Wasserstoff - Sicherheit & Wirkungsgrad"
+type: vorlesung
+erstellt: 2026-05-05
+---
 
 # 10 Wasserstoff - Sicherheit & Wirkungsgrad
 

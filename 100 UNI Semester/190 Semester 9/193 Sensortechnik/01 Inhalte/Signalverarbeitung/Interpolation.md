@@ -1,3 +1,8 @@
+---
+title: "Interpolation"
+type: vorlesung
+erstellt: 2026-05-05
+---
 
 **Vorlesung**: [[190 Semester 9/193 Sensortechnik/01 Inhalte/Signalverarbeitung]]
 **Datum**: 24.10.2025

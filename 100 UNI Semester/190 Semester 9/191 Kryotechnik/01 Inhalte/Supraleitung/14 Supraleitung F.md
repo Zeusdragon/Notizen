@@ -1,3 +1,9 @@
+---
+title: "14 Supraleitung F: NMR & Stromzuführungen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 5**Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 2026-01-06
 **Topics**: [[NMR]], [[MRI]], [[Stromzuführungen]], [[Wiedemann-Franz-Gesetz]]

@@ -1,3 +1,9 @@
+---
+title: "13 Supraleitung E - Magnete & Anwendungen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 13 Supraleitung E - Magnete & Anwendungen
 
 **Vorlesung**: [[191 Kryotechnik]]

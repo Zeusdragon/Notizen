@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, Off-Policy, Actor-Critic, Deterministic]
+title: "DDPG (Deep Deterministic Policy Gradient)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # DDPG (Deep Deterministic Policy Gradient)
 
 ## Funktionsprinzip

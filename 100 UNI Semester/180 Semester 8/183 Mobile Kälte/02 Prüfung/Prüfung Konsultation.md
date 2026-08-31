@@ -1,3 +1,9 @@
+---
+title: "Prüfung Konsultation"
+type: uebung
+erstellt: 2026-05-05
+---
+
 # Themen
 FlugzeugKlima
 PKW NVH

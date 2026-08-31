@@ -1,6 +1,14 @@
+---
+title: "06 Signalverarbeitung im Frequnzbereich"
+type: vorlesung
+tags:
+  - Signalverarbeitung
+  - Fensterfunktionen
+erstellt: 2026-05-05
+---
+
 # 6.1 Fourier-Reihen
 
-**Tags:** #Signalverarbeitung #Fourier
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.1)
 
 ---
@@ -17,7 +25,6 @@ $$F_n = \frac{1}{T} \int_{-T/2}^{+T/2} f(t) e^{-j\omega_n t} dt$$
 
 # 6.2 Fourier-Transformation
 
-**Tags:** #Signalverarbeitung #Fourier #Spektrum
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.2)
 
 ---
@@ -38,7 +45,6 @@ $$f(t) = \frac{1}{2\pi} \int_{-\infty}^{+\infty} F(\omega) e^{j\omega t} d\omega
 ---
 # 6.3 Signalleistung
 
-**Tags:** #Signalverarbeitung #Leistung
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.3)
 
 ---
@@ -55,7 +61,6 @@ $$V_{dB} = 10 \log_{10} \frac{P_1}{P_2} = 20 \log_{10} \frac{U_1}{U_2}$$
 
 # 6.4 Differenziale und Integrale im Frequenzbereich
 
-**Tags:** #Signalverarbeitung #Fourier #Mathematik
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.4)
 
 ---
@@ -73,7 +78,6 @@ Die Fourier-Transformation vereinfacht Calculus-Operationen zu algebraischen Ope
 
 # 6.5 Zeitverschobene Signale im Frequenzbereich
 
-**Tags:** #Signalverarbeitung #Verschiebungssatz
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.5)
 
 ---
@@ -86,7 +90,6 @@ $$f(t - \Delta t) \leftrightarrow e^{-j\omega \Delta t} F(\omega)$$
 
 # 6.6 Faltung
 
-**Tags:** #Signalverarbeitung #Faltung
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.6)
 
 ---
@@ -102,7 +105,6 @@ $$g(t) = f(t) * h(t) = \int_{-\infty}^{+\infty} h(t - t') f(t') dt'$$
 
 # 6.7 Faltung im Frequenzraum
 
-**Tags:** #Signalverarbeitung #Faltung #Faltungstheorem
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.7)
 
 ---
@@ -116,7 +118,6 @@ $$f(t) * g(t) \leftrightarrow F(\omega) \cdot G(\omega)$$
 
 # 6.8 Korrelation und Faltung
 
-**Tags:** #Signalverarbeitung #Korrelation #Wiener-Chintschin
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.8)
 
 ---
@@ -136,7 +137,6 @@ $$\int |F(\omega)|^2 d\omega = \int f^2(t) dt$$
 
 # 6.9 Abtastung analoger Signale: Abtasttheorem und Aliasing
 
-**Tags:** #Signalverarbeitung #Sampling #Aliasing #Nyquist
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.9)
 
 ---
@@ -159,7 +159,6 @@ Die **Nyquist-Frequenz** ist $\omega_{Ny} = \omega_A / 2$.
 
 # 6.10 Abtastung von unendlichen Signalen
 
-**Tags:** #Signalverarbeitung #Fensterung #DFT
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.10)
 
 ---
@@ -176,7 +175,6 @@ Im Spektrum "schmiert" die Energie auf benachbarte Frequenzen (Sinc-Nebenkeulen)
 
 # 6.11 Fenster für die Begrenzung unendlicher Signale
 
-**Tags:** #Signalverarbeitung #Fensterfunktionen
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 6.11)
 
 ---

@@ -1,3 +1,9 @@
+---
+title: "404 Container Kühlung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[404 Container Kühlung]]
 **Datum**: 26.06.2025
 	**Topics**: #Mobile_Kälte/ContainerKühlung #Mobile_Kälte/Schifffahrt

@@ -1,7 +1,11 @@
 ---
 tags: [ReinforcementLearning, Off-Policy, Value-Based, DistributionalRL, SB3-Contrib]
 aliases: [Quantile Regression DQN, Distributional DQN]
+title: "QR-DQN (Quantile Regression DQN)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # QR-DQN (Quantile Regression DQN)
 
 > [!info] sb3-contrib

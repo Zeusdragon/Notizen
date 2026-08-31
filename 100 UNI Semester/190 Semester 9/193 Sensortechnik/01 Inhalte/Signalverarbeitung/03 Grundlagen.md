@@ -1,6 +1,15 @@
+---
+title: "03 Grundlagen"
+type: vorlesung
+tags:
+  - Signalverarbeitung
+  - ADC
+  - Digitalisierung
+erstellt: 2026-05-05
+---
+
 # 3.1 Signale
 
-**Tags:** #Signalverarbeitung #Grundlagen #Signale
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 3.1)
 
 ---
@@ -33,7 +42,6 @@ Unterscheidung nach Wertebereich und Definitionsbereich (Zeit):
 ---
 # 3.2 Wichtige Grundsignalformen
 
-**Tags:** #Signalverarbeitung #Grundlagen #Signalformen
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 3.2)
 
 ---
@@ -65,7 +73,6 @@ $$s(t) = \int_{-\infty}^{t} \delta(t') dt' = \begin{cases} 1 & \text{für } t > 
 --- 
 # 3.3 Signal und Information
 
-**Tags:** #Signalverarbeitung #Informationstheorie
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 3.3)
 
 ---
@@ -86,7 +93,6 @@ $I = \log_2 8 = 3$ Bit. [cite_start]Man muss 3 Ja/Nein-Fragen stellen, um den We
 ---
 # 3.4 Signalverarbeitendes System
 
-**Tags:** #Signalverarbeitung #LTI #Systemtheorie
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 3.4)
 
 ---
@@ -106,7 +112,6 @@ $$g(t) = \mathcal{H}\{f(t)\}$$
 ---
 # 3.5 Technische Signaldigitalisierung
 
-**Tags:** #Signalverarbeitung #ADC #Digitalisierung
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 3.5)
 
 ---

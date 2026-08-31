@@ -1,3 +1,9 @@
+---
+title: "Meeting 12"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 + Wo ist dann die Fiware Plattform 
 + Encodapy wo

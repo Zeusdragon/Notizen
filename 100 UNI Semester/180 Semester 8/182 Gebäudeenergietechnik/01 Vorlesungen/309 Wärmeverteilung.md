@@ -1,3 +1,9 @@
+---
+title: "309 Wärmeverteilung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[309 Wärmeverteilung]]
 **Datum**: 25.07.2025
 **Topics**:

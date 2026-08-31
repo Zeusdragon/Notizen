@@ -1,6 +1,17 @@
+---
+title: "Regelungsschaltungen"
+type: vorlesung
+tags:
+  - Lastabwurf
+  - Residuallast
+  - Abtauung
+  - Regelstrategien
+  - Wärmepumpe
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Datum**: 16.10.2025
-**Tags**: #Lastabwurf #Residuallast #Abtauung #Regelstrategien #Wärmepumpe
 
 ---
 

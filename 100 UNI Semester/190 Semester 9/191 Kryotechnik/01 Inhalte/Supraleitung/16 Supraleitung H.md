@@ -1,3 +1,9 @@
+---
+title: "16 Supraleitung H: Anwendungen in der Energietechnik"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 2026-01-20
 **Topics**: [[Strombegrenzer]], [[Kabel]], [[Schwungrad]], [[Magnetlager]], [[Fusion]]

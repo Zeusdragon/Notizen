@@ -1,8 +1,18 @@
+---
+title: "⚙️ Regelung von Wärmepumpen Master-Note"
+type: vorlesung
+status: in-bearbeitung
+tags:
+  - Wärmepumpe
+  - Regelung
+  - Ventile
+  - Anlagentechnik
+erstellt: 2026-05-05
+---
+
 # ⚙️ Regelung von Wärmepumpen Master-Note
 
 **Modul:** [[192 Regelung von Wärmepumpen]]
-**Tags:** #Wärmepumpe #Regelung #Ventile #Anlagentechnik
-**Status:** 🟡 In Bearbeitung
 
 ---
 

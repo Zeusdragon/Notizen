@@ -1,3 +1,9 @@
+---
+title: "🎒 Packliste: Japan & Thailand (8 Wochen)"
+type: privat
+erstellt: 2025-11-25
+---
+
 # 🎒 Packliste: Japan & Thailand (8 Wochen)
 **Gepäck:** Osprey Farpoint 55 (40L Main + 15L Daypack)
 **Strategie:** Waschen alle 7 Tage + Zwiebelprinzip für Temperaturwechsel.

@@ -1,3 +1,9 @@
+---
+title: "12 Supraleitung D - Kühlung & Magnetbau"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 12 Supraleitung D - Kühlung & Magnetbau
 
 **Vorlesung**: [[191 Kryotechnik]]

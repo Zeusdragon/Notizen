@@ -1,8 +1,17 @@
+---
+title: "Signalverarbeitung (Master-Note)"
+type: vorlesung
+tags:
+  - Signalverarbeitung
+  - MOC
+  - Master
+erstellt: 2026-05-05
+---
+
 # Signalverarbeitung (Master-Note)
 
 **Vorlesung**: [[Sensorik]] / Signalverarbeitung
 **Quelle**: [[Signalverarbeitung Skript.pdf]]
-**Tags**: #Signalverarbeitung #MOC #Master
 
 ---
 

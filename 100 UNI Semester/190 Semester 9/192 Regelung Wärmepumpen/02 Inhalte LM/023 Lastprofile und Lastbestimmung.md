@@ -1,6 +1,15 @@
+---
+title: "01 Lastprofile und Lastbestimmung"
+type: vorlesung
+tags:
+  - Lastprofil
+  - VDI2078
+  - Kühllast
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[021 Lastmanagement von Wärmepumpen]]
 **Thema**: [[023 Lastprofile und Lastbestimmung]]
-**Tags**: #Lastprofil #VDI2078 #Kühllast
 
 ---
 

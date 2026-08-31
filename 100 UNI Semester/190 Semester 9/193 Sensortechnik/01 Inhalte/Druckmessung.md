@@ -1,3 +1,9 @@
+---
+title: "Drucksensoren"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Sensorik]]
 **Datum**: 17.10.2025
 **Topics**: #Druck #Sensorik

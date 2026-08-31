@@ -1,3 +1,9 @@
+---
+title: "09 Supraleitung A - Einführung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 09 Supraleitung A - Einführung
 
 **Vorlesung**: [[191 Kryotechnik]]
@@ -30,7 +36,7 @@ Unterscheidung im Verhalten gegenüber Magnetfeldern:
 ---
 ## SL Typ 1
 
->[!imporant] #Klausur
+>[!important] #Klausur
 >Technisch wichtiger Supraleiter nicht alu Blei oder QUcksilber sind früher genutzt worden mittlerweile nicht gut
 
 

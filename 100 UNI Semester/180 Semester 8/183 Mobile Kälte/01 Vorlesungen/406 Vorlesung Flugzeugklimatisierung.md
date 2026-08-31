@@ -1,3 +1,9 @@
+---
+title: "406 Vorlesung Flugzeugklimatisierung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[406 Vorlesung Flugzeugklimatisierung]]
 **Datum**: 22.05.2025
 **Topics**: #Mobile_Kälte/Flugzeuge

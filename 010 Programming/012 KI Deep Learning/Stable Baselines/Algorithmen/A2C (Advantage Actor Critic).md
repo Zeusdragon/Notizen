@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, On-Policy, Actor-Critic]
+title: "A2C (Advantage Actor Critic)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # A2C (Advantage Actor Critic)
 
 ## Funktionsprinzip

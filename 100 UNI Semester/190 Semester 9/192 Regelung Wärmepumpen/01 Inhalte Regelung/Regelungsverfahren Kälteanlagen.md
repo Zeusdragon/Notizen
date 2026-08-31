@@ -1,7 +1,18 @@
+---
+title: "05 Regelungsverfahren in der Kältetechnik"
+type: vorlesung
+tags:
+  - Regelung
+  - VRF
+  - Multisplit
+  - Supermarkt
+  - PID
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]] (Regelung von Kälteanlagen)
 **Datum**: 2026-01-15
 **Thema**: Regelungsverfahren, VRF-Systeme, Supermarkt-Anwendungen
-**Tags**: #Regelung #VRF #Multisplit #Supermarkt #PID
 
 ![[RKA_05_Regelungverfahren.pdf]]
 

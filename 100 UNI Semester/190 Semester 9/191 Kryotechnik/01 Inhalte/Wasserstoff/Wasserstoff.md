@@ -1,3 +1,8 @@
+---
+title: "07 Wasserstoff - Grundlagen"
+type: vorlesung
+erstellt: 2026-05-05
+---
 
 # 07 Wasserstoff - Grundlagen
 

@@ -1,6 +1,15 @@
+---
+title: "04 Digitale Signalverarbeitung im Zeitbereich"
+type: vorlesung
+tags:
+  - Signalverarbeitung
+  - Median
+  - Filter
+erstellt: 2026-05-05
+---
+
 # 4.1 Interpolation: Polynome
 
-**Tags:** #Signalverarbeitung #Interpolation #Polynome
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.1)
 
 ---
@@ -19,7 +28,6 @@ $$y(t) = a_0 + a_1 t + a_2 t^2 + \dots$$
 ---
 # 4.2 Interpolation: Splines
 
-**Tags:** #Signalverarbeitung #Interpolation #Splines
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.2)
 
 ---
@@ -43,7 +51,6 @@ $$s_i(t) = a_i + b_i t + c_i t^2 + d_i t^3$$
 ---
 # 4.3 Ausgleichsfunktionen
 
-**Tags:** #Signalverarbeitung #Regression #Fitting
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.3)
 
 ---
@@ -59,7 +66,6 @@ $$\sum_{i=0}^{N-1} [y_i - p(t_i)]^2 \rightarrow \text{Min}$$
 ---
 # 4.4 Numerisches Differenzieren
 
-**Tags:** #Signalverarbeitung #Differentiation
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.4)
 
 ---
@@ -77,7 +83,6 @@ Ersetzung des Differentialquotienten durch diskrete Differenzen.
 ---
 # 4.5 Numerisches Integrieren
 
-**Tags:** #Signalverarbeitung #Integration
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.5)
 
 ---
@@ -96,7 +101,6 @@ Berechnung der Fläche unter dem Signal.
 ---
 # 4.6 Mittelungsverfahren: Arithmetische Mittelung
 
-**Tags:** #Signalverarbeitung #Mittelwert #Filter
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.6)
 
 ---
@@ -117,7 +121,6 @@ Am Anfang und Ende der Daten fehlen Werte für das Filterfenster. Lösungen:
 ---
 # 4.7 Mittelungsverfahren: Zentralwertbildung
 
-**Tags:** #Signalverarbeitung #Median #Filter
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 4.7)
 
 ---

@@ -1,3 +1,9 @@
+---
+title: "03 Kälteerzeugung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 03 Kälteerzeugung
 
 **Vorlesung**: [[191 Kryotechnik]]

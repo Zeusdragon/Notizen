@@ -1,6 +1,16 @@
+---
+title: "05 Elektrische Antriebstechnik in der Kälte"
+type: vorlesung
+tags:
+  - Antriebstechnik
+  - Asynchronmaschine
+  - Frequenzumrichter
+  - SternDreieck
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Datum**: 2026-01-08
-**Tags**: #Antriebstechnik #Asynchronmaschine #Frequenzumrichter #SternDreieck
 
 ![[Kompendium_ElAnriebstechnik.pdf]]
 

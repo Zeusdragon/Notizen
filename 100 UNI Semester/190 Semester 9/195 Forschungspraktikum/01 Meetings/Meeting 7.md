@@ -1,3 +1,8 @@
+---
+title: "Meeting 7"
+type: meeting
+erstellt: 2026-05-05
+---
 
 # aktueller Stand
 Hauptsächlich Wärmeversorgungssystem Kapitel weitergeschrieben um Randbedingungen des Systems zu definieren und 

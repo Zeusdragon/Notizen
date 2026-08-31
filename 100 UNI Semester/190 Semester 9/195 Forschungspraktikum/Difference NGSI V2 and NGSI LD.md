@@ -1,3 +1,9 @@
+---
+title: "NGSI LD"
+type: notiz
+erstellt: 2026-05-05
+---
+
 # NGSI LD
 Hauptmerkmal is @context und observedat attribut  content type muss ld+json sein
 

@@ -1,7 +1,18 @@
+---
+title: "Dymola & TIL Library"
+type: konzept
+status: fertig
+tags:
+  - simulation
+  - modelica
+  - thermodynamics
+  - digital-twin
+  - engineering
+erstellt: 2025-12-05
+---
+
 # Dymola & TIL Library
 
-**Tags:** #simulation #modelica #thermodynamics #digital-twin #engineering
-**Status:** 🟢 Fertig
 **Software:** Dassault Systèmes Dymola
 **Library:** TLK-Thermo TIL Suite
 

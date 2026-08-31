@@ -1,6 +1,14 @@
+---
+title: "04 Potentiale und Hemmnisse"
+type: vorlesung
+tags:
+  - Potential
+  - Wirtschaftlichkeit
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[021 Lastmanagement von Wärmepumpen]]
 **Thema**: [[025 Potentiale und Hemmnisse]]
-**Tags**: #Potential #Wirtschaftlichkeit
 
 ---
 

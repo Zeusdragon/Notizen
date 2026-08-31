@@ -1,3 +1,9 @@
+---
+title: "05 Heliumgewinnung & Markt"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 05 Heliumgewinnung & Markt
 
 **Vorlesung**: [[191 Kryotechnik]]

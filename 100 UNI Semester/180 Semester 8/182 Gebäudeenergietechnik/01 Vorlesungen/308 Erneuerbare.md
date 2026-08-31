@@ -1,3 +1,9 @@
+---
+title: "308 Erneuerbare"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[308 Erneuerbare]]
 **Datum**: 25.07.2025
 **Topics**:

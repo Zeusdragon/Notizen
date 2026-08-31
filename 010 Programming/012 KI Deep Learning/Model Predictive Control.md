@@ -1,7 +1,13 @@
-
-**Tags:** #control-theory #optimization #robotics #ai
-**Status:** 🟢 Fertig
-
+---
+title: "Model Predictive Control"
+type: konzept
+status: fertig
+tags:
+  - control-theory
+  - optimization
+  - robotics
+  - ai
+erstellt: 2025-12-05
 ---
 
 ## 1. Was ist MPC?

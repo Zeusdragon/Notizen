@@ -1,3 +1,9 @@
+---
+title: "106 Vorlesung Besonderheiten"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[106 Vorlesung Besonderheiten]]
 **Datum**: 14.05.2025
 **Topics**: #Kälteanlagen/HFKW #Kälteanlagen/R32 #Kälteanlagen/HFO

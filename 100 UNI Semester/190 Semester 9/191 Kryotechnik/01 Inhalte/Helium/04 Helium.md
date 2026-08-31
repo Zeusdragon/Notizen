@@ -1,3 +1,9 @@
+---
+title: "04 Heliumverflüssigung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 04 Heliumverflüssigung
 
 **Vorlesung**: [[191 Kryotechnik]]

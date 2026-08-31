@@ -1,3 +1,9 @@
+---
+title: "101 Vorlesung Komponenten"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[101 Vorlesung Komponenten]]
 **Datum**: 10.04.2025
 **Topics**: #Komponenten

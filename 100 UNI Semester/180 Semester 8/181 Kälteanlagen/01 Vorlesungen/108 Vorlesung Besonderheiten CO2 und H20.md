@@ -1,3 +1,8 @@
+---
+title: "108 Vorlesung Besonderheiten CO2 und H20"
+type: vorlesung
+erstellt: 2026-05-05
+---
 
 **Vorlesung**: [[108 Vorlesung Besonderheiten CO2 und H20]]
 **Datum**: 04.06.2025

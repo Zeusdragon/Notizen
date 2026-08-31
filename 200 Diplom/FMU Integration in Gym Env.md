@@ -1,3 +1,9 @@
+---
+title: "🛠️ RL-FMU Integrations-Bugs: Die 5 kritischen Implementierungsfallen"
+type: diplom
+erstellt: 2026-05-28
+---
+
 # 🛠️ RL-FMU Integrations-Bugs: Die 5 kritischen Implementierungsfallen
 
 Diese Notiz dokumentiert die fünf kritischen Software-Defekte, die bei der Kopplung von Reinforcement Learning Frameworks (wie **Stable-Baselines3**) mit physikalischen Digital Twins (**Functional Mock-up Units / FMUs** via `FMPy`/`Gymnasium`) auftreten. Diese Fehler sind rein struktureller Natur, erzeugen keine harten Fehlermeldungen, sondern sabotieren das Training lautlos (*Silent Failures*).

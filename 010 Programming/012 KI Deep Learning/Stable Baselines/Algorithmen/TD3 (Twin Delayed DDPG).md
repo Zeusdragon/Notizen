@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, Off-Policy, Actor-Critic, Deterministic]
+title: "TD3 (Twin Delayed DDPG)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # TD3 (Twin Delayed DDPG)
 
 ## Funktionsprinzip

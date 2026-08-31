@@ -1,3 +1,9 @@
+---
+title: "02 Hauptsätze der Thermodynamik"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 02 Hauptsätze der Thermodynamik
 
 **Vorlesung**: [[191 Kryotechnik]]

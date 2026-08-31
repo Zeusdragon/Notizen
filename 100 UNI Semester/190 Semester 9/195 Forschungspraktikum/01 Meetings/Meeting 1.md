@@ -1,3 +1,9 @@
+---
+title: "Meeting 1"
+type: meeting
+erstellt: 2026-05-05
+---
+
 FIWARE PLatform
 NGSI V2 Modell
 

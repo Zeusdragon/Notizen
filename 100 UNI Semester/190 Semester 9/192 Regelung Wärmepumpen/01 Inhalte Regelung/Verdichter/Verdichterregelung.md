@@ -1,6 +1,16 @@
+---
+title: "04 Verdichterregelung"
+type: vorlesung
+tags:
+  - Verdichter
+  - Regelung
+  - Teillast
+  - Inverter
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Datum**: 2026-01-08
-**Tags**: #Verdichter #Regelung #Teillast #Inverter
 
 ![[RKA_04_VO_Verdichterregelung.pdf]]
 

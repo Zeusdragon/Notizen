@@ -1,15 +1,25 @@
+---
+title: "❄️ Kryotechnik Master-Note"
+type: moc
+status: in-bearbeitung
+tags:
+  - Helium
+  - Supraleitung
+  - Wasserstoff
+  - Kryo
+erstellt: 2026-05-05
+---
+
 # ❄️ Kryotechnik Master-Note
 
 **Modul:** [[191 Kryotechnik]]
-**Tags:** #Helium #Supraleitung #Wasserstoff #Kryo
-**Status:** 🟡 In Bearbeitung
 
 ---
 # Kryo Einführung
 
 
 
-> [!imporant]  #Klausur 
+> [!important]  #Klausur 
 > Beginnt wo Carnot < 1 = T < 120K
 ## Hauptgebiet Gas Verflüssigung
 1% Elektro Endenergie für Luftverflüssigung

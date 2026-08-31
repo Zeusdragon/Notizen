@@ -1,3 +1,9 @@
+---
+title: "Wirbel Durchflussmessung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Sensorik]]
 **Datum**: 28.11.2025
 **Topics**: [[Durchflussmessung]] 

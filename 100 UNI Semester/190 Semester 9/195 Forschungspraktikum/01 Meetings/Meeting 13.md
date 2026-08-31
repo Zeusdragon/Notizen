@@ -1,3 +1,9 @@
+---
+title: "Meeting 13"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 + Namenskonvention für Attribute?
 + unter welchen Topic soll ich die Commands publishen

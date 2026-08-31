@@ -1,3 +1,8 @@
+---
+title: "Meeting 10"
+type: meeting
+erstellt: 2026-05-05
+---
 
 # Ergebnisse
 + Encodapy nicht trivial umschreibbar für Linked Data

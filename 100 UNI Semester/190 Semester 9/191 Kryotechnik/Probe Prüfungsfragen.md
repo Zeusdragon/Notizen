@@ -1,7 +1,16 @@
+---
+title: "📝 Prüfungsvorbereitung Kryotechnik"
+type: notiz
+status: offen
+tags:
+  - Kryotechnik
+  - Prüfung
+  - Fragenkatalog
+erstellt: 2026-05-05
+---
+
 # 📝 Prüfungsvorbereitung Kryotechnik
 
-**Status**: 🟥 Offen
-**Tags**: #Kryotechnik #Prüfung #Fragenkatalog
 
 ---
 

@@ -1,6 +1,14 @@
+---
+title: "05 Strategische Signalanalyse"
+type: vorlesung
+tags:
+  - Signalverarbeitung
+  - Regression
+erstellt: 2026-05-05
+---
+
 # 5.1 Verteilungen und Kenngrößen
 
-**Tags:** #Signalverarbeitung #Statistik
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 5.1)
 
 ---
@@ -24,7 +32,6 @@ Gibt an, wie oft ein Merkmal in einer Stichprobe vorkommt.
 ---
 # 5.2 Wichtige Wahrscheinlichkeitsverteilungen
 
-**Tags:** #Signalverarbeitung #Statistik #Verteilungen
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 5.2)
 
 ---
@@ -41,7 +48,6 @@ Gibt an, wie oft ein Merkmal in einer Stichprobe vorkommt.
 ---
 # 5.3 Auto- und Kreuzkorrelation
 
-**Tags:** #Signalverarbeitung #Korrelation
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 5.3)
 
 ---
@@ -59,7 +65,6 @@ $$r_{ff}(\tau) = \int f(t) f(t+\tau) dt$$
 ---
 # 5.4 Lineare Regression
 
-**Tags:** #Signalverarbeitung #Regression
 **Quelle:** [[Signalverarbeitung Skript.pdf]] (Kapitel 5.4)
 
 ---

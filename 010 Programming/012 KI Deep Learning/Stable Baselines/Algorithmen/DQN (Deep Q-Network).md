@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, Off-Policy, Value-Based]
+title: "DQN (Deep Q-Network)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # DQN (Deep Q-Network)
 
 ## Funktionsprinzip

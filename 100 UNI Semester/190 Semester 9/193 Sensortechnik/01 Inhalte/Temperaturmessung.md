@@ -1,3 +1,9 @@
+---
+title: "Temperaturmessung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Sensorik]]
 **Datum**: 07.11.2025
 **Topics**: #Sensorik #Temperatur

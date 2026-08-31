@@ -1,3 +1,9 @@
+---
+title: "09c Wasserstoff - Fahrzeuganwendungen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 09c Wasserstoff - Fahrzeuganwendungen
 
 **Vorlesung**: [[191 Kryotechnik]]

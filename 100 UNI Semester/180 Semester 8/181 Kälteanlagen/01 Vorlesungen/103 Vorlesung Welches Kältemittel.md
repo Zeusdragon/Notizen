@@ -1,3 +1,9 @@
+---
+title: "103 Vorlesung Welches Kältemittel"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[103 Vorlesung Welches Kältemittel]]
 **Datum**: 23.04.2025
 **Topics**: #Beleg/Kältemittel 

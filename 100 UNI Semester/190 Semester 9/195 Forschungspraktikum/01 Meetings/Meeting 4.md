@@ -1,3 +1,9 @@
+---
+title: "Meeting 4"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 - Regelung von Pellet WP gibt es Betriebsmodi und Literatur für Anlage?
 	- GIbt es nicht Regelung ökonomischer Natur also was ist kostengünstiger

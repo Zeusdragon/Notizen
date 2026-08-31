@@ -1,6 +1,18 @@
+---
+title: "05 Solare und Passive Kühlung"
+type: vorlesung
+tags:
+  - Solar
+  - Adsorption
+  - Absorption
+  - DEC
+  - LNG
+  - SkyCooling
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Thema**: Solare und passive Kühlung
-**Tags**: #Solar #Adsorption #Absorption #DEC #LNG #SkyCooling
 
 ---
 

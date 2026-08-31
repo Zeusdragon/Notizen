@@ -1,3 +1,9 @@
+---
+title: "13a Edelgase"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 2026-01-06
 **Topics**: [[Edelgase]], [[LNG]], [[Isolierglas]], [[Luftzerlegung]]

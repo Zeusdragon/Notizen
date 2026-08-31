@@ -1,6 +1,15 @@
+---
+title: "02 Flexibilität und Betriebsstrategien"
+type: vorlesung
+tags:
+  - Residuallast
+  - Flexibilität
+  - Hybrid
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[021 Lastmanagement von Wärmepumpen]]
 **Thema**: [[022 Flexible Nutzung von Kälte- und Klimaanlagen]]
-**Tags**: #Residuallast #Flexibilität #Hybrid
 
 ---
 

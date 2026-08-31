@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, Off-Policy, Actor-Critic, Maximum-Entropy]
+title: "SAC (Soft Actor-Critic)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # SAC (Soft Actor-Critic)
 
 ## Funktionsprinzip

@@ -1,3 +1,9 @@
+---
+title: "01 Definition und Historie"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 01 Definition und Historie
 
 **Vorlesung**: [[191 Kryotechnik]]

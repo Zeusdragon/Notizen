@@ -1,3 +1,9 @@
+---
+title: "Ultraschallgeber"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 Genutzt für die Messung der Wirbelfrequenz eines [[Wirbel Durchflussmessung]]
 
 Messung geschieht Berührungsfrei vorallem interessant bei aggresiven fluiden

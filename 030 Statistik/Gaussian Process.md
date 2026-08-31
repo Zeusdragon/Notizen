@@ -1,7 +1,18 @@
+---
+title: "Gaussian Process (GP) — Grundlagen und Anwendung im Diplom"
+type: konzept
+status: in-bearbeitung
+tags:
+  - statistik
+  - gaussian-process
+  - surrogate-model
+  - sensitivity-analysis
+  - diplom
+erstellt: 2026-08-11
+---
+
 # Gaussian Process (GP) — Grundlagen und Anwendung im Diplom
 
-**Tags:** #statistik #gaussian-process #surrogate-model #sensitivity-analysis #diplom
-**Status:** 🟡 In Arbeit
 **Bezug:** [[DoE Grundlagen]] · [[Sobol-Sequenzen]] · [[200 Diplom/Arbeitsstand]] · [[200 Diplom/Geometrische Parameter]]
 
 ---

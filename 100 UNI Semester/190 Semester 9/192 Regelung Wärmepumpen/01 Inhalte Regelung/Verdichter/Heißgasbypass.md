@@ -1,6 +1,15 @@
+---
+title: "Heißgasbypass-Regelung"
+type: vorlesung
+tags:
+  - Bypass
+  - Leistungsregelung
+  - Ineffizienz
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Thema**: [[Verdichterregelung]]
-**Tags**: #Bypass #Leistungsregelung #Ineffizienz
 
 ---
 

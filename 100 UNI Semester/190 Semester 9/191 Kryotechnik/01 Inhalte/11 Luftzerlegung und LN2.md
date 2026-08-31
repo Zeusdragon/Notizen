@@ -1,3 +1,9 @@
+---
+title: "11 Luftzerlegung und LN2"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 11 Luftzerlegung und LN2
 
 **Vorlesung**: [[191 Kryotechnik]]

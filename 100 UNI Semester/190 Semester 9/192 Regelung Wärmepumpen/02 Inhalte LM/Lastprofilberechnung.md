@@ -1,3 +1,9 @@
+---
+title: "Lastprofilberechnung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[021 Lastmanagement von Wärmepumpen]]
 **Datum**: 13.11.2025
 **Topics**: #Lasten

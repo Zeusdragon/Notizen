@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, On-Policy, Actor-Critic]
+title: "PPO (Proximal Policy Optimization)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # PPO (Proximal Policy Optimization)
 
 ## Funktionsprinzip

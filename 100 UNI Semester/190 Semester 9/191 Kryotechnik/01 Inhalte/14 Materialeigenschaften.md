@@ -1,3 +1,9 @@
+---
+title: "14 Materialeigenschaften bei tiefen Temperaturen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 14 Materialeigenschaften bei tiefen Temperaturen
 
 **Vorlesung**: [[191 Kryotechnik]]

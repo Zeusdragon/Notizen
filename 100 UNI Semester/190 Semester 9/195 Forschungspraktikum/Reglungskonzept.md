@@ -1,3 +1,9 @@
+---
+title: "Reglungskonzept"
+type: notiz
+erstellt: 2026-05-05
+---
+
 # Daten die reinkommen
 
 ## Aktueller zustand aus Context Broker 

@@ -1,3 +1,9 @@
+---
+title: "Recherche"
+type: diplom
+erstellt: 2026-04-15
+---
+
 - FMU performanter als Dymola selber 
 - 150000 steps ein step simuliert ca 100 sekunden und dann interagiert die RL wieder mit der FMU
 - 150000 Steps sind ca. 170 Simulierte Trainingstage

@@ -1,3 +1,9 @@
+---
+title: "10 Supraleitung B - Theorie"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 10 Supraleitung B - Theorie
 
 **Vorlesung**: [[191 Kryotechnik]]

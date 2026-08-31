@@ -1,6 +1,12 @@
+---
+title: "Durchflussmessung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 Durchflussmesser sollte 0,5% genau sein sonst schlecht
 
->[!imporant] #Klausur 
+>[!important] #Klausur 
 Wissen wie die verschiedenen Durchflessmesser funktioniern 60-70% der Klausur
 
 hier nur geschlossene Kanäle relevant für prozesse

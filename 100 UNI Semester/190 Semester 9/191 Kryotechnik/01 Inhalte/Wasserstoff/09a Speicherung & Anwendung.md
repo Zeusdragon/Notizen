@@ -1,3 +1,9 @@
+---
+title: "09a Wasserstoff - Speicherung & Anwendung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 09a Wasserstoff - Speicherung & Anwendung
 
 **Vorlesung**: [[191 Kryotechnik]]

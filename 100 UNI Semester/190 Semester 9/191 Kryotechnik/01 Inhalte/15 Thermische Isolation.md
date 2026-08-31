@@ -1,3 +1,9 @@
+---
+title: "15 Thermische Isolation"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 15 Thermische Isolation
 
 **Vorlesung**: [[191 Kryotechnik]]

@@ -1,7 +1,13 @@
+---
+title: 🎓 Semester 9 Dashboard
+type: moc
+status: fertig
+erstellt: 2025-10-10
+---
+
 # 🎓 Semester 9 Dashboard
 
 **Zeitraum:** WS 25/26
-**Status:** 🟢 beendet
 
 ## 📚 Module
 

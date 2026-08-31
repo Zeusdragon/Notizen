@@ -1,3 +1,9 @@
+---
+title: "403 Bahnklima"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[403 Bahnklima]]
 **Datum**: 05.06.2025
 **Topics**: #Mobile_Kälte/Bahn

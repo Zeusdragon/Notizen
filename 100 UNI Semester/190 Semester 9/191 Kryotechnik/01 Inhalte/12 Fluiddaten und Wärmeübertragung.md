@@ -1,3 +1,9 @@
+---
+title: "12 Fluiddaten und Wärmeübergang"
+type: vorlesung
+erstellt: 2026-01-12
+---
+
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 2026-01-06
 **Topics**: [[Stoffdaten]], [[Sieden]], [[Kapitza-Widerstand]], [[Real-Gas-Faktor]]

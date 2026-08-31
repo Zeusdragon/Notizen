@@ -1,3 +1,9 @@
+---
+title: "311 Trinkwassersysteme"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[311 Trinkwassersysteme]]
 **Datum**: 25.07.2025
 **Topics**:

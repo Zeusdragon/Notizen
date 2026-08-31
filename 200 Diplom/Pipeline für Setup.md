@@ -1,3 +1,8 @@
+---
+title: "Pipeline für Setup"
+type: diplom
+erstellt: 2026-07-31
+---
 
 ```mermaid
 flowchart TD

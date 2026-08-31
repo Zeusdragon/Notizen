@@ -1,3 +1,9 @@
+---
+title: "19 Raumfahrt"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 2026-01-20
 **Topics**: [[Raumfahrt]], [[Kryokühler]], [[Infrarot-Astronomie]], [[Treibstoffe]]

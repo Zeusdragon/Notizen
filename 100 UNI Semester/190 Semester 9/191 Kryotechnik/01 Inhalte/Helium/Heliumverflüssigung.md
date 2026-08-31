@@ -1,4 +1,10 @@
-**Vorlesung**: [[Heliumverflüssigung]]
+---
+title: "Heliumverflüssigung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
+**Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 21.10.2025
 **Topics**: [[Helium]]
 

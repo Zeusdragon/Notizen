@@ -1,3 +1,9 @@
+---
+title: "Infrarot-LWL"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Sensorik]]
 **Datum**: 19.12.2025
 **Topics**: [[Faseroptische Sensoren]]

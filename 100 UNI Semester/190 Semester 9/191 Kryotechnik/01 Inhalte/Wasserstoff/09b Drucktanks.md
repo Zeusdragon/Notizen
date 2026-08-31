@@ -1,3 +1,9 @@
+---
+title: "09b Wasserstoff - Drucktanks"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 09b Wasserstoff - Drucktanks
 
 **Vorlesung**: [[191 Kryotechnik]]

@@ -1,3 +1,9 @@
+---
+title: "Meeting 2"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 Wo werden Boolsche Werte gesetzt bzw Metadaten gesetzt Laufzeit erfüllt, Kessel an? Orion Broker?
 

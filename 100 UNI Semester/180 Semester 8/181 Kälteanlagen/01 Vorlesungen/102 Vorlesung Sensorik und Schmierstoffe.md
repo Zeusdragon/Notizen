@@ -1,3 +1,9 @@
+---
+title: "102 Vorlesung Sensorik und Schmierstoffe"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[102 Vorlesung Sensorik und Schmierstoffe]]
 **Datum**: 23.04.2025
 **Topics**:  #Kälteanlagen/Sensoren 

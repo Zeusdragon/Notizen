@@ -1,3 +1,9 @@
+---
+title: "302 Vorlesung Meteorologisch + Heiz Kühl"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[302 Vorlesung Meteorologisch + Heiz Kühl]]
 **Datum**: 22.04.2025
 **Topics**: #Gebäudeenergietechnik/Meteorolgische_Grundlagen #Gebäudeenergietechnik/Heiz_und_Kühllast

@@ -1,6 +1,16 @@
+---
+title: "04a Kältespeicher Technologien"
+type: vorlesung
+tags:
+  - Fernkälte
+  - Hydraulik
+  - Kälteträger
+  - IceSlurry
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Lastmanagement von Wärmepumpen]]
 **Thema**: [[LM_VO_04_Kältespeicher_Netze_Träger_OPAL.pdf]]
-**Tags**: #Speicher #Eisspeicher #PCM #Stratifikation
 
 ---
 
@@ -61,7 +71,6 @@ Wie wird der Speicher in das Lastmanagement integriert?
 --- 
 **Vorlesung**: [[Lastmanagement von Wärmepumpen]]
 **Thema**: [[LM_VO_04_Kältespeicher_Netze_Träger_OPAL.pdf]]
-**Tags**: #Fernkälte #Hydraulik #Kälteträger #IceSlurry
 
 ---
 

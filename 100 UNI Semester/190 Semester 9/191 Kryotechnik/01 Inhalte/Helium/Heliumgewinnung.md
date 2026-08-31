@@ -1,3 +1,9 @@
+---
+title: "Heliumgewinnung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Kryotechnik]]
 **Datum**: 28.10.2025
 **Topics**: [[Helium]] 

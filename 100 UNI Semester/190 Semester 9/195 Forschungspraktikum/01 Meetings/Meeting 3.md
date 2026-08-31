@@ -1,3 +1,9 @@
+---
+title: "Meeting 3"
+type: meeting
+erstellt: 2026-05-05
+---
+
 Was soll Service Machen
 	Wenn Speicher Leer (damit Pelletkessel laufen darf)
 	Wärmepumpe Last nicht mitmachen kann

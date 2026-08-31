@@ -1,6 +1,15 @@
+---
+title: "Pytorch Workflow"
+type: konzept
+status: fertig
+tags:
+  - pytorch
+  - coding
+  - python
+  - deep-learning
+erstellt: 2025-12-05
+---
 
-**Tags:** #pytorch #coding #python #deep-learning
-**Status:** 🟢 Fertig
 **Quelle:** Eigene Projektstruktur
 
 ---

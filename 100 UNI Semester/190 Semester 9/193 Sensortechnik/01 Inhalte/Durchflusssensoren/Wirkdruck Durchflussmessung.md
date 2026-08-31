@@ -1,3 +1,9 @@
+---
+title: "Wirkdruckverfahren"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Sensorik]]
 **Datum**: 14.11.2025
 **Topics**: #Sensorik [[Durchflussmessung]]

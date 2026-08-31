@@ -1,3 +1,9 @@
+---
+title: "Übung 4"
+type: uebung
+erstellt: 2026-05-05
+---
+
 Raumhöhe: Oberkante unterkante raum 
 Geschosshöhe anders
 

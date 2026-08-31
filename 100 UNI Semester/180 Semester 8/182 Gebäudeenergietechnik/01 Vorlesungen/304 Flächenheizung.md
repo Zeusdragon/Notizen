@@ -1,3 +1,9 @@
+---
+title: "Definition Raumintegrietes Heiz- und Kühlsystem"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[304 Flächenheizung]]
 **Datum**: 25.07.2025
 **Topics**:

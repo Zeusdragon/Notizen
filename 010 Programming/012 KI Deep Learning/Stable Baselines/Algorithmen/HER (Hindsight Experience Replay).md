@@ -1,6 +1,10 @@
 ---
 tags: [ReinforcementLearning, Replay-Buffer, Goal-Conditioned]
+title: "HER (Hindsight Experience Replay)"
+type: konzept
+erstellt: 2026-05-04
 ---
+
 # HER (Hindsight Experience Replay)
 
 ## Funktionsprinzip

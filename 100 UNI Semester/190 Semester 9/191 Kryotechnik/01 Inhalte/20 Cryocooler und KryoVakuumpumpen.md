@@ -1,3 +1,9 @@
+---
+title: "20 Cryocooler und Kryovakuumpumpen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 2026-01-27
 **Topics**: [[Cryocooler]], [[Gifford-McMahon]], [[Pulsrohrkühler]], [[Kryopumpe]], [[Vakuum]]

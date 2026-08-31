@@ -1,3 +1,9 @@
+---
+title: "303 Vorlesung Freie Heizflächen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[303 Vorlesung Freie Heizflächen]]
 **Datum**: 25.07.2025
 **Topics**:

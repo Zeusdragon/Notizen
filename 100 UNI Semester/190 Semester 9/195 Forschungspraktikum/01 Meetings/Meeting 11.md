@@ -1,3 +1,9 @@
+---
+title: "Meeting 11"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 + config was muss alles beachten
 + die calculation ist das einzige was man anpassen muss also die Daten die ich bekomme passen

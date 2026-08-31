@@ -1,6 +1,14 @@
+---
+title: "Zweipunktregelung (On/Off)"
+type: vorlesung
+tags:
+  - Zweipunkt
+  - Hysterese
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Thema**: [[Verdichterregelung]]
-**Tags**: #Zweipunkt #Hysterese
 
 ---
 

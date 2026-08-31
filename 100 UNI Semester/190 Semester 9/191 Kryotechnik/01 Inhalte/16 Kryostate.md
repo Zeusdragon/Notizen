@@ -1,3 +1,9 @@
+---
+title: "16 Kryostate"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[191 Kryotechnik]]
 **Datum**: 18.11.2025
 **Topics**: #Kryostate

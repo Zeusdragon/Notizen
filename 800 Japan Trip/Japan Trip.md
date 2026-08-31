@@ -1,6 +1,17 @@
-**Status**: ✈️ In Planung
+---
+title: "🇯🇵 Japan Reiseübersicht"
+type: privat
+status: in-planung
+tags:
+  - Reise
+  - Japan
+  - MOC
+  - Urlaub
+erstellt: 2026-01-06
+---
+
 **Datum**: 2026-01-06
-**Tags**: #Reise #Japan #MOC #Urlaub
+**Zeitraum**: 15.02.2027 - 30.03.2027
 
 ---
 
@@ -8,7 +19,7 @@
 
 > [!IMPORTANT] Zusammenfassung
 > Dies ist die zentrale Planungsübersicht für die Japan-Reise.
-> * **Ziel:** Von Japan (Start) bis runter nach Nagasaki.
+> * **Ziel:** Von Japan (Start Tokio) bis runter nach Nagasaki.
 > * **Fokus:** Kultur, Essen, Technologie.
 
 ## 🗺️ Route & Ziele
@@ -17,7 +28,7 @@ Hier ist der detaillierte Ablauf der Reise geplant.
 👉 **Hauptnotiz:** [[Route]]
 
 > [!TIP] Routen-Highlights
-> * **Start:** Tokyo (?)
+> * **Start:** Tokyo
 > * **Kyoto/Osaka:** Kansai Region
 > * **Kinosaki Onsen** Onsen Ort
 > * **Hiroshima/Miyajima:** Geschichte & Schreine
@@ -41,8 +52,8 @@ Was muss mit? Was muss besorgt werden?
 
 - [ ] **Reisepass** prüfen (Gültigkeit min. 6 Monate).
 - [ ] **Visit Japan Web** (Einreise/Zoll) ausfüllen (QR-Codes speichern).
-- [ ] **Flüge** buchen.
-- [ ] **Unterkünfte** reservieren (besonders in Kyoto/Tokyo frühzeitig!).
+- [x] **Flüge** buchen.
+- [x] **Unterkünfte** reservieren (besonders in Kyoto/Tokyo frühzeitig!).
 - [ ] **Tickets** für Highlights prüfen (Ghibli Museum, Shibuya Sky, TeamLab) – oft 1 Monat vorher ausverkauft.
 - [ ] **JR Pass** Calculator prüfen: Lohnt sich der Pass für die Strecke bis Nagasaki?
 
@@ -50,14 +61,14 @@ Was muss mit? Was muss besorgt werden?
 
 ## 💴 Budget & Kosten
 
-| Kategorie   | Budget (geschätzt) | Real | Notiz                  |
-| :---------- | :----------------- | :--- | :--------------------- |
-| Flüge       | 1000 €             |      |                        |
-| Unterkünfte | 3500€              |      |                        |
-| Transport   | 1500€              |      | Shinkansen / Suica     |
-| Verpflegung | 1600€              |      | Konbini vs. Restaurant |
-| Souvenir    | 400€               |      |                        |
-| **Gesamt**  | 8000€              |      |                        |
+| Kategorie   | Budget (geschätzt) | Real  | Notiz                  |
+| :---------- | :----------------- | :---- | :--------------------- |
+| Flüge       | 1000 €             | 1100€ |                        |
+| Unterkünfte | 3500€              | 3000€ |                        |
+| Transport   | 1500€              |       | Shinkansen / Suica     |
+| Verpflegung | 1600€              |       | Konbini vs. Restaurant |
+| Souvenir    | 400€               |       |                        |
+| **Gesamt**  | 8000€              |       |                        |
 
 ---
 

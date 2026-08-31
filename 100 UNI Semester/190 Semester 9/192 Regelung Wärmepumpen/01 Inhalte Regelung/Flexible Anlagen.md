@@ -1,3 +1,9 @@
+---
+title: "Flexible Anlagen"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Datum**: 30.10.2025
 **Topics**: 

@@ -1,3 +1,9 @@
+---
+title: "Meeting 6"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 
 + Service für beide Datenmodelle und Plattformen testen 

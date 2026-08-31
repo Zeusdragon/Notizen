@@ -1,3 +1,9 @@
+---
+title: "314 Elektrotechnik Gebäudeautomatisierung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[314 Elektrotechnik Gebäudeautomatisierung]]
 **Datum**: 25.07.2025
 **Topics**:

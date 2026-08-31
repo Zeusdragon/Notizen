@@ -1,3 +1,9 @@
+---
+title: "Papers"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 FLugzeug: anschauen von Dampfkompressionsprozess zur nutzung in Klimatisierung
 machbarkeits analyse Kältemittel sind drin 
 

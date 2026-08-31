@@ -1,3 +1,12 @@
+---
+title: "Sensorik"
+type: vorlesung
+tags:
+  - Sensorik
+  - Messmethoden
+  - Klausur
+erstellt: 2026-05-05
+---
 
 # Organisatorisches 
 # NICHT KLAUSUR RELEVANT !!!
@@ -8,7 +17,6 @@ Mündliche Prüfung 20 min Thema Prozessmesstechnik
 # 📡 Sensortechnik Master-Note
 
 **Modul:** [[Sensorik]] [[Signalverarbeitung]]
-**Tags:** #Sensorik #Messmethoden #Klausur
 **Prüfung:** Mündlich (20 min)
 
 ---

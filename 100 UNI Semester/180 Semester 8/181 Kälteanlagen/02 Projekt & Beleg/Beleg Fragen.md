@@ -1,3 +1,9 @@
+---
+title: "Beleg Fragen"
+type: uebung
+erstellt: 2026-05-05
+---
+
 -  auf Verdampfer Seite Luft als Sekundärkreis? 
 	- **Antwort:**  Ich kann auch eine andere Wärmequelle nehmen bspw. Sole oder Wasser
 - Verdampfer überflutet und keine Überhitzung im Verdampfer sondern im IHX auslagern und Unterkühlung auch? oder Abscheider?

@@ -1,3 +1,9 @@
+---
+title: "Dymola Modell folgendes anzeigen"
+type: diplom
+erstellt: 2025-12-08
+---
+
 # Dymola Modell folgendes anzeigen
 Kreislauf auswirkung eines gefrosteten Verdampfer 
 

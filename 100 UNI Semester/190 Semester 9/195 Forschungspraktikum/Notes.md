@@ -1,3 +1,9 @@
+---
+title: "Notes"
+type: notiz
+erstellt: 2026-05-05
+---
+
 # Service
 1. Infos Abbonieren Sub beim Broker der Sendet daten per http post an service wenn fall eintritt beispiel temperatur zu hoch
 2. Wenn Daten eintreffen und zustand eintrifft regler ausführen

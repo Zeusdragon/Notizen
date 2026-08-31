@@ -1,3 +1,9 @@
+---
+title: "11 Supraleitung C - Materialien"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 11 Supraleitung C - Materialien
 
 **Vorlesung**: [[191 Kryotechnik]]

@@ -1,7 +1,13 @@
+---
+title: 🎓 Semester 8 Dashboard
+type: moc
+status: fertig
+erstellt: 2025-04-01
+---
+
 # 🎓 Semester 8 Dashboard
 
 **Zeitraum:** SS 2025
-**Status:** 🟢 Abgeschlossen
 **Fokus:** Anlagentechnik & Thermodynamik
 
 ---
@@ -26,7 +32,7 @@ Auslegung eine GroßWärmepumpe mit Heizwärme von 500-1000kW
 ### 🌡️ Heizen & Kühlen
 * **Grundlagen:** Meteorologie & Lastberechnung [[302 Vorlesung Meteorologisch + Heiz Kühl]]
 * **Erzeugung:** Heizkessel & KWK [[307 Wärmeerzeugung Heizkessel & KWK]] vs. Erneuerbare [[308 Erneuerbare]]
-* **Verteilung:** [[309 Wärmeverteilung]] und Druckhaltung/Sicherheit [[310 Druckhaltuing_Sicherheitseinrichtungen_Abgas]]
+* **Verteilung:** [[309 Wärmeverteilung]] und Druckhaltung/Sicherheit [[310 Druckhaltung_Sicherheitseinrichtungen_Abgas]]
 * **Übergabe:** Freie Heizflächen [[303 Vorlesung Freie Heizflächen]] vs. Flächenheizung [[304 Flächenheizung]]
 
 ### 🌬️ Lüftung & Klima

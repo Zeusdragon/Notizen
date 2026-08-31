@@ -1,3 +1,9 @@
+---
+title: "06 He-II, ³He und Tiefsttemperaturphysik"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 06 He-II, ³He und Tiefsttemperaturphysik
 
 **Vorlesung**: [[191 Kryotechnik]]

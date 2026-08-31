@@ -1,3 +1,9 @@
+---
+title: "Beleg Info"
+type: uebung
+erstellt: 2026-05-05
+---
+
  #Beleg 
 * welches ÖL
 * Kreislaufberechnung

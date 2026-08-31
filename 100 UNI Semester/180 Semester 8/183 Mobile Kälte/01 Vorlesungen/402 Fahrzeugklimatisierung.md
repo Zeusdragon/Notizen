@@ -1,3 +1,8 @@
+---
+title: "Elektrofahrzeuge"
+type: vorlesung
+erstellt: 2026-05-05
+---
 
 **Vorlesung**: [[402 Fahrzeugklimatisierung]]
 **Datum**: 08.05.2025

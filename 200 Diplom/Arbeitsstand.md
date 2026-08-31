@@ -1,3 +1,9 @@
+---
+title: "Projektstand: RL-Agent für prädiktives Abtauen (Diplomarbeit)"
+type: diplom
+erstellt: 2026-06-23
+---
+
 # Projektstand: RL-Agent für prädiktives Abtauen (Diplomarbeit)
 
 ## 1. Aktueller Stand: Was bisher umgesetzt wurde

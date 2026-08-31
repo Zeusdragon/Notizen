@@ -1,3 +1,9 @@
+---
+title: "Shallow Neural Network"
+type: konzept
+erstellt: 2026-01-05
+---
+
 Wir mappen input x mit einer funktion zu output y dabei wird besteht die funktion aus drei Teilen.
 
 Drei lineare Terme für x mit parameter $\theta_{10} ,\theta_{11},\theta_{20},\theta_{21},\theta_{30},\theta_{31}$

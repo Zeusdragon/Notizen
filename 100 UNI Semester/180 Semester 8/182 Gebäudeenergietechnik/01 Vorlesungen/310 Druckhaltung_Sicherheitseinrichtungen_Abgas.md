@@ -1,4 +1,10 @@
-**Vorlesung**: [[310 Druckhaltuing_Sicherheitseinrichtungen_Abgas]]
+---
+title: "310 Druckhaltung_Sicherheitseinrichtungen_Abgas"
+type: vorlesung
+erstellt: 2026-08-31
+---
+
+**Vorlesung**: [[310 Druckhaltung_Sicherheitseinrichtungen_Abgas]]
 **Datum**: 25.07.2025
 **Topics**:
 

@@ -1,3 +1,9 @@
+---
+title: "313 Kühlung Klima"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[313 Kühlung Klima]]
 **Datum**: 25.07.2025
 **Topics**:

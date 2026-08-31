@@ -1,3 +1,9 @@
+---
+title: "Plan für Arbeit"
+type: diplom
+erstellt: 2026-05-05
+---
+
 # Schritt 1: Wärmepumpenmodell 1 Woche ✔
 [[Dymola-Modell]] für die Nutzung anpassen und Randbedingungen setzen
 - [x] Welche Verdampfer Geometrie nehme ich?

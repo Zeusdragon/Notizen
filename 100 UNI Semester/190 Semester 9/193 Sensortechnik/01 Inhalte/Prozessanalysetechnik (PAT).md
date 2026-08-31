@@ -1,3 +1,9 @@
+---
+title: "05 Prozessanalysetechniken (PAT)"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[Sensorik]]
 **Datum**: 2026-01-07
 **Topics**: [[Prozessanalysetechnik]], [[Spektroskopie]], [[UV/VIS]], [[FTIR]], [[Raman]], [[NMR]], [[Fluoreszenz]]

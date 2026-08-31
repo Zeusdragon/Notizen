@@ -1,6 +1,15 @@
+---
+title: "Drehzahlregelung (Inverter)"
+type: vorlesung
+tags:
+  - Inverter
+  - Frequenzumrichter
+  - Effizienz
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[192 Regelung von Wärmepumpen]]
 **Thema**: [[Verdichterregelung]]
-**Tags**: #Inverter #Frequenzumrichter #Effizienz
 
 ---
 

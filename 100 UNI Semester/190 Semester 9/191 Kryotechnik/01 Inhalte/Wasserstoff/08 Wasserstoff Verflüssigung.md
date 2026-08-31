@@ -1,3 +1,9 @@
+---
+title: "08 Wasserstoff - Verflüssigung"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 # 08 Wasserstoff - Verflüssigung
 
 **Vorlesung**: [[191 Kryotechnik]]

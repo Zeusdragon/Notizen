@@ -1,3 +1,9 @@
+---
+title: "Meeting 9"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 + V2 Mqtt Gateway hatte funktioniert mit LD funktioniert es nicht muss ich denke ich mit Node Red machen
 + Grafiken sind noch veraltet

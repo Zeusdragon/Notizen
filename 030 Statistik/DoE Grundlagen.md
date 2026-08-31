@@ -1,7 +1,17 @@
+---
+title: "Design of Experiments (DoE) — Grundlagen"
+type: konzept
+status: fertig
+tags:
+  - statistik
+  - doe
+  - sampling
+  - methodik
+erstellt: 2026-08-11
+---
+
 # Design of Experiments (DoE) — Grundlagen
 
-**Tags:** #statistik #doe #sampling #methodik
-**Status:** 🟢 Fertig
 **Bezug:** [[Sobol-Sequenzen]] · [[Gaussian Process]] · [[200 Diplom/Design of Experiment]] · [[200 Diplom/Geometrische Parameter]]
 
 ---

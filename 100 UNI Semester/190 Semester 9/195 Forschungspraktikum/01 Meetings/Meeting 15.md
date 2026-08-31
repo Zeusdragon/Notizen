@@ -1,3 +1,9 @@
+---
+title: "Meeting 15"
+type: meeting
+erstellt: 2026-05-05
+---
+
 # Fragen
 + Erzeugerbewertung läuft ja jetzt womit soll ich das dann verglecihen was ist Referenz bzw.nehmen Vergleich vorher komplett raus
 + Abfrageflexibilität 

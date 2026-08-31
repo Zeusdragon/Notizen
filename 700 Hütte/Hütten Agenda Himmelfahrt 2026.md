@@ -1,3 +1,9 @@
+---
+title: "Hütten Agenda Himmelfahrt 2026"
+type: privat
+erstellt: 2026-07-31
+---
+
 11.05.2026
 
 - [ ] Wann in der Hütte ankommen?

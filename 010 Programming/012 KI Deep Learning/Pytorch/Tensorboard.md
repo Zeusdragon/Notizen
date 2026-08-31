@@ -1,3 +1,9 @@
+---
+title: "Tensorboard"
+type: konzept
+erstellt: 2026-06-17
+---
+
 Für die ausfürhrung des tensorboards folgenden Code im terminal eingeben
 
 ```bash

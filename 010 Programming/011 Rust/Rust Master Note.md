@@ -1,7 +1,18 @@
+---
+title: "Rust Master Note"
+type: moc
+status: in-bearbeitung
+tags:
+  - rust
+  - programming
+  - systems
+  - performance
+  - safety
+erstellt: 2025-12-05
+---
+
 # Rust Master Note
 
-**Tags:** #rust #programming #systems #performance #safety
-**Status:** 🟡 In Bearbeitung
 **Docs:** [The Rust Book](https://doc.rust-lang.org/book/) | [Rust by Example](https://doc.rust-lang.org/rust-by-example/) | [Crates.io](https://crates.io/)
 
 ---

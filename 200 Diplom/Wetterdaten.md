@@ -1,3 +1,9 @@
+---
+title: "Wetterdaten"
+type: diplom
+erstellt: 2026-06-17
+---
+
 Für die Wetterdaten habe ich ein Sample gemacht und eine Vorlauf und Rücklauf temperatur für die jeweiligen Temperatur bedingungen generiert und Volumenstrom konstant gehalten
 
 

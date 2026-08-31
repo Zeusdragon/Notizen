@@ -1,3 +1,9 @@
+---
+title: "307 Wärmeerzeugung Heizkessel & KWK"
+type: vorlesung
+erstellt: 2026-05-05
+---
+
 **Vorlesung**: [[307 Wärmeerzeugung Heizkessel & KWK]]
 **Datum**: 25.07.2025
 **Topics**:

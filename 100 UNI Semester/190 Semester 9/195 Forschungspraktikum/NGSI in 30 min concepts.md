@@ -1,3 +1,9 @@
+---
+title: "NGSI in 30 min concepts"
+type: notiz
+erstellt: 2026-05-05
+---
+
 # Datenmodell
 ![[Pasted image 20250927132110.png]]
 

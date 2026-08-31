@@ -1,7 +1,13 @@
-
-**Tags:** #reinforcement-learning #deep-learning #ai #agents
-**Status:** 🟡 In Bearbeitung
-
+---
+title: "Reinforcement Learning"
+type: konzept
+status: in-bearbeitung
+tags:
+  - reinforcement-learning
+  - deep-learning
+  - ai
+  - agents
+erstellt: 2025-12-05
 ---
 
 ## 1. Definition

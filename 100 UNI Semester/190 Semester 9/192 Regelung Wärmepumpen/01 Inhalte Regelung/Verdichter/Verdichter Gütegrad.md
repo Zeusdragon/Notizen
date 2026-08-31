@@ -1,3 +1,9 @@
+---
+title: "Verdichter Gütegrad"
+type: vorlesung
+erstellt: 2026-02-16
+---
+
 Einflüsse Gütegrad $\eta = \frac{\dot{m}(h_{2,is}-h_1)}{P_{el}}$:
 + Reibung 
 + Wärme an Umgebung

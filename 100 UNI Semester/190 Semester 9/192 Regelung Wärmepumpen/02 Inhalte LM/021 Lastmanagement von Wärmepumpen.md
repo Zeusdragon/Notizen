@@ -1,8 +1,18 @@
+---
+title: "⚡ Lastmanagement von Wärmepumpen"
+type: vorlesung
+status: in-bearbeitung
+tags:
+  - Lastmanagement
+  - Residuallast
+  - SmartGrid
+  - Flexibilität
+erstellt: 2026-05-05
+---
+
 # ⚡ Lastmanagement von Wärmepumpen
 
 **Modul:** [[192 Regelung von Wärmepumpen]]
-**Tags:** #Lastmanagement #Residuallast #SmartGrid #Flexibilität
-**Status:** 🟡 In Bearbeitung
 
 ---
 
