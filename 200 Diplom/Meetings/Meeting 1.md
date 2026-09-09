@@ -52,7 +52,8 @@ erstellt: 2026-09-09
 > [!check] Antwort
 > 
 
-> [!question] F3 —
+> [!question] F3 — Welches Frostmodell genau verwendung am sinnvollsten 
+> Haaf und Steiner notwendig oder Konstanter WÜ auch fein haaf und Steiner halt geometriebasierte Wärmeübergänge wäre schon wichtig ansonsten wäre nur ein unterschied im sinne der Strömungsöffnunf und Abtaudynamik durch zufrieren der öffnunfg sowie Verdampferfläche.
 > 
 
 > [!check] Antwort
