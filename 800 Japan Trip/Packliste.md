@@ -1,90 +1,152 @@
 ---
-title: "🎒 Packliste: Japan & Thailand (8 Wochen)"
+title: "🎒 Packliste: Japan (6 Wochen, Feb–März 2027)"
 type: privat
+status: in-planung
+tags:
+  - Reise
+  - Japan
 erstellt: 2025-11-25
+aktualisiert: 2026-09-05
 ---
 
-# 🎒 Packliste: Japan & Thailand (8 Wochen)
+# 🎒 Packliste: Japan (6 Wochen, Feb–März 2027)
+
 **Gepäck:** Osprey Farpoint 55 (40L Main + 15L Daypack)
-**Strategie:** Waschen alle 7 Tage + Zwiebelprinzip für Temperaturwechsel.
+**Zeitraum:** 15.02.–30.03.2027 · 42 Nächte
+**Strategie:** Waschen alle 7 Tage + Zwiebelprinzip. Pack für 8 Tage, nicht für 6 Wochen.
+
+
+---
+
+## 🌡️ Temperaturen auf deiner Route (Durchschnittswerte)
+
+| Etappe | Tag | Nacht | Besonderheit |
+| :----- | --: | ----: | :----------- |
+| Tokyo, 16.02.–02.03. | ~10 °C | ~2 °C | Trocken, sonnig, kalter Wind |
+| Kanazawa, 02.03.–05.03. | ~10 °C | ~2 °C | Nasse Seite Japans, Schnee/Schneematsch möglich |
+| Kyoto, 05.03.–13.03. | ~13 °C | ~3 °C | Im Kessel nachts kälter als gedacht |
+| Osaka + Kinosaki, 13.03.–18.03. | ~13 °C | ~4 °C | Kinosaki abends kühl (Yukata-Bummel!) |
+| Hiroshima, 18.03.–21.03. | ~14 °C | ~4 °C | |
+| Fukuoka + Nagasaki, 21.03.–28.03. | ~16 °C | ~8 °C | Deutlich milder, Kirschblüte |
+| Tokyo, 28.03.–30.03. | ~15 °C | ~6 °C | |
+
+**Fazit:** Spannweite ~0 °C bis ~20 °C. Keine echte Winterausrüstung nötig, aber ohne Baselayer und Handschuhe frierst du in den ersten drei Wochen.
 
 ---
 
 ## 👕 Klamotten (Main Pack 40L)
-*Hinweis: Packe für 7-8 Tage, nicht für 8 Wochen. Nutze Packing Cubes zur Komprimierung!*
+
+### Baselayer (NEU – das war die große Lücke)
+- [ ] **2x Thermo-Longsleeve** (Merino oder Uniqlo Heattech – *Heattech kannst du auch vor Ort für ~¥1.500 kaufen, gibt's an jeder Ecke*)
+- [ ] **1x Lange Unterhose / Thermo-Leggings** (für Kanazawa und kalte Abende in Tokyo)
 
 ### Oberteile
-- [ ] **1x Hardshell/Regenjacke** (Dünn, winddicht - *Wichtig für Japan & Regenzeit*)
-- [ ] **1x Ultra-Light Daunenjacke** (z.B. Uniqlo - *Lebensretter in Kinosaki/Abends, lässt sich winzig für Thailand packen*)
-- [ ] **1x Fleece-Jacke oder Hoodie** (Für den Flug und kalte Tage, am Körper tragen beim Reisetag)
-- [ ] **5-6x T-Shirts** (Mischung aus Baumwolle und Merino/Synthetik für Thailand)
-- [ ] **1x Longsleeve/Dünner Pulli** (Merino ist top, riecht nicht)
-- [ ] **1x Hemd** (Casual, falls du mal schicker essen gehst in Tokyo/Bangkok)
+- [ ] **1x Hardshell / Regenjacke** (dünn, winddicht – Kanazawa & Kinosaki liegen auf der Regen-/Schneeseite)
+- [ ] **1x Ultra-Light Daunenjacke** (Uniqlo o.ä. – dein Hauptwärmer, packt sich winzig für die milde Kyushu-Woche)
+- [ ] **1x Fleece-Jacke oder Hoodie** (Zwischenschicht, am Körper tragen am Flugtag)
+- [ ] **5x T-Shirts** (Merino/Synthetik trocknet nach der Handwäsche schneller)
+- [ ] **2x Longsleeve / dünner Pulli** (Merino riecht nicht – eins mehr als in der alten Liste)
+- [ ] **1x Hemd** (falls du in Tokyo oder Kanazawa mal schicker essen gehst)
 
 ### Hosen
-- [ ] **1x Jeans oder Chino** (Am Körper tragen beim Flug)
-- [ ] **1x Leichte Stoffhose** (Bequem für Züge, nicht zu warm für warme Tage)
-- [ ] **2x Shorts** (Für Thailand und zum Schlafen/Hostel)
-- [ ] **1x Badehose** (Für Onsen in Kinosaki brauchst du *keine*, aber für Thailand!)
+- [ ] **1x Jeans oder Chino** (am Körper tragen beim Flug)
+- [ ] **1x Leichte Stoffhose** (bequem für lange Zugfahrten)
+- [ ] **1x Wanderhose oder zweite Chino** (Ersatz – bei 6 Wochen zu wenig Hosen ist ärgerlich)
 
 ### Unterwäsche & Socken
-- [ ] **7x Unterhosen** (Synthetik trocknet schneller nach dem Waschen)
-- [ ] **4x Paar Sneakersocken**
-- [ ] **3x Paar Wandersocken** (Merino empfohlen – du wirst *viel* laufen in Japan)
+- [ ] **7x Unterhosen** (Synthetik)
+- [ ] **3x Paar dünne Socken** (für die milden Kyushu-Tage)
+- [ ] **4x Paar Merino-/Wandersocken** (dicker, du läufst 15–20 km/Tag)
+- [ ] ⚠️ **Nur Socken ohne Löcher!** In Tempeln, Ryokans und vielen Restaurants ziehst du die Schuhe aus – du stehst dauernd in Socken vor Leuten.
 
 ### Schuhe
-*Maximal 2 Paar wegen Platz!*
-- [ ] **1x Bequeme Sneaker / Laufschuhe** (Am Körper tragen – deine "Daily Driver")
-- [ ] **1x Leichte Stoffschuhe oder Birkenstocks** (Für Thailand, Hostel und kurze Wege)
+*Maximal 2 Paar.*
+- [ ] **1x Bequeme wasserabweisende Sneaker** (am Körper tragen – deine Daily Driver. Nasse Füße in Kanazawa ruinieren dir zwei Tage)
+- [ ] **1x Leichte Slip-ons / Sneaker zum schnellen Ausziehen** (Schuhe-aus-Situationen kommen täglich vor – Schnürsenkel nerven dabei extrem)
+
+### Accessoires (NEU)
+- [ ] **1x Mütze**
+- [ ] **1x Dünne Handschuhe** (touchscreen-tauglich – du navigierst ständig am Handy)
+- [ ] **1x Buff / dünner Schal** (vielseitigster Wärmer, wiegt nichts)
 
 ---
 
 ## 🧼 Hygiene & Kulturbeutel
-*Tipp: Japanische Hotels stellen fast immer Shampoo, Duschgel, Zahnbürsten und Pyjamas! Spare hier Platz.*
 
-- [ ] **Kulturbeutel** (Zum Aufhängen ist praktisch)
-- [ ] **Deo** (Wichtig: Japanisches Deo ist oft schwach, bring deins aus DE mit)
+> [!TIP] Platz sparen
+> Japanische Hotels stellen fast immer Shampoo, Duschgel, Zahnbürste, Rasierer und Pyjama. Nimm nur, was du wirklich brauchst.
+
+- [ ] **Kulturbeutel** (zum Aufhängen)
+- [ ] **Deo** (japanisches ist oft schwach – aus DE mitbringen)
 - [ ] **Zahnpasta & Zahnbürste**
 - [ ] **Nagelknipser & Pinzette**
 - [ ] **Rasierer**
-- [ ] **Kleines Microfaser-Handtuch** (Trocknet schnell, für Hostels/Strand)
-- [ ] **Sonnencreme** (Teuer in Asien, besser mitbringen)
-- [ ] **Kleines Handwaschmittel** (Rei in der Tube – für Notfallwäsche im Waschbecken)
-- [ ] **Persönliche Medikamente** (Kopfschmerz, Magen/Darm, Pflaster)
-- [ ] **Handdesinfektion**
-- [ ] **Pflaster**
+- [ ] **Kleines Microfaser-Handtuch**
+- [ ] **Lippenpflege & Handcreme** (NEU – japanische Winterluft und die Hotelheizung sind knochentrocken)
+- [ ] **Sonnencreme** (klein – im März in Kyushu reicht LSF 30 fürs Gesicht)
+- [ ] **Handwaschmittel** (Rei in der Tube, für Notfallwäsche)
+- [ ] **Handdesinfektion & Pflaster**
+
+### 💊 Medikamente
+- [ ] **Antihistaminika** (NEU, **wichtig**) – Februar bis März ist Zedernpollen-Hochsaison (*Kafunshō*). Das erwischt auch Leute ohne bekannten Heuschnupfen.
+- [ ] **Blasenpflaster** (Compeed – bei 6 Wochen Dauerlaufen keine Frage des Ob)
+- [ ] **Kopfschmerz-, Magen-/Darmmittel**
+- [ ] ⚠️ **Verbotene Wirkstoffe prüfen:** Japan verbietet **Pseudoephedrin** (viele Erkältungsmittel) und **Codein**. Bei verschreibungspflichtigen Medikamenten oder größeren Mengen brauchst du ein *Yakkan Shoumei* – Antrag dauert einige Wochen.
 
 ---
 
 ## 🔌 Technik & Elektronik
-- [ ] **Universal-Reiseadapter** (Japan: Typ A [2 flache Stifte], Thailand: Typ A, B, C)
-- [ ] **Powerbank** (Minimum 10.000mAh – Navigation zieht viel Akku! **Ins Handgepäck!**)
-- [ ] **Ladekabel** (USB-C, Lightning, Watch – am besten ein Multi-Kabel)
-- [ ] **Kopfhörer / In-Ears** (Noise Cancelling für Zug/Flug)
-- [ ] **Smartphone + Sim-Nadel** (Zum Wechseln der SIM/eSIM)
-- [ ] **E-Reader / Tablet** (Optional)
+- [ ] **Reiseadapter Typ A** (Japan: 2 flache Stifte, 100V) – *ein simpler Typ-A-Adapter reicht, kein Universalmonster nötig*
+- [ ] **Powerbank** (min. 10.000 mAh – **ins Handgepäck!**)
+- [ ] **Ladekabel** (USB-C, Lightning, Watch)
+- [ ] **Kopfhörer / In-Ears** (Noise Cancelling – bei ~20 h Shinkansen+Flug lohnt es sich)
+- [ ] **Smartphone + SIM-Nadel**
+- [ ] **eSIM Saily** vorab aktivieren (mind. 20 GB für 43 Tage – siehe [[Route]])
+- [ ] **E-Reader / Tablet** (optional)
 
 ---
 
 ## 📂 Dokumente & Geld
-*Tipp: Alles auch digital in der Cloud speichern!*
+*Tipp: Alles zusätzlich digital in der Cloud.*
 
-- [ ] **Reisepass** (Muss noch 6 Monate gültig sein)
-- [ ] **Kreditkarten** (2 Stück empfohlen: Visa/Mastercard, getrennt aufbewahren)
-- [ ] **Ausdruck: Visit Japan Web QR Codes** (Geht schneller bei Einreise)
-- [ ] **JR Pass** (Für Reisen mit Zug wichtig und Shinkansen)
-- [ ] **Ausdruck: Auslandskrankenversicherung** (Policen-Nummer)
-- [ ] **Bargeld** (Ein paar Euro als Notreserve, Yen/Baht vor Ort abheben)
+- [ ] **Reisepass** (min. 6 Monate gültig)
+- [ ] **2x Kreditkarte** (Visa + Mastercard, getrennt aufbewahren)
+- [ ] **Ausdruck: Visit Japan Web QR-Codes**
+- [ ] **Ausdruck: Auslandskrankenversicherung** ⚠️ *Vorher prüfen: viele Policen decken nur 42 Tage pro Reise, du bist 44–45 Tage unterwegs*
+- [ ] **Bargeld** (~200 € Notreserve, Yen vor Ort am 7-Bank-ATM abheben)
+- [ ] **Suica/Pasmo auf Apple Wallet laden** (schon vor dem Abflug einrichten)
+- [ ] ~~JR Pass~~ → *entfällt, lohnt sich auf deiner Route nicht. Stattdessen Einzeltickets + Regionalpässe (siehe [[Route]])*
 
 ---
 
-## 🎒 Tagesrucksack (Der 15L Daypack)
-*Das hast du im Flugzeug bei dir und bei den Tagestrips (Yokohama, Nara, etc.)*
+## 🎒 Tagesrucksack (15L Daypack)
+*Im Flugzeug bei dir und auf Tagestrips (Yokohama, Kamakura, Nikko, Nara, Miyajima).*
 
-- [ ] **Kleiner Regenschirm** (☔ – in Japan regnet es oft überraschend)
-- [ ] **Kleines Schweißtuch / Handtuch** (Japanische öffentliche Toiletten haben oft keine Papiertücher!)
-- [ ] **Plastiktüte/Ziploc** (Für Müll – in Japan gibt es kaum öffentliche Mülleimer)
-- [ ] **Stift** (Für Einreiseformulare im Flugzeug)
+- [ ] **Kleines Handtuch / Tenugui** (japanische Toiletten haben oft keine Papiertücher – *und du brauchst es für die Onsen in Kinosaki*)
+- [ ] **Plastiktüte / Ziploc** (für Müll – öffentliche Mülleimer sind rar)
+- [ ] **Faltbare Einkaufstasche** (NEU – Konbini-Tüten kosten seit 2020 extra)
+- [ ] **Kleines Münzportemonnaie** (NEU – du sammelst in Japan absurd viele Münzen)
+- [ ] **Stift** (für Einreiseformulare)
 - [ ] **Wasserflasche**
-- [ ] **Reisekissen** (Aufblasbar spart Platz)
+- [ ] **Reisekissen** (aufblasbar)
 - [ ] **Sonnenbrille**
+- [ ] **FFP2-/Pollenmaske** (NEU – gegen Pollen, und in vollen Zügen weiterhin gern gesehen)
+
+---
+
+## 🛒 Erst vor Ort kaufen (spart Platz und Geld)
+
+- **Regenschirm**: ¥500 im Konbini, an jeder Ecke. Nicht von zu Hause mitschleppen.
+- **Kairo (Wärmepflaster)**: Klebe-Wärmekissen für den Rücken, ¥100–200 im Drogeriemarkt. In Kanazawa dein bester Freund.
+- **Heattech**: Uniqlo gibt es überall, günstiger als in DE.
+- **Pollenmittel**: Apotheken/Drogerien (Matsumoto Kiyoshi) sind im Frühjahr voll damit.
+- **Extra-Beutel**: Für die Rückreise mit Souvenirs – 400 € Souvenirbudget brauchen Platz.
+
+---
+
+## 🧳 Vor dem Zusammenpacken checken
+
+- [ ] Packing Cubes nutzen (Komprimierung)
+- [ ] Powerbank im Handgepäck, nicht im aufgegebenen Gepäck
+- [ ] Daunenjacke, Fleece und Jeans am Körper tragen am Flugtag
+- [ ] **Faustregel:** Wenn der Farpoint voll ist, ist er zu voll. Du kaufst in 6 Wochen garantiert Zeug ein.

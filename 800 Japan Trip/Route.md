@@ -1,33 +1,106 @@
 ---
-title: "Route"
+title: "🗓️ Route"
 type: privat
+status: in-planung
+tags:
+  - Reise
+  - Japan
 erstellt: 2025-11-25
+aktualisiert: 2026-09-05
 ---
 
-# 🗓️ Reiseübersicht (Start voraussichtlich: 07. Oktober 2026)
+# 🗓️ Reiseübersicht
 
-| **Aufenthaltsdauer**          | **Ort / Aktivität**   | **Übernachtung (geschätzt)** | **Hinweise & Details**                                                                                                                                 | **Hotel**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------- | --------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **14 Tage**<br><br>16.02-2.03 | **Tokyo** (Basis)     | 1000 €                       | Tagesausflüge (Yokohama, Kamakura, Nikko) sind hier im Essensbudget inkludiert. Hotels in Tokyo sind teurer (ca. 100€/Nacht).                          | [Shinjuku](https://www.booking.com/hotel/jp/rioxin-su.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=be8ebb839f4cc04f954e98afd8beb2b4&aid=304142&ucfs=1&checkin=2026-10-07&checkout=2026-10-21&dest_id=-246227&dest_type=city&group_adults=1&no_rooms=1&group_children=0&srpvid=adf684fd406b0807&srepoch=1764096970&matching_block_id=1007239401_404625943_2_0_0&atlas_src=sr_iw_title)                                                                                                                                                                                                                                     |
-| **4 Tage**<br><br>2.03-5.03   | **Kanazawa**          | 225 €                        | Etwas günstigere Hotels (ca. 75€/Nacht). Bekannt für Meeresfrüchte (Sushi!).                                                                           | [Hotel](https://www.booking.com/hotel/jp/hotel-kanazawa.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=400768368e27d5419523ee229d17c448&aid=304142&ucfs=1&arphpl=1&checkin=2026-10-19&checkout=2026-10-22&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&all_sr_blocks=31109753_89224401_1_2_0&highlighted_blocks=31109753_89224401_1_2_0&matching_block_id=31109753_89224401_1_2_0&sr_pri_blocks=31109753_89224401_1_2_0&from_list=1)                                                                                                                                                              |
-| **8 Tage**<br><br>5.03-13.03  | **Kyoto**             | 600 €                        | Unterkunftspreise variieren stark, früh buchen! Ausflüge nach Nara/Uji hier eingerechnet.                                                              | [Kyoto Hotel](https://www.booking.com/hotel/jp/da-ri-si-nosu-jing-du-ji-xiang-yuan.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=400768368e27d5419523ee229d17c448&aid=304142&ucfs=1&checkin=2026-10-22&checkout=2026-10-28&group_adults=1&no_rooms=1&group_children=0&srpvid=f35a85a6144e02fe&srepoch=1764097244&matching_block_id=1256595801_420165242_0_0_0&atlas_src=hp_iw_btn)                                                                                                                                                                                                                                         |
-| **4 Tage**<br><br>13.03-17.03 | **Osaka**             | 300 €                        | Osaka ist oft günstiger als Kyoto (ca. 80€/Nacht). Inkl. Kobe Trip (Kobe Beef kostet extra, hier Standardbudget).                                      | [Osaka](https://www.booking.com/hotel/jp/dcying-noyuan-osaka.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=400768368e27d5419523ee229d17c448&aid=304142&ucfs=1&arphpl=1&checkin=2026-10-28&checkout=2026-10-31&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&all_sr_blocks=1432478603_414816257_0_0_0&highlighted_blocks=1432478603_414816257_0_0_0&matching_block_id=1432478603_414816257_0_0_0&sr_pri_blocks=1432478603_414816257_0_0_0&from_list=1)                                                                                                                                             |
-| **1 Tag**<br><br>17.03-18.03  | **Kinosaki Onsen**    | 350 €                        | **Sonderposten:** Ryokan-Übernachtung inkl. Kaiseki-Dinner & Frühstück. Teuer, aber lohnt sich. Verpflegung hier nur für Mittagessen/Snacks berechnet. | [Mikuniya](https://www.booking.com/hotel/jp/mikuniya.de.html?aid=304142&label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=be8ebb839f4cc04f954e98afd8beb2b4&all_sr_blocks=31353510_366516898_1_0_0&checkin=2026-10-31&checkout=2026-11-01&dest_id=2756&dest_type=district&dist=0&group_adults=1&group_children=0&hapos=1&highlighted_blocks=31353510_366516898_1_0_0&hpos=1&matching_block_id=31353510_366516898_1_0_0&no_rooms=1&req_adults=1&req_children=0&room1=A&sb_price_type=total&sr_order=popularity&sr_pri_blocks=31353510_366516898_1_0_0__4322275&srepoch=1764097699&srpvid=f71d867f38d8169f&type=total&ucfs=1&#map_closed) |
-| **3 Tage**<br><br>18.03-21.03 | **Hiroshima**         | 240 €                        | Inklusive Fähre/Essen auf Miyajima.                                                                                                                    | [Ouchi Hotel](https://www.booking.com/hotel/jp/grand-polestone-otemachi.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=400768368e27d5419523ee229d17c448&aid=304142&ucfs=1&checkin=2026-11-01&checkout=2026-11-04&group_adults=1&no_rooms=1&group_children=0&srpvid=54908630b5bf0c33&srepoch=1764097527&matching_block_id=635202202_327134058_2_0_0&atlas_src=hp_iw_btn)                                                                                                                                                                                                                                                     |
-| **4 Tage**<br><br>21.03-25.03 | **Fukuoka**           | 300 €                        | Tolle Food-Stadt (Yatai Stände). Hotels moderat (ca. 80€/Nacht).                                                                                       | [CROSS Life Hakata](https://www.booking.com/hotel/jp/kurosuraihubo-duo-liu-qiao.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=400768368e27d5419523ee229d17c448&aid=304142&ucfs=1&checkin=2026-11-04&checkout=2026-11-07&group_adults=1&no_rooms=1&group_children=0&srpvid=82e685fc0c5604ce&srepoch=1764097418&matching_block_id=886399602_358206825_1_2_0_677580&atlas_src=hp_iw_btn)                                                                                                                                                                                                                                      |
-| **3 Tage**<br><br>25.03-28.03 | **Nagasaki**          | 200 €                        | Nagasaki hat eine tolle, etwas günstigere Esskultur.                                                                                                   | [Nagasaki](https://www.booking.com/hotel/jp/oyadoji-yi-guo-wu-long-ting.de.html?label=gen173nr-10CAEoggI46AdIM1gEaDuIAQGYATO4ARfIAQ_YAQPoAQH4AQGIAgGoAgG4ArD2l8kGwAIB0gIkZDkyNDZmMTctNmE2OS00Zjg0LWE2YzQtM2YyYjBjOTJhOTFj2AIB4AIB&sid=400768368e27d5419523ee229d17c448&aid=304142&ucfs=1&arphpl=1&checkin=2026-11-07&checkout=2026-11-10&group_adults=1&req_adults=1&no_rooms=1&group_children=0&req_children=0&all_sr_blocks=1404449401_412252861_1_0_0&highlighted_blocks=1404449401_412252861_1_0_0&matching_block_id=1404449401_412252861_1_0_0&sr_pri_blocks=1404449401_412252861_1_0_0&from_list=1)                                                                                                                                  |
-| **2 Tage**<br><br>28.03-30.03 | **Tokyo**             | 150€                         | Rückreise für flug und nochmal entspannen und maybe souvenirs                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Gesamt**                    | **43 Übernachtungen** | **3000 €**                   | **4800 €**                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+**Zeitraum:** 15.02.–30.03.2027
+**Abflug FRA:** 15.02.2027 · **Ankunft NRT:** 16.02.2027 (Direktflug, Nachtflug)
+**Rückflug NRT:** 30.03.2027
+**Übernachtungen:** 42 · **Tage vor Ort:** 43
 
+> [!NOTE] Status
+> Flüge und alle Unterkünfte sind gebucht (Frühjahr 2027).
+> Die Booking-Links unten zeigen die jeweilige Unterkunft – die Datums-Parameter in den URLs stammen noch aus der alten Planung und sind irrelevant.
 
+---
 
-# 💴Urlaubskosten (Budget max. 8000 Japan)
+## Etappen
 
-| Ausgabe                                                                                                                                                                                                                                                                                                         | Preis      |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| Flug [Tokyo NRT](https://www.skyscanner.de/transport/fluge/fra/nrt/261007/261120/config/11616-2610072010--32184-0-14788-2610081615\|14788-2611201045--32184-0-11616-2611201700?adultsv2=1&cabinclass=economy&childrenv2=&ref=home&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false) | 1500 €     |
-| Transport (Shinkansaen, JR Pass, Suica Card)                                                                                                                                                                                                                                                                    | 800 €      |
-| Essen und Unterkunft ( 7 Eleven, Restaurants, etc,)                                                                                                                                                                                                                                                             | 4800 €     |
-| Souvenirs und Attraktionen                                                                                                                                                                                                                                                                                      | 400 €      |
-| Internet (eSim) Saily                                                                                                                                                                                                                                                                                           | 50 €       |
-| **Gesamt**                                                                                                                                                                                                                                                                                                      | **7600 €** |
+| Nächte | Datum | Ort | Unterkunft | Hinweise |
+| :----- | :---------- | :----------------- | :--------- | :------- |
+| 14 | 16.02.–02.03. | **Tokyo** (Basis) | [Shinjuku](https://www.booking.com/hotel/jp/rioxin-su.de.html) | Tagesausflüge Yokohama, Kamakura, Nikko. Ende Feb: Pflaumenblüte (Yushima Tenjin). |
+| 3 | 02.03.–05.03. | **Kanazawa** | [Hotel Kanazawa](https://www.booking.com/hotel/jp/hotel-kanazawa.de.html) | Kann noch Schnee haben. Kenrokuen, Omicho-Markt (Sushi). |
+| 8 | 05.03.–13.03. | **Kyoto** | [Kyoto Hotel](https://www.booking.com/hotel/jp/da-ri-si-nosu-jing-du-ji-xiang-yuan.de.html) | Ausflüge Nara & Uji. |
+| 4 | 13.03.–17.03. | **Osaka** | [Osaka](https://www.booking.com/hotel/jp/dcying-noyuan-osaka.de.html) | ⚡ Haru Basho (Sumo) läuft vermutlich ab 14.03. Inkl. Kobe-Trip. |
+| 1 | 17.03.–18.03. | **Kinosaki Onsen** | [Mikuniya](https://www.booking.com/hotel/jp/mikuniya.de.html) | Ryokan inkl. Kaiseki-Dinner & Frühstück. Krabbensaison bis Ende März. |
+| 3 | 18.03.–21.03. | **Hiroshima** | [Ouchi Hotel](https://www.booking.com/hotel/jp/grand-polestone-otemachi.de.html) | Inkl. Miyajima (Fähre). Himeji als Zwischenstopp auf der Anreise möglich. |
+| 4 | 21.03.–25.03. | **Fukuoka** | [CROSS Life Hakata](https://www.booking.com/hotel/jp/kurosuraihubo-duo-liu-qiao.de.html) | Yatai-Stände. Kirschblüte in Kyushu startet typischerweise ab ~22.03. |
+| 3 | 25.03.–28.03. | **Nagasaki** | [Nagasaki](https://www.booking.com/hotel/jp/oyadoji-yi-guo-wu-long-ting.de.html) | |
+| 2 | 28.03.–30.03. | **Tokyo** | *(gebucht)* | Kirschblüte-Vollblüte wahrscheinlich. Souvenirs, entspannen. |
+| **42** | | **Gesamt** | **3.000 € (gebucht)** | |
+
+---
+
+## 🚄 Transport – konkrete Etappen
+
+> [!WARNING] JR Pass lohnt sich nicht
+> Nationaler Pass: ¥50.000 / ¥80.000 / ¥100.000 (7/14/21 Tage), ab 01.10.2026 über ausländische Verkaufsstellen ¥53.000 / ¥84.000 / ¥105.000.
+> Deine Fernstrecken summieren sich auf ca. **¥57.000 Einzeltickets**, verteilt über 4 Wochen – kein Pass deckt das sinnvoll ab.
+
+| Strecke | Verbindung | Dauer | ca. |
+| :------ | :--------- | :---- | ---: |
+| Tokyo → Kanazawa | Hokuriku-Shinkansen (Kagayaki/Hakutaka) | 2:30 h | ¥14.400 |
+| Kanazawa → Kyoto | Shinkansen bis Tsuruga, dann Thunderbird | 2:15 h | ¥7.800 |
+| Kyoto → Osaka | JR Special Rapid | 0:30 h | ¥580 |
+| Osaka → Kinosaki | Ltd. Express Kounotori | 2:40 h | ¥5.700 |
+| Kinosaki → Hiroshima | via Himeji, Umstieg auf Sanyo-Shinkansen | 4:30 h | ¥14.000 |
+| Hiroshima → Hakata | Sanyo-Shinkansen (Nozomi/Sakura) | 1:05 h | ¥9.000 |
+| Hakata → Nagasaki | Relay Kamome + Nishi-Kyushu-Shinkansen | 1:30 h | ¥6.000 |
+| **Nagasaki → Tokyo** | **✈️ Flug NGS–HND (nicht Zug!)** | 2:00 h | ~¥18.000 |
+
+**Zu prüfen:** JR Kansai-Hiroshima Area Pass (5 Tage, ~¥17.000) für den Block Osaka → Kinosaki → Hiroshima, und Northern Kyushu Pass (3 Tage, ¥10.000) für Fukuoka/Nagasaki.
+
+**Gepäcktransport (Takuhaibin):** ~¥2.000 pro Koffer zum nächsten Hotel. Besonders sinnvoll vor Kinosaki (nur 1 Nacht) – Koffer direkt Osaka → Hiroshima schicken.
+
+---
+
+## 💴 Budget (Rahmen: 8.000 €)
+
+> [!NOTE] Diese Tabelle ist die maßgebliche Budget-Quelle
+> Die Übersicht in [[Japan Trip]] fasst dieselben Zahlen nur zusammen. Änderungen immer zuerst hier eintragen.
+
+| Posten | Fix / gebucht | Geschätzt |
+| :----- | ------------: | --------: |
+| Flug FRA–NRT (Direktflug, hin & zurück) | 1.100 € | |
+| Unterkunft, 42 Nächte (inkl. Ryokan Kinosaki) | 3.000 € | |
+| Bahn Fernstrecken (Einzeltickets + Regionalpass) | | 350 € |
+| Inlandsflug Nagasaki → Tokyo | | 120 € |
+| Nahverkehr / Suica + Tagesausflüge | | 400 € |
+| Verpflegung (42 Tage à ~45 €) | | 1.900 € |
+| Eintritte & Aktivitäten | | 350 € |
+| Souvenirs | | 400 € |
+| eSIM (Saily) | | 50 € |
+| **Zwischensumme** | **4.100 €** | **3.570 €** |
+| **Gesamt** | | **7.670 €** |
+| **Puffer** | | **330 €** |
+
+> [!TIP] Der Puffer ist dünn
+> 330 € auf 6 Wochen sind knapp. Realistisch mit 8.500 € rechnen, oder Souvenirs/Eintritte bewusst deckeln.
+> Verbleibendes Tagesbudget vor Ort: **~85 €/Tag** (ohne Flug & Unterkunft).
+
+---
+
+## ⚠️ Offene Punkte
+
+- [ ] **Auslandskrankenversicherung**: viele deutsche Policen decken nur **42 Tage pro Reise**. Du bist von Haustür zu Haustür 44–45 Tage unterwegs. Bedingungen prüfen, ggf. Langzeit-Police.
+- [ ] **Sumo Osaka (Haru Basho)** – Termin bei der Japan Sumo Association bestätigen lassen, Tickets ~1 Monat vorher.
+- [ ] **Ghibli Museum**: Verkaufsstart am 10. des Vormonats, 10:00 JST → für Februar-Besuch am **10.01.2027**.
+- [ ] **teamLab / Shibuya Sky** ~1 Monat vorher buchen.
+- [ ] **Medikamente**: Pseudoephedrin & Codein sind in Japan verboten. Ggf. Yakkan Shoumei.
+- [ ] **eSIM Saily**: Datenvolumen für 43 Tage prüfen (mind. 20 GB).
+- [x] **Packliste aktualisieren** – ist seit 05.09.2026 auf Japan Feb/März ausgelegt, siehe [[Packliste]].
+- [ ] Visit Japan Web ausfüllen, QR-Codes speichern.
+
+---
+
+## 🔗 Links
+* [Navitime Route Search](https://japantravel.navitime.com/en/area/jp/route/)
+* [Japan Guide](https://www.japan-guide.com/)

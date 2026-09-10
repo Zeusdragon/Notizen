@@ -59,6 +59,64 @@ erstellt: 2026-09-09
 > [!check] Antwort
 > 
 
+
+> [!question] F4 — Sperrvermerk und Veröffentlichung
+> Braucht die Arbeit einen Sperrvermerk? Und wie wird mit dem Code umgegangen — darf das RL-Repo öffentlich (GitHub) oder bleibt es intern? Hängt mit F2 zusammen.
+
+> [!check] Antwort
+> 
+
+> [!question] F5 — Fairness der Basisregler beim Zero-Shot-Transfer
+> Bleiben die Basisregler starr auf die Baseline-Geometrie kalibriert (zeigt, was passiert wenn sie blind auf neue Geometrien losgelassen werden) oder werden sie für jede Geometrie fair nachkalibriert? Bei der bedarfsgesteuerten Abtauung passiert das intrinsisch, bei der Zeitabtauung müsste der Auslösezeitpunkt je Variante neu bestimmt werden. Die Entscheidung bestimmt, wie belastbar der Vergleich am Ende ist — siehe [[Arbeitsstand]].
+
+> [!check] Antwort
+> 
+
+> [!question] F6 — Trainings- und Evaluationsmodell trennen?
+> Wäre es methodisch akzeptabel, auf dem schnellen, stabilen Modell zu trainieren und nur auf dem detaillierten Modell (Haaf und Steiner + thermal resistance Frostmodell) zu evaluieren? Das würde die Instabilität und die Rechenzeit im Training umgehen und wäre ein sauberer Sim-to-Sim-Transfer. Ergänzt F3.
+
+> [!check] Antwort
+> 
+
+> [!question] F7 — Validierung des Frost- und Abtaumodells
+> Gibt es Prüfstands- oder Messdaten, gegen die sich Reifbildung und Abtauverhalten abgleichen lassen? Falls nicht: reicht eine Plausibilisierung gegen Literatur, und wie wird das in der Arbeit argumentiert?
+
+> [!check] Antwort
+> 
+
+> [!question] F8 — Numerische Instabilität bei der Kreislaufumkehr
+> Kondensatorzellen gehen während der Abtauung unter 250 K, der ExpansionTank läuft nicht weiter. Gibt es dazu Erfahrung im Institut — Rampe statt Sprung beim Vier-Wege-Ventil, andere Initialisierung, TIL-Support?
+
+> [!check] Antwort
+> 
+
+### Falls Zeit bleibt
+
+> [!question] F9 — DoE: Parametergrenzen und finThickness
+> Min-/Max-Grenzen der vier Mikroparameter stehen noch aus ([[Design of Experiment]]). Gibt es fertigungstechnisch sinnvolle Grenzen oder Herstellerdaten? Und: finThickness war in Run 1 einflusslos — aus dem Plan nehmen (dann 3 Parameter, dichtere Abdeckung) oder Intervall weiten?
+
+> [!check] Antwort
+> 
+
+> [!question] F10 — Gebäudemodell
+> Ist das konzentrierte RC-Modell in der gewählten Tiefe akzeptiert, inklusive Vernachlässigung interner und solarer Gewinne? Und wird die flächenbezogene Wärmekapazität als zusätzliche DoE-Dimension aufgenommen oder nur über zwei Extremfälle (leicht/schwer) abgedeckt? Siehe [[Gebäude]].
+
+> [!check] Antwort
+> 
+
+
+> [!question] F12 — Reward und Komfort
+> Der Reward ist rein COP/COP_Carnot, Komfort wird nirgends bestraft. Soll ein Raumtemperatur-Constraint aufgenommen werden oder bleibt Komfort bewusst außerhalb der Zielfunktion?
+
+> [!check] Antwort
+> 
+
+> [!question] F13 — Statistische Absicherung und Scope
+> Wie viele Trainingsläufe (Seeds) pro Konfiguration werden erwartet, damit die Ergebnisse nicht als Einzellauf angreifbar sind? Und gehört der Algorithmenvergleich (QR-DQN vs. DQN vs. PPO) in den Umfang oder fällt er raus? Ebenso: TRY/TMY-Daten statt historischer Jahre?
+
+> [!check] Antwort
+> 
+
 ---
 
 ## 3. Sonstige Notizen
