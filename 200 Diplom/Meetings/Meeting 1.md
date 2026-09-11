@@ -47,6 +47,7 @@ erstellt: 2026-09-09
 
 > [!question] F2 — Datashare für Anlegen?
 > Für Dokumente und Abbildungs austausch einen Datashare Anlegen?
+> UNd soll der Code in ein Repo was auf Uni seite gemacht ist oder soll ich eins auf Gitlab Account machen
 > 
 
 > [!check] Antwort
@@ -60,11 +61,11 @@ erstellt: 2026-09-09
 > 
 
 
-> [!question] F4 — Sperrvermerk und Veröffentlichung
-> Braucht die Arbeit einen Sperrvermerk? Und wie wird mit dem Code umgegangen — darf das RL-Repo öffentlich (GitHub) oder bleibt es intern? Hängt mit F2 zusammen.
+> [!question] F4 — USB oder CD als Datenträger
+> Datenträger für Arbeit was wird bevorzugt CD oder USB stick?
 
 > [!check] Antwort
-> 
+> USB 
 
 > [!question] F5 — Fairness der Basisregler beim Zero-Shot-Transfer
 > Bleiben die Basisregler starr auf die Baseline-Geometrie kalibriert (zeigt, was passiert wenn sie blind auf neue Geometrien losgelassen werden) oder werden sie für jede Geometrie fair nachkalibriert? Bei der bedarfsgesteuerten Abtauung passiert das intrinsisch, bei der Zeitabtauung müsste der Auslösezeitpunkt je Variante neu bestimmt werden. Die Entscheidung bestimmt, wie belastbar der Vergleich am Ende ist — siehe [[Arbeitsstand]].
@@ -121,7 +122,7 @@ erstellt: 2026-09-09
 
 ## 3. Sonstige Notizen
 
--
+- Wie kann man Hydaraulikkreis realistisch darstellen geht das 
 
 ---
 

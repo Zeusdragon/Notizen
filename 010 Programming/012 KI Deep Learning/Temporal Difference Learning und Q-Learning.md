@@ -40,12 +40,12 @@ $$q[s_t,a_t] \leftarrow q[s_t,a_t] + \alpha\underbrace{\big(\,\overbrace{r_{t+1}
 ## 3. SARSA vs. Q-Learning
 Beide sind TD-Verfahren; der Unterschied liegt allein im Target.
 
-| | **SARSA** (on-policy) | **Q-Learning** (off-policy) |
-| :--- | :--- | :--- |
-| Target | $r_{t+1} + \gamma\, q[s_{t+1}, a_{t+1}]$ | $r_{t+1} + \gamma \max_{a} q[s_{t+1}, a]$ |
-| $a_{t+1}$ | die **tatsächlich ausgeführte** nächste Aktion | die **beste denkbare** Aktion |
-| Lernt | den Wert der *aktuell verhaltenen* Policy (inkl. Exploration) | den Wert der *optimalen* Policy |
-| Verhalten | vorsichtig (berücksichtigt eigene Zufallsfehler) | risikofreudig / optimistisch |
+|           | **SARSA** (on-policy)                                         | **Q-Learning** (off-policy)               |
+| :-------- | :------------------------------------------------------------ | :---------------------------------------- |
+| Target    | $r_{t+1} + \gamma\, q[s_{t+1}, a_{t+1}]$                      | $r_{t+1} + \gamma \max_{a} q[s_{t+1}, a]$ |
+| $a_{t+1}$ | die **tatsächlich ausgeführte** nächste Aktion                | die **beste denkbare** Aktion             |
+| Lernt     | den Wert der *aktuell verhaltenen* Policy (inkl. Exploration) | den Wert der *optimalen* Policy           |
+| Verhalten | vorsichtig (berücksichtigt eigene Zufallsfehler)              | risikofreudig / optimistisch              |
 
 Das klassische Beispiel ist die "Cliff Walk"-Umgebung: SARSA läuft mit Sicherheitsabstand an der Klippe entlang, Q-Learning direkt am Rand — weil es so tut, als würde es nie zufällig danebengreifen.
 
@@ -75,13 +75,13 @@ Funktionsapproximation + Bootstrapping + Off-Policy-Daten zusammen können diver
 Dazu: Reward-Clipping, Frame-Stacking (Markov-Eigenschaft herstellen!), $\epsilon$-greedy.
 
 ## 6. Bekannte Schwächen und ihre Fixes
-| Problem | Ursache | Lösung |
-| :--- | :--- | :--- |
-| **Overestimation Bias** | $\max$ über verrauschte Schätzungen ist systematisch zu hoch ($\mathbb E[\max] \geq \max \mathbb E$) | **Double DQN:** Aktion mit dem Online-Netz *auswählen*, mit dem Target-Netz *bewerten* |
-| Value und Advantage vermischt | in vielen Zuständen ist die Aktion egal | **Dueling DQN:** getrennte Köpfe für $v[s]$ und $A[s,a]$ |
-| Alle Samples gleich wichtig | wenige Übergänge sind lehrreich | **Prioritized Replay:** Sampling proportional zum TD-Error |
-| Nur der Mittelwert wird gelernt | Risiko ist unsichtbar | **Distributional RL / [[QR-DQN (Quantile Regression DQN)|QR-DQN]]** — lernt die ganze Return-Verteilung |
-| Nur diskrete Aktionen | $\max_a$ über kontinuierlichen Raum unlösbar | Actor lernt das $\arg\max$: [[DDPG (Deep Deterministic Policy Gradient)|DDPG]], [[TD3 (Twin Delayed DDPG)|TD3]], [[SAC (Soft Actor-Critic)|SAC]] |
+| Problem                         | Ursache                                                                                              | Lösung                                                                                                                                              |
+| :------------------------------ | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Overestimation Bias**         | $\max$ über verrauschte Schätzungen ist systematisch zu hoch ($\mathbb E[\max] \geq \max \mathbb E$) | **Double DQN:** Aktion mit dem Online-Netz *auswählen*, mit dem Target-Netz *bewerten*                                                              |
+| Value und Advantage vermischt   | in vielen Zuständen ist die Aktion egal                                                              | **Dueling DQN:** getrennte Köpfe für $v[s]$ und $A[s,a]$                                                                                            |
+| Alle Samples gleich wichtig     | wenige Übergänge sind lehrreich                                                                      | **Prioritized Replay:** Sampling proportional zum TD-Error                                                                                          |
+| Nur der Mittelwert wird gelernt | Risiko ist unsichtbar                                                                                | **Distributional RL / [[QR-DQN (Quantile Regression DQN) \| QR-DQN]]** — lernt die ganze Return-Verteilung                                          |
+| Nur diskrete Aktionen           | $\max_a$ über kontinuierlichen Raum unlösbar                                                         | Actor lernt das $\arg\max$: [[DDPG (Deep Deterministic Policy Gradient)\|DDPG]], [[TD3 (Twin Delayed DDPG)\|TD3]], [[SAC (Soft Actor-Critic)\|SAC]] |
 
 **Rainbow** ist die Kombination all dieser Erweiterungen.
 

@@ -74,11 +74,12 @@ $$v_{k+1}[s] \leftarrow \max_{a}\Big[ r(s,a) + \gamma \sum_{s'} Pr(s'\mid s,a)\,
 Am Ende einmal gierig ablesen → optimale Policy.
 
 ## 4. Warum reicht das in der Praxis nicht?
-| Problem | Konsequenz |
-| :--- | :--- |
-| **Modell unbekannt** | $Pr(s'|s,a)$ ist bei realen Anlagen/FMUs nicht in geschlossener Form verfügbar → modellfreie Methoden nötig |
-| **Curse of Dimensionality** | Bei $n$ kontinuierlichen Sensorwerten explodiert die Tabelle. Ein diskretisierter 8D-Zustand mit 20 Stufen hat $20^8 = 2.6\cdot10^{10}$ Einträge |
-| **Kontinuierliche Aktionen** | $\max_a$ über einen kontinuierlichen Raum ist selbst ein Optimierungsproblem |
+| Problem                      | Konsequenz                                                                                                                                       |
+| :--------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Modell unbekannt**         | $Pr(s's,a)$ ist bei realen Anlagen/FMUs nicht in geschlossener Form verfügbar → modellfreie Methoden nötig                                       |
+| **Curse of Dimensionality**  | Bei $n$ kontinuierlichen Sensorwerten explodiert die Tabelle. Ein diskretisierter 8D-Zustand mit 20 Stufen hat $20^8 = 2.6\cdot10^{10}$ Einträge |
+| **Kontinuierliche Aktionen** | $\max_a$ über einen kontinuierlichen Raum ist selbst ein Optimierungsproblem                                                                     |
+
 
 **Antwort des Deep Learning:** Ersetze die Tabelle durch ein Neuronales Netz $q[s,a,\boldsymbol\phi]$ ([[Deep Neural Network]]) und schätze die Erwartungswerte durch Stichproben aus echten Rollouts → [[Temporal Difference Learning und Q-Learning]].
 
