@@ -43,6 +43,7 @@ erstellt: 2026-09-09
 > Wie soll arbeit mit KI dokumentiert werden. Aus Startepaket nicht ganz ersichtlich wie das gehandhabt werden soll. Da dort ausgegangen wird das ich die Komplette Arbeit einmal reingebe und dann korrigieren lasse ist aber meist eher eine disskusion über kleinere Abteile
 
 > [!check] Antwort
+> Aktueller Stand I.O wird darauf hinauslaufen das am ende einmal geschrieben wofür welche modelle genutzt wurden.
 > 
 
 > [!question] F2 — Datashare für Anlegen?
@@ -51,6 +52,7 @@ erstellt: 2026-09-09
 > 
 
 > [!check] Antwort
+> Ja odrner wird erstellt github repo kann bleiben und betreuer als contributor hinzufügen
 > 
 
 > [!question] F3 — Welches Frostmodell genau verwendung am sinnvollsten 
@@ -58,6 +60,8 @@ erstellt: 2026-09-09
 > 
 
 > [!check] Antwort
+> Auch hier sensitivitätsanalyse
+> Wie viel einfluss und wie ist die vereinfachungen in ordnung
 > 
 
 
@@ -65,7 +69,7 @@ erstellt: 2026-09-09
 > Datenträger für Arbeit was wird bevorzugt CD oder USB stick?
 
 > [!check] Antwort
-> USB 
+> USB ist fein maybe auch per datashare und qr code möglich
 
 > [!question] F5 — Fairness der Basisregler beim Zero-Shot-Transfer
 > Bleiben die Basisregler starr auf die Baseline-Geometrie kalibriert (zeigt, was passiert wenn sie blind auf neue Geometrien losgelassen werden) oder werden sie für jede Geometrie fair nachkalibriert? Bei der bedarfsgesteuerten Abtauung passiert das intrinsisch, bei der Zeitabtauung müsste der Auslösezeitpunkt je Variante neu bestimmt werden. Die Entscheidung bestimmt, wie belastbar der Vergleich am Ende ist — siehe [[Arbeitsstand]].
@@ -77,13 +81,10 @@ erstellt: 2026-09-09
 > Wäre es methodisch akzeptabel, auf dem schnellen, stabilen Modell zu trainieren und nur auf dem detaillierten Modell (Haaf und Steiner + thermal resistance Frostmodell) zu evaluieren? Das würde die Instabilität und die Rechenzeit im Training umgehen und wäre ein sauberer Sim-to-Sim-Transfer. Ergänzt F3.
 
 > [!check] Antwort
+> Prüfen wie realistisch das ist und sensitivitätsanalyse
 > 
 
-> [!question] F7 — Validierung des Frost- und Abtaumodells
-> Gibt es Prüfstands- oder Messdaten, gegen die sich Reifbildung und Abtauverhalten abgleichen lassen? Falls nicht: reicht eine Plausibilisierung gegen Literatur, und wie wird das in der Arbeit argumentiert?
 
-> [!check] Antwort
-> 
 
 > [!question] F8 — Numerische Instabilität bei der Kreislaufumkehr
 > Kondensatorzellen gehen während der Abtauung unter 250 K, der ExpansionTank läuft nicht weiter. Gibt es dazu Erfahrung im Institut — Rampe statt Sprung beim Vier-Wege-Ventil, andere Initialisierung, TIL-Support?
@@ -122,13 +123,16 @@ erstellt: 2026-09-09
 
 ## 3. Sonstige Notizen
 
-- Wie kann man Hydaraulikkreis realistisch darstellen geht das 
+- 
 
 ---
 
 ## 4. Ergebnis & nächste Schritte
 
-- 
+- Überprüfen wie realistisch muss das modell werden und welche vereinfachungen muss ich treffen 
+- wie einfach frostmodell
+- wie einfach wärmeübergangsmodelle
+- wie einfach Hydraulikkreis muss der erweitertwerden mit mehr oder reicht fußbodenheizung aus
 - 
 
 
