@@ -3,7 +3,6 @@ title: "Fragen zu Dymola"
 type: konzept
 erstellt: 2026-08-18
 ---
-
 - Wie in Dymola Multiprocessing
 - Geht in Dymola oder mit FMU GPU processing
 - Anbindung an Gebäudemodelle die vielleicht in Python geschrieben sind oder in Dymola mit Aixlib gemacht wurden da MediumsBibs von Dymola und Til verschieden sind
@@ -12,3 +11,4 @@ erstellt: 2026-08-18
 	- Skripten über Python Interface geht Fmu Export ist automatiserbar
 - wie schreibt man Controllerbausteine in Dymola
 - Kann man Plots die in Dymola erstellt werden speichern oder nur in Dave möglich
+- wie ist der Linux Support?

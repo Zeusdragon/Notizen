@@ -1,7 +1,7 @@
 ---
-title: "Meeting 1"
+title: Meeting 1
 type: meeting
-status: in-bearbeitung
+status: fertig
 tags:
   - meeting
 erstellt: 2026-09-09
