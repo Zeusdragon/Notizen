@@ -24,18 +24,18 @@ aktualisiert: 2026-09-05
 
 ## Etappen
 
-| Nächte | Datum | Ort | Unterkunft | Hinweise |
-| :----- | :---------- | :----------------- | :--------- | :------- |
-| 14 | 16.02.–02.03. | **Tokyo** (Basis) | [Shinjuku](https://www.booking.com/hotel/jp/rioxin-su.de.html) | Tagesausflüge Yokohama, Kamakura, Nikko. Ende Feb: Pflaumenblüte (Yushima Tenjin). |
-| 3 | 02.03.–05.03. | **Kanazawa** | [Hotel Kanazawa](https://www.booking.com/hotel/jp/hotel-kanazawa.de.html) | Kann noch Schnee haben. Kenrokuen, Omicho-Markt (Sushi). |
-| 8 | 05.03.–13.03. | **Kyoto** | [Kyoto Hotel](https://www.booking.com/hotel/jp/da-ri-si-nosu-jing-du-ji-xiang-yuan.de.html) | Ausflüge Nara & Uji. |
-| 4 | 13.03.–17.03. | **Osaka** | [Osaka](https://www.booking.com/hotel/jp/dcying-noyuan-osaka.de.html) | ⚡ Haru Basho (Sumo) läuft vermutlich ab 14.03. Inkl. Kobe-Trip. |
-| 1 | 17.03.–18.03. | **Kinosaki Onsen** | [Mikuniya](https://www.booking.com/hotel/jp/mikuniya.de.html) | Ryokan inkl. Kaiseki-Dinner & Frühstück. Krabbensaison bis Ende März. |
-| 3 | 18.03.–21.03. | **Hiroshima** | [Ouchi Hotel](https://www.booking.com/hotel/jp/grand-polestone-otemachi.de.html) | Inkl. Miyajima (Fähre). Himeji als Zwischenstopp auf der Anreise möglich. |
-| 4 | 21.03.–25.03. | **Fukuoka** | [CROSS Life Hakata](https://www.booking.com/hotel/jp/kurosuraihubo-duo-liu-qiao.de.html) | Yatai-Stände. Kirschblüte in Kyushu startet typischerweise ab ~22.03. |
-| 3 | 25.03.–28.03. | **Nagasaki** | [Nagasaki](https://www.booking.com/hotel/jp/oyadoji-yi-guo-wu-long-ting.de.html) | |
-| 2 | 28.03.–30.03. | **Tokyo** | *(gebucht)* | Kirschblüte-Vollblüte wahrscheinlich. Souvenirs, entspannen. |
-| **42** | | **Gesamt** | **3.000 € (gebucht)** | |
+| Nächte | Datum         | Ort                | Unterkunft                                                                                  | Hinweise                                                                           |
+| :----- | :------------ | :----------------- | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------- |
+| 14     | 16.02.–02.03. | **Tokyo** (Basis)  | [Shinjuku](https://www.booking.com/hotel/jp/rioxin-su.de.html)                              | Tagesausflüge Yokohama, Kamakura, Nikko. Ende Feb: Pflaumenblüte (Yushima Tenjin). |
+| 3      | 02.03.–05.03. | **Kanazawa**       | [Hotel Kanazawa](https://www.booking.com/hotel/jp/hotel-kanazawa.de.html)                   | Kann noch Schnee haben. Kenrokuen, Omicho-Markt (Sushi).                           |
+| 8      | 05.03.–13.03. | **Kyoto**          | [Kyoto Hotel](https://www.booking.com/hotel/jp/da-ri-si-nosu-jing-du-ji-xiang-yuan.de.html) | Ausflüge Nara & Uji.                                                               |
+| 4      | 13.03.–17.03. | **Osaka**          | [Osaka](https://www.booking.com/hotel/jp/dcying-noyuan-osaka.de.html)                       | ⚡ Haru Basho (Sumo) läuft vermutlich ab 14.03. Inkl. Kobe-Trip.                    |
+| 1      | 17.03.–18.03. | **Kinosaki Onsen** | [Mikuniya](https://www.booking.com/hotel/jp/mikuniya.de.html)                               | Ryokan inkl. Kaiseki-Dinner & Frühstück. Krabbensaison bis Ende März.              |
+| 3      | 18.03.–21.03. | **Hiroshima**      | [Ouchi Hotel](https://www.booking.com/hotel/jp/grand-polestone-otemachi.de.html)            | Inkl. Miyajima (Fähre). Himeji als Zwischenstopp auf der Anreise möglich.          |
+| 4      | 21.03.–25.03. | **Fukuoka**        | [CROSS Life Hakata](https://www.booking.com/hotel/jp/kurosuraihubo-duo-liu-qiao.de.html)    | Yatai-Stände. Kirschblüte in Kyushu startet typischerweise ab ~22.03.              |
+| 3      | 25.03.–28.03. | **Nagasaki**       | [Nagasaki](https://www.booking.com/hotel/jp/oyadoji-yi-guo-wu-long-ting.de.html)            |                                                                                    |
+| 2      | 28.03.–30.03. | **Tokyo**          | *(gebucht)*                                                                                 | Kirschblüte-Vollblüte wahrscheinlich. Souvenirs, entspannen.                       |
+| **42** |               | **Gesamt**         | **3.000 € (gebucht)**                                                                       |                                                                                    |
 
 ---
 
