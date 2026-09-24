@@ -1,12 +1,12 @@
 ---
-title: "🗓️ Route"
+title: 🗓️ Route
 type: privat
 status: in-planung
 tags:
   - Reise
   - Japan
 erstellt: 2025-11-25
-aktualisiert: 2026-09-05
+aktualisiert: 2026-09-24
 ---
 
 # 🗓️ Reiseübersicht
@@ -67,24 +67,21 @@ aktualisiert: 2026-09-05
 > [!NOTE] Diese Tabelle ist die maßgebliche Budget-Quelle
 > Die Übersicht in [[Japan Trip]] fasst dieselben Zahlen nur zusammen. Änderungen immer zuerst hier eintragen.
 
-| Posten | Fix / gebucht | Geschätzt |
-| :----- | ------------: | --------: |
-| Flug FRA–NRT (Direktflug, hin & zurück) | 1.100 € | |
-| Unterkunft, 42 Nächte (inkl. Ryokan Kinosaki) | 3.000 € | |
-| Bahn Fernstrecken (Einzeltickets + Regionalpass) | | 350 € |
-| Inlandsflug Nagasaki → Tokyo | | 120 € |
-| Nahverkehr / Suica + Tagesausflüge | | 400 € |
-| Verpflegung (42 Tage à ~45 €) | | 1.900 € |
-| Eintritte & Aktivitäten | | 350 € |
-| Souvenirs | | 400 € |
-| eSIM (Saily) | | 50 € |
-| **Zwischensumme** | **4.100 €** | **3.570 €** |
-| **Gesamt** | | **7.670 €** |
-| **Puffer** | | **330 €** |
+| Posten                                           | Fix / gebucht |   Geschätzt |
+| :----------------------------------------------- | ------------: | ----------: |
+| Flug FRA–NRT (Direktflug, hin & zurück)          |       1.100 € |             |
+| Unterkunft, 42 Nächte (inkl. Ryokan Kinosaki)    |       3.000 € |             |
+| Bahn Fernstrecken (Einzeltickets + Regionalpass) |               |       350 € |
+| Inlandsflug Nagasaki → Tokyo                     |               |       120 € |
+| Nahverkehr / Suica + Tagesausflüge               |               |       400 € |
+| Verpflegung (42 Tage à ~45 €)                    |               |     1.900 € |
+| Eintritte & Aktivitäten                          |               |       350 € |
+| Souvenirs                                        |               |       400 € |
+| eSIM (Saily)                                     |               |        50 € |
+| **Zwischensumme**                                |   **4.100 €** | **3.570 €** |
+| **Gesamt**                                       |               | **7.670 €** |
+| **Puffer**                                       |               |  **2330 €** |
 
-> [!TIP] Der Puffer ist dünn
-> 330 € auf 6 Wochen sind knapp. Realistisch mit 8.500 € rechnen, oder Souvenirs/Eintritte bewusst deckeln.
-> Verbleibendes Tagesbudget vor Ort: **~85 €/Tag** (ohne Flug & Unterkunft).
 
 ---
 

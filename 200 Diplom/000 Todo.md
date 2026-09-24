@@ -24,7 +24,7 @@ aktualisiert: 2026-09-22
 ## Heute
 - [ ] 2.3 schreiben
 - [ ] 2.2 schreiben
-- [ ] 2.1.2 Fertig schreiben
+- [x] 2.1.2 Fertig schreiben
 ## 🔥 Diese Woche
 - [ ] Modell weiter arbeiten
 - [ ] Stand der Technik schreiben
@@ -45,7 +45,6 @@ aktualisiert: 2026-09-22
 ### Evaluierung & Zero-Shot-Transfer
 - [ ] Methodik Basisregler entscheiden: Ansatz 1 (starr kalibriert) vs. Ansatz 2 (fair nachkalibriert) 🔼
 - [ ] Gespeichertes Modell auf fremde FMU setzen und erneut simulieren
-- [ ] 
 
 ### Schreiben
 ## Overall

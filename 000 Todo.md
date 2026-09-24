@@ -24,9 +24,9 @@ aktualisiert: 2026-09-22
 
 ## 🔥 Diese Woche
 
-- [ ] Lebenslauf udn Notenspiegel rdy machen
+- [x] Lebenslauf udn Notenspiegel rdy machen
 - [ ] Anschreiben machen
-- [ ] Aufschreiben ür welche Projekte ich was gemacht habe
+- [ ] Aufschreiben für welche Projekte ich was gemacht habe
 
 ---
 
