@@ -12,13 +12,13 @@ erstellt: 2026-08-18
 > Wie lassen sich in Dymola mehrere Simulationen parallel ausführen (z. B. Parameterstudien oder Sweeps)? Gibt es dafür eine eingebaute Funktion oder muss das über Python bzw. mehrere Dymola-Instanzen gelöst werden – und wie verhält es sich mit den Lizenzen pro Prozess?
 
 > [!check] Antwort
-> 
+> Multiprocessing nur mit FMU
 
 > [!question] F2 — GPU-Beschleunigung
 > Kann Dymola selbst oder eine daraus exportierte FMU die Berechnung auf die GPU auslagern? Falls nicht: Welche anderen Wege gibt es, die Simulationszeit zu verkürzen (Solver-Wahl, Toleranzen, Modellvereinfachung)?
 
 > [!check] Antwort
-> 
+> Unklar eher nein
 
 ## Modellierung
 
@@ -38,8 +38,13 @@ erstellt: 2026-08-18
 > Wie erstellt man eigene Reglerbausteine in Dymola? Lieber grafisch aus der Modelica-Standardbibliothek (`Modelica.Blocks`) zusammensetzen oder direkt als Modelica-Code in einem eigenen Block? Und wie lassen sich diskrete Logiken (z. B. Abtau-Trigger, Zustandsautomaten, Sollwerte) sauber abbilden?
 
 > [!check] Antwort
-> 
+> Man würde ein neues Modell machen und in Modelica per Equations und when und if bedingungen Schreiben. Geht aber alles ist machbar
 
+> [!question] Iteration Variables
+> wie ist das gemint wenn als Warnung Iterations variablen sind nicht gesetzt aufkommt und wie löst man das reicht es einfach nur modifier anzugegeben um es zu hotfixen oder geht das eleganter
+
+> [!check] Antwort
+> Gibt eine weiter Fortbildung dazu aktueller Stand wird für mich wahrscheinlich sein per Modifier die Variablen für den Start zu setzen
 ## Automatisierung & Export
 
 > [!question] F6 — FMU-Export automatisieren
@@ -52,6 +57,7 @@ erstellt: 2026-08-18
 > Können in Dymola erstellte Plots direkt gespeichert bzw. exportiert werden (als Bild oder Daten, z. B. PNG/SVG/CSV), oder ist das nur über DaVE möglich bzw. innerhalb von Dymola nur durch Screenshots? Lassen sich Plot-Setups für wiederkehrende Auswertungen speichern?
 
 > [!check] Antwort
+> Plot speichern unter Tools möglich dort wird dann das aktive Plot window dargestellt.
 > 
 
 ## System
@@ -60,4 +66,4 @@ erstellt: 2026-08-18
 > Wie gut läuft Dymola unter Linux (Installation, Lizenzierung, Compiler)? Laufen unter Windows exportierte FMUs auch unter Linux, oder müssen sie dort neu kompiliert bzw. mit Linux-Binaries exportiert werden (relevant für das Training auf einem Linux-Rechner/Cluster)?
 
 > [!check] Antwort
-> 
+> Linux sollte problemlos funktionieren mit TIL und Dymola das geht.
