@@ -22,11 +22,11 @@ aktualisiert: 2026-09-22
 
 ---
 ## Heute
-- [ ] 2.3 schreiben
-- [ ] 2.2 schreiben
-- [x] 2.1.2 Fertig schreiben
+- [/] 2.3 schreiben
+- [/] 2.2 schreiben
+- [x] 2.5.3 fertig schreiben
 ## 🔥 Diese Woche
-- [ ] Modell weiter arbeiten
+
 - [ ] Stand der Technik schreiben
 
 
@@ -53,7 +53,7 @@ aktualisiert: 2026-09-22
 - [ ] Ausblick und Diskussion fertig machen
 - [ ] Kapitel 2.5.2 Quellen einfügen
 - [ ] 2.5 nochmal drüberlesen
-	- [ ] DQN fertig machen und QRDQN schreiben
+	- [x] DQN fertig machen und QRDQN schreiben
 	- [ ] 2.5.4 schreiben
 - [ ] 2.6 Quellen nochmal anschauen ob passt
 
@@ -64,7 +64,7 @@ aktualisiert: 2026-09-22
 
 - [ ] Rückmeldung zur DoE-Parameterauswahl → nächstes Meeting mit Tim  #review
 - [ ] Rechenzeit für Master-Training blockieren (8 Parallel-Prozesse, ca. 5–6 h)
-- [ ] Wärmepumpenmodell anpasuungen fertig machen Idee Die Wärmepumpe von Tim machen und nutzen
+- [ ] Modell weiter arbeiten / Lizenz aktuell in Nutzung 
 
 ---
 
