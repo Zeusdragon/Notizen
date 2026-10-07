@@ -29,15 +29,15 @@
 
 ## Zu überprüfende Größen
 
-| Nr. | Größe | Symbol | Einheit | Bedeutung / Begründung | Toleranz |
-|---:|---|---|---|---|---|
-| 1 | COP-Abweichung | ΔCOP | – / % | Hauptkriterium für die Effizienz | tbd |
-| 2 | **Abtauintervall** | t_int | min | Zentrale Zeitkonstante der Arbeit; gleiches ΔCOP bei unterschiedlichem Intervall → Übereinstimmung zufällig | tbd |
-| 3 | Reifmasse zum Auslösezeitpunkt | m_frost | kg | Physikalische Größe hinter der Abtauentscheidung | tbd |
-| 4 | Mittlere Verdampfungstemperatur | T_evap,m | °C | Treibt sowohl Vereisungsrate als auch COP | tbd |
-| 5 | Luftmassenstrom am Zyklusende | ṁ_air,end | kg/s | Maß für die Verblockung des Verdampfers | tbd |
-| 6 | Abtaudauer | t_def | min | Kosten pro Zyklus (Zeit) | tbd |
-| 7 | Abtauenergie | Q_def | kJ | Kosten pro Zyklus (Energie) | tbd |
+| Nr. | Größe                           | Symbol    | Einheit | Bedeutung / Begründung                                                                                      | Toleranz |
+| --: | ------------------------------- | --------- | ------- | ----------------------------------------------------------------------------------------------------------- | -------- |
+|   1 | COP-Abweichung                  | ΔCOP      | – / %   | Hauptkriterium für die Effizienz                                                                            | tbd      |
+|   2 | **Abtauintervall**              | t_int     | min     | Zentrale Zeitkonstante der Arbeit; gleiches ΔCOP bei unterschiedlichem Intervall → Übereinstimmung zufällig | tbd      |
+|   3 | Reifmasse zum Auslösezeitpunkt  | m_frost   | kg      | Physikalische Größe hinter der Abtauentscheidung                                                            | tbd      |
+|   4 | Mittlere Verdampfungstemperatur | T_evap,m  | °C      | Treibt sowohl Vereisungsrate als auch COP                                                                   | tbd      |
+|   5 | Luftmassenstrom am Zyklusende   | ṁ_air,end | kg/s    | Maß für die Verblockung des Verdampfers                                                                     | tbd      |
+|   6 | Abtaudauer                      | t_def     | min     | Kosten pro Zyklus (Zeit)                                                                                    | tbd      |
+|   7 | Abtauenergie                    | Q_def     | kJ      | Kosten pro Zyklus (Energie)                                                                                 | tbd      |
 
 ### Ergebnisse
 
