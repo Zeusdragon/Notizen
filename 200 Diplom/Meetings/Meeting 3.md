@@ -19,9 +19,13 @@ erstellt: 2026-10-07
 
 ### Erledigt seit dem letzten Termin
 - Polynom Verdichter eingepflegt in modell und einführunf von Lüfterdrosselung bei Abtauung
+- Abtaulogik angepasst
 
 ### In Arbeit
 - Struktur Arbeitsdokument
+- Simulation von verschiedenen Frostmodellen und Wärmeübergangsmodellen bei -4, 0 und 4 °C um zushene welches ich verwenden kann
+	- Aktuell wirkt DynFrostICe nicht usable weil Kalibrierung durch echte Messdaten nötig
+	- 
 
 ### Probleme / Blocker
 -
@@ -32,6 +36,7 @@ erstellt: 2026-10-07
 
 > [!question] F1 — Würde Modell vom Aufbau so belassen
 > Nur noch Überprüfung welche Übertragungsmodelle schauen
+> - Für rohrseite sind Steiner und Shahchen interssant doku scheint sich bei steiner zu widersprechen wo nicht ganz klar ist ob es nur bei vertikal oder horizontalen flow gilt
 > 
 
 > [!check] Antwort
@@ -44,7 +49,9 @@ erstellt: 2026-10-07
 > [!check] Antwort
 > 
 
-> [!question] F3 —
+> [!question] F3 — Inhaltsverzeichnis durchgehen
+> - Stand der Technik Reifbildungskapitel bisschen allein
+> - 
 > 
 
 > [!check] Antwort
@@ -60,7 +67,8 @@ erstellt: 2026-10-07
 
 ## 4. Ergebnis & nächste Schritte
 
-- 
-- 
+- Einmal in die Steiner paper nachschauen
+- Inhaltsverzeichnis 
+- Prüfen ob Kondensator Korrelation so genutzt werden können
 
 
