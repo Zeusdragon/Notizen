@@ -28,12 +28,13 @@ aktualisiert: 2026-09-22
 	- [ ] Tabellen und Abbildungsbeschriftung
 	- [ ] Abbildungen und Tabellen einfügen.
 	- [ ] Nochmal drüberlesen
+- [x] Überprüfen ob wenn abtauu modus Heizkurve Verhalten vernünftig ist oder ob dann alle 5s ein 100s daten step genommen wird
 ## 🔥 Diese Woche
 
-- [ ] Stand der Technik schreiben
-- [ ] VErsuchsmatrix machen für Model tests
+- [x] Stand der Technik schreiben
+- [x] VErsuchsmatrix machen für Model tests
 - [ ] Analyse machen
-- [ ] Gespräch mit Tim
+- [x] Gespräch mit Tim
 
 
 ---
