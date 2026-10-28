@@ -33,7 +33,7 @@ aktualisiert: 2026-09-22
 
 - [x] Stand der Technik schreiben
 - [x] VErsuchsmatrix machen für Model tests
-- [ ] Analyse machen
+- [x] Analyse machen
 - [x] Gespräch mit Tim
 
 
