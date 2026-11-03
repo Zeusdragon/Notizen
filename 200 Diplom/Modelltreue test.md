@@ -40,33 +40,6 @@
 |   7 | Abtauenergie                    | Q_def     | kJ      | Kosten pro Zyklus (Energie)                                                                                 | tbd      |
 
 ### Ergebnisse
+![[modelltreue_geometrie.svg]]![[modelltreue_rechenzeit.svg]]![[zeitverlauf_stufe1.png]]
 
-| RunID | ΔCOP | t_int | m_frost | T_evap,m | ṁ_air,end | t_def | Q_def | zulässig? |
-|---:|---|---|---|---|---|---|---|:---:|
-| 1 | | | | | | | | |
-| 2 | | | | | | | | |
-| 3 | | | | | | | | |
-| 4 | | | | | | | | |
-| 5 | | | | | | | | |
-| 6 | | | | | | | | |
-| 7 | | | | | | | | |
-| 8 | | | | | | | | |
-| 9 | | | | | | | | |
-| 10 | | | | | | | | |
-| 11 | | | | | | | | |
-| 12 | | | | | | | | |
-| 13 | | | | | | | | |
-| 14 | | | | | | | | |
-| 15 | | | | | | | | |
-| 16 | | | | | | | | |
-| 17 | | | | | | | | |
-| 18 | | | | | | | | |
-| 19 | | | | | | | | |
-| 20 | | | | | | | | |
-| 21 | | | | | | | | |
-| 22 | | | | | | | | |
-
-### Prüfkriterium (vorab festgelegt)
-
-- Eine Vereinfachung gilt **nur dann als zulässig**, wenn **sowohl ΔCOP als auch das Abtauintervall** innerhalb der Toleranz bleiben.
-- Ist ΔCOP gleich, das Abtauintervall aber deutlich verschoben (z. B. um 30 %), liegt ein **kompensierender Fehler** vor → das ist ein Ergebnis, kein Problem, und wird dokumentiert.
+![[zeitverlauf_stufe3.png]]
