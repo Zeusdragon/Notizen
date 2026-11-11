@@ -23,15 +23,14 @@ erstellt: 2026-11-03
 
 ### In Arbeit
 - Parameterstudie läuft aktuell es
-	- Erste Ergebnisse zeigen das es Varianten gibt wo der Zeit regler zu langsam ist für harte Tage und die Einsatzgrenze Erreicht
-	- BEdarf und RL laufen währendessen stabil
+	- Bedarf und RL laufen währendessen stabil
 
 ### Probleme / Blocker
 - aktuell [[Einsatzgrenze Paramterstudie Zeitregler]] 
 	- Möglichkeiten: 
 		- Notabtauung machen
 		- Als Ergebnis werten (Episoden wurden aber nicht durchgespielt und abgebrochen)
-		- Zeitregler auf die Varianten anpassen 
+		- Zeitregler auf die Varianten anpassen
 		- Zeitregler komplett rausnehmen und nur mit bedarf vergleichen
 
 ---
