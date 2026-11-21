@@ -1,0 +1,6 @@
+{
+  "$comment": "Written by the Prism Obsidian plugin. `blocks` = status of the last render of each viz block, `errors` = errors of those renders, newest first. Line numbers are 1-based note lines. Entries are refreshed whenever a block renders in Obsidian (blocks render when visible). `interrupted` = the block was unloaded before it finished loading; render it with prism-render.mjs to get a result.",
+  "updated": "2026-10-10T00:07:49.610Z",
+  "blocks": {},
+  "errors": []
+}
