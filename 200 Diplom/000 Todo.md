@@ -35,6 +35,8 @@ aktualisiert: 2026-09-22
 - [x] VErsuchsmatrix machen für Model tests
 - [x] Analyse machen
 - [x] Gespräch mit Tim
+- [ ] Anschreiben polina.markdorf@rwth-aachen.de (015753514924) wegen Frostmodell ob es zugänglich ist und ob es universal nutzbar ist oder eine Kalibrierung braucht
+- [ ] VDI 4655 mal durchschauen ob die sinn macht noch für die Arbeit vor allem wegen nominal Temperatur Frankfurt geht um Lastprofile für Gebäude 
 
 
 ---
@@ -61,6 +63,7 @@ aktualisiert: 2026-09-22
 - [ ] Ausblick und Diskussion fertig machen
 - [ ] Kapitel 2.5.2 Quellen einfügen
 - [ ] 2.6 Quellen nochmal anschauen ob passt
+- [ ] 3.4 Bedrafsregler fertig machen
 
 
 ---

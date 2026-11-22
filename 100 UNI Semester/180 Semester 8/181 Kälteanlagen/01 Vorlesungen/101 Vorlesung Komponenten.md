@@ -57,8 +57,9 @@ Stabil = Sicherheit keine Tropfen im Verdichter gleichmäßig überhitzt
 
 
 
-* rechts davon aufhalten und abtasten sich nah genug an der MSS halten + gleichzeitig stabil und soviel kälteleistung wie möglich
-* VEntile kaufen Kälteleistung linie nehmen statiische Überhitzung plus Sicherheit (Öffnungsüberhitzung)
+* rechts davon aufhalten und abtasten sich nah genug an der MSS halten
+* gleichzeitig stabil und soviel kälteleistung wie möglich
+* Ventile kaufen Kälteleistung linie nehmen statiische Überhitzung plus Sicherheit (Öffnungsüberhitzung)
 
 **PRÜFUNG VORAUSSICHTLICH 11.08.2025**
 
